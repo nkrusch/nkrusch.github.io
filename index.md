@@ -19,4 +19,4 @@ I am also a member of a team working on transforming [CSCI 1301 course materials
 
 * * *
 
-[CV](./cv.pdf) &nbsp; &bull; &nbsp; [Github](https://github.com/nkrusch) 
+[CV](./cv.pdf) &nbsp; &nbsp; [Github](https://github.com/nkrusch) 
