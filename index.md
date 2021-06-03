@@ -1,4 +1,4 @@
-I am a first year computer science doctoral student at [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs/), in Augusta Georgia.
+I am a first year computer science doctoral student at [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs/), in Augusta Georgia. My advisor is [Dr. Clément Aubert](https://spots.augusta.edu/caubert/).
 
 ## Contact
 
@@ -6,7 +6,7 @@ I am a first year computer science doctoral student at [Augusta University](http
 
 ## Research
 
-I work with [Dr. Clément Aubert](https://spots.augusta.edu/caubert/) on the [StATyC project](https://spots.augusta.edu/caubert/research/statyc). StATyC stands for "Static Analyses of Program Flows: Types and Certificate for Complexity." I have significantly contributed to refactoring and documentation of our implementation of pymwp, which is an implementation of mwp-analysis of C code in Python ([source code](https://github.com/seiller/pymwp) and [documentation](https://seiller.github.io/pymwp/)). I also gave a talk about this topic at Augusta University's Graduate Research Day in 2021 ([abstract](./posts/grd) and [presentation](https://youtu.be/J8QtGZgTOQM)).
+I work with Clément Aubert, Thomas Seiller and Thomas Rubiano on the [StATyC project](https://spots.augusta.edu/caubert/research/statyc). StATyC stands for "Static Analyses of Program Flows: Types and Certificate for Complexity." I have significantly contributed to refactoring and documentation of our implementation of pymwp, which is an implementation of mwp-analysis of C code in Python ([source code](https://github.com/seiller/pymwp) and [documentation](https://seiller.github.io/pymwp/)). I also gave a talk about this topic at Augusta University's Graduate Research Day in 2021 ([abstract](./posts/grd) and [presentation](https://youtu.be/J8QtGZgTOQM)).
 
 ## Teaching
 
