@@ -1,9 +1,8 @@
 I am a first year computer science doctoral student at 
 [Augusta University](https://www.augusta.edu/) 
 [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs/), 
-in Augusta Georgia. My advisor is 
+in Augusta Georgia ([my CV](./cv.pdf)). My advisor is 
 [Dr. Clément Aubert](https://spots.augusta.edu/caubert/).
-My [CV is here](./cv.pdf).
 
 ## Contact
 
@@ -21,6 +20,11 @@ C code in Python ([source code](https://github.com/seiller/pymwp) and
 [documentation](https://seiller.github.io/pymwp/)). I also gave a talk about 
 this topic at Augusta University's Graduate Research Day in 2021 
 ([abstract](./posts/grd) and [presentation](https://youtu.be/J8QtGZgTOQM)).
+
+#### Papers
+
+- [An extended and more practical mwp flow analysis](https://arxiv.org/abs/2107.00086), 2021 _(draft)_
+- [An implementation of flow calculus for complexity analysis (tool paper)](https://arxiv.org/abs/2107.00097), 2021 _(draft)_
 
 ## Teaching
 
