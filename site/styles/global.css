@@ -1,3 +1,8 @@
+:root{
+  --table-border: #ddd;
+  --table-header-bg: #0000;
+}
+
 html,
 body {
   padding: 0;
@@ -31,4 +36,17 @@ hr {
   height: 2px;
   border:none;
   background: #ddd9;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td{
+  border: 1px solid var(--table-border);
+  padding: 0.25em .5em;
+}
+
+table th{
+  background: var(--table-header-bg);
 }

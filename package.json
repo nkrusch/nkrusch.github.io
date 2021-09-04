@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "remark-gfm": "^2.0.0"
+  }
+}
