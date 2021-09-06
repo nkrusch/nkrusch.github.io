@@ -11,7 +11,7 @@ Fall 2021 | CSCI 7120 | Advance Topics in Computer Security | Hoda Maleki
 Fall 2021 | CSCI 8510 | Independent Study | Harley Eades 
 Fall 2021 | CSCI 8720 | Problems in Computer and Cyber Sciences | Clément Aubert
 Spring 2021 | STAT 7880 | Special Topics | Clément Aubert
-Spring 2021 | CSCI 6900 | Introduction to Research | A. Schwarzmann
+Spring 2021 | CSCI 6900 | Introduction to Research | Alex Schwarzmann
 Fall 2020 | CSCI 5100 | Algorithm Analysis | Bogdan Chlebus
 Spring 2016 | CS 7641 | Machine Learning | Charles Isbell
 Spring 2016 | CS 6601 | Artificial Intelligence | Thad Starner
