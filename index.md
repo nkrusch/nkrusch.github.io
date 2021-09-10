@@ -1,8 +1,11 @@
 I am a first year computer science doctoral student at 
 [Augusta University](https://www.augusta.edu/) 
 [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs/), 
-in Augusta Georgia ([my CV](./cv.pdf)). My advisor is 
+in Augusta Georgia. My advisor is 
 [Dr. Clément Aubert](https://spots.augusta.edu/caubert/).
+
+
+[My CV](./cv.pdf)
 
 ## Contact
 
