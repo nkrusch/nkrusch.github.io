@@ -15,7 +15,7 @@ in Augusta Georgia. My advisor is
 
 I work with Clément Aubert, [Thomas Seiller](https://www.seiller.org/) and 
 [Thomas Rubiano](https://people.irisa.fr/Thomas.Rubiano/) on the 
-[StATyC project](https://spots.augusta.edu/caubert/research/statyc). 
+[StATyCC project](https://spots.augusta.edu/caubert/research/statycc/). 
 StATyC stands for "Static Analyses of Program Flows: Types and Certificate for 
 Complexity." I have significantly contributed to refactoring and documentation 
 of our implementation of pymwp, which is an implementation of mwp-analysis of 
