@@ -17,7 +17,7 @@ I work with Clément Aubert, [Thomas Seiller](https://www.seiller.org/) and
 [Thomas Rubiano](https://people.irisa.fr/Thomas.Rubiano/) on the 
 [StATyCC project](https://spots.augusta.edu/caubert/research/statycc/). 
 StATyCC stands for "Static Analyses of Program Flows: Types and Certificate for 
-Complexity." I have significantly contributed to refactoring and documentation 
+Complexity." I have contributed significantly to development and documentation 
 of our implementation of pymwp, which is an implementation of mwp-analysis of 
 C code in Python ([source code](https://github.com/statycc/pymwp) and 
 [documentation](https://statycc.github.io/pymwp/)). I also gave a talk about 
