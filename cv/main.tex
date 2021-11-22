@@ -23,12 +23,13 @@
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
 
-\documentclass[11pt,letterpaper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\documentclass[10pt,letterpaper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\usepackage{mathpazo}
 
 \moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvcolor{grey} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
-\usepackage[scale=.85]{geometry} % Reduce document margins
+\usepackage[scale=.86]{geometry} % Reduce document margins
 \setlength{\hintscolumnwidth}{2.5cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
@@ -40,9 +41,9 @@
 \familyname{Rusch} % Your last name
 
 % All information in this block is optional, comment out any lines you don't need
-% \title{}
-%\address{814 Michelle court}{Grovetown, GA 30813}
-%\mobile{+1 (706) 550-2028}
+\title{Curriculum vitae}
+%\address{}{}
+%\mobile{}
 \email{nrusch@augusta.edu}
 \homepage{nkrusch.github.io}{nkrusch.github.io}
 
@@ -62,7 +63,7 @@
 \section{Education}
 
 \cventry{2020--present}{PhD student in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
-\cventry{2014--2016}{Master of Science in Computer Science}{Georgia Institute of Technology}{Atlanta, GA USA}{specialization in interactive intelligence}{}
+\cventry{2014--2016}{Master of Science in Computer Science}{Georgia Institute of Technology}{Atlanta, GA USA}{}{}
 \cventry{2011--2014}{Bachelor of Science in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
 
 %----------------------------------------------------------------------------------------
@@ -70,7 +71,7 @@
 %----------------------------------------------------------------------------------------
 
 \section{Teaching Experience}
-\cventry{Augusta University}{CSCI 1301 - Principles of Computer Programming I}{Instructor}{}{}{\small{Taught in fall 2019, spring 2020, fall 2020, spring 2021, summer 2021,  fall 2021.}}
+\cventry{Augusta \\ University}{CSCI 1301 - Principles of Computer Programming I}{Instructor}{}{}{\small{Taught in fall 2019, spring 2020, fall 2020, spring 2021, summer 2021,  fall 2021.}}
 \cventry{}{CSCI 1200 - Introduction to Computers and Programming}{Instructor}{}{}{\small Taught in spring 2019, summer 2019.}
 
 %----------------------------------------------------------------------------------------
@@ -88,16 +89,17 @@
 
 \section{Talks}
 
-\cventry{2021}{The 36th Annual Graduate Research Day}{Augusta University}{}{}{}
+\cventry{2021}{\textnormal{Laboratoire d'Informatique de Paris Nord (LIPN)}}{Université Sorbonne Paris Nord}{November 18}{2021}{}
+\cventry{}{\textnormal{Inria Celtique team seminar}}{IRISA Rennes}{November 15}{2021}{}
+\cventry{}{\textnormal{The 36th Annual Graduate Research Day}}{Augusta University}{March 26}{2021}{}
 
 %----------------------------------------------------------------------------------------
 %	SUMMER/WINTER SCHOOLS
 %----------------------------------------------------------------------------------------
 
-\section{Summer/Winter Schools}
-
-\cventry{2021 \\ June 14-26}{Oregon Programming Languages Summer School} {on Foundations of Programming and Security}{virtual}{}{}
-\cventry{2021 \\ April 12-16}{Midlands Graduate School} {on the Foundations of Computing Science}{virtual}{}{}
+\section{Summer Schools}
+\cventry{2021}{Oregon Programming Languages Summer School} {on Foundations of Programming and Security}{virtual}{June 14--26, 2021}{}
+\cventry{}{Midlands Graduate School} {in the Foundations of Computing Science}{virtual}{April 12--16, 2021}{}
 
 %----------------------------------------------------------------------------------------
 %	SERVICE
@@ -105,7 +107,7 @@
 
 \section{University Service}
 
-\cventry{2021-2022}{TGS - Graduate Student Council}{Augusta University}{}{}{}
+\cventry{2021--2022}{TGS - Graduate Student Council}{Augusta University}{}{}{}
 
 %----------------------------------------------------------------------------------------
 %	AWARDS SECTION
@@ -119,8 +121,6 @@
 
 \cventry{2013}{Savannah River Scholars Program (SRSP) Scholarship}{awarded by Augusta University}{}{}{\small \$7,800 stipend funded by National Science Foundation.}
 
-
-
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
@@ -128,7 +128,9 @@
 \section{Work Experience}
 
 \cventry{2020--2021}{Senior Consultant}{Rural Sourcing Inc.}{Augusta, GA}{web application development}{}{}
+
 \cventry{2018--2019}{Android Developer}{TaxSlayer}{Augusta, GA}{mobile application design and development}{}{}
+
 \cventry{2014--2018}{Software Developer}{TaxSlayer}{Augusta, GA}{web application design and development}{}{}
 
 %----------------------------------------------------------------------------------------
