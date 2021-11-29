@@ -1,52 +1,68 @@
-:root{
-  --table-border: #ddd;
-  --table-header-bg: #0000;
+:root {
+    --table-border: #ddd;
+    --table-header-bg: #eee;
 }
 
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: georgia, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    padding: 0;
+    margin: 0;
+    font-family: georgia, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  line-height: 1.6;
-  font-size: 16px;
+    line-height: 1.6;
+    font-size: 16px;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 a {
-  color: #0070f3;
-  text-decoration: none;
+    color: #0070f3;
+    text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 img {
-  max-width: 100%;
-  display: block;
+    max-width: 100%;
+    display: block;
 }
 
 hr {
-  margin: 2rem 0;
-  height: 2px;
-  border:none;
-  background: #ddd9;
+    margin: 2rem 0;
+    height: 2px;
+    border: none;
+    background: #ddd9;
 }
 
-table{
-  border-collapse: collapse;
-  width: 100%;
-}
-th, td{
-  border: 1px solid var(--table-border);
-  padding: 0.25em .5em;
+table {
+    border-collapse: collapse;
+    width: 100%;
 }
 
-table th{
-  background: var(--table-header-bg);
+th, td {
+    border: 1px solid var(--table-border);
+    padding: 0.25em .5em;
 }
+
+table th {
+    background: var(--table-header-bg);
+}
+
+.slides {
+    background: #333;
+    width: 100%;
+    position: relative;
+    padding-bottom: 75%;
+}
+.slides iframe{
+    box-sizing: border-box;
+    border: none;
+    position: absolute;
+    width: 100%; height:100%;
+    top: 0; bottom: 0; left: 0; right: 0;
+}
+

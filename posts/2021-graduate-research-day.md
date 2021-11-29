@@ -1,7 +1,11 @@
 ---
 title: Certifying the complexity and correctness of critical software
-date: "2021-03-25"
+date: "2021-03-26"
 ---
+
+I presented this talk at Augusta University 2021 Graduate Research Day.
+
+### Abstract
 
 Software powers our everyday lives: from phones to daily interactions to our homes. At the same time software is fraught with bugs causing systems to behave in undesirable ways. When discussing critical software responsible for sustaining human life—such as airplanes, ventilators, and nuclear reactors—being able to guarantee correct behavior is necessary. 
 
