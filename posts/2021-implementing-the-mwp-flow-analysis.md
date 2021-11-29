@@ -12,6 +12,6 @@ Jones and Kristiansen’s mwp-flow analysis certifies polynomial bounds on the s
 
 ### Slides  
 
-<a href="../11152021.pdf" target="_blank">open in new tab</a>
+<a href="../mwp-slides.pdf" target="_blank">open in new tab</a>
 
-<div class="slides"><iframe src="../11152021.pdf#zoom=100"></iframe></div>
+<div class="slides"><iframe src="../mwp-slides.pdf#zoom=100"></iframe></div>
