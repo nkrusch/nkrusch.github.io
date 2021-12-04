@@ -9,16 +9,16 @@
     "update-cv": "cp ../cv/main.pdf public/cv.pdf"
   },
   "dependencies": {
-    "date-fns": "^2.26.0",
+    "date-fns": "^2.27.0",
     "gray-matter": "^4.0.3",
-    "next": "^12.0.4",
+    "next": "^12.0.5",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "rehype-stringify": "^9.0.2",
     "remark-basepath": "^1.0.1",
     "remark-gfm": "^3.0.1",
     "remark-parse": "^10.0.1",
-    "remark-rehype": "^10.0.1",
+    "remark-rehype": "^10.1.0",
     "unified": "^10.1.1"
   }
 }
