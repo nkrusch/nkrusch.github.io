@@ -15,7 +15,7 @@ Spring 2021 | CSCI 6900 | Introduction to Research | [Alex Schwarzmann](https://
 Fall 2020 | CSCI 5100 | Algorithm Analysis | [Bogdan Chlebus](https://www.augusta.edu/faculty/directory/view.php?id=BCHLEBUS)
 Spring 2016 | CS 7641 | Machine Learning | [Charles Isbell](https://en.wikipedia.org/wiki/Charles_Lee_Isbell_Jr.)
 Spring 2016 | CS 6601 | Artificial Intelligence | [Thad Starner](https://en.wikipedia.org/wiki/Thad_Starner)
-Spring 2016 | CS 6250 | Computer Networks | David J Lillethun
+Spring 2016 | CS 6250 | Computer Networks | [David J Lillethun](https://engineering.tufts.edu/cs/people/faculty/david-lillethun)
 Fall 2015 | CS 6460 | Educational Technology | [David Joyner](https://www.cc.gatech.edu/people/david-joyner) 
 Fall 2015 | CS 6440 | Health Informatics | [Mark Braunstein](https://www.cc.gatech.edu/people/mark-braunstein-0)
 Summer 2015 | CS 8803 | Special Topics (OS) | [Ada Gavrilovska](https://www.cc.gatech.edu/home/ada/)
