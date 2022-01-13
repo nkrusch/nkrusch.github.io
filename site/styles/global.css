@@ -38,6 +38,10 @@ hr {
     background: #ddd9;
 }
 
+h2 {
+    margin-top: 2rem;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
@@ -58,11 +62,16 @@ table th {
     position: relative;
     padding-bottom: 75%;
 }
-.slides iframe{
+
+.slides iframe {
     box-sizing: border-box;
     border: none;
     position: absolute;
-    width: 100%; height:100%;
-    top: 0; bottom: 0; left: 0; right: 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 

@@ -24,17 +24,16 @@ Flows: Types and Certificate for Complexity".
 
 ### Talks
 
-- _["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis)_, at IRISA and LIPN, November 2021
-- _["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day)_ , at AU Graduate Research Day, 26 March 2021
+- _["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis)_, IRISA and LIPN, November 2021
+- _["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day)_ , AU Graduate Research Day, March 2021
 
 ## Teaching
 
-I have been an adjunct instructor at Augusta University School of Computer and
-Cyber Sciences since spring 2019. I have taught the following courses:
+I have taught the following courses at Augusta University:
 
-- CSCI 1301 — Principles of Computer Programming I — fall 2019, spring 2020,
+- CSCI 1301 Principles of Computer Programming I — fall 2019, spring 2020,
   fall 2020, spring 2021, summer 2021, fall 2021 
-- CSCI 1200 — Introduction to Computers and Programming — spring 2019, 
+- CSCI 1200 Introduction to Computers and Programming — spring 2019, 
   summer 2019
 
 I am also a member of a team working on transforming [CSCI 1301 course
@@ -44,7 +43,7 @@ materials][1301].
 
 [List of graduate coursework](./posts/coursework)
 
-## Profiles
+* * *
 
 [dblp](https://dblp.org/pid/296/3722) &nbsp;
 [arXiv](https://arxiv.org/search/?query=Rusch%2C+Neea&searchtype=author) &nbsp;
