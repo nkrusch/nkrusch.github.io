@@ -7,7 +7,6 @@ import remarkGfm from 'remark-gfm'
 import remarkRehype from 'remark-rehype'
 import rehypeStringify from 'rehype-stringify'
 import basepath from 'remark-basepath'
-
 import {basePath as bp} from '../next.config'
 
 const rootDirectory = path.join(process.cwd(), '../')
@@ -20,14 +19,14 @@ export async function getIndexData() {
     const matterResult = matter(fileContents)
 
     // Use remark to convert markdown into HTML string
-    const processedContent = await unified()
+    const contentHtml = (await unified()
         .use(basepath, {basePath: bp})
         .use(remarkParse)
         .use(remarkGfm)
         .use(remarkRehype, {allowDangerousHtml: true})
         .use(rehypeStringify, {allowDangerousHtml: true})
-        .process(matterResult.content)
-    const contentHtml = processedContent.toString()
+        .process(matterResult.content))
+        .toString()
 
     // Combine the data with the id and contentHtml
     return {

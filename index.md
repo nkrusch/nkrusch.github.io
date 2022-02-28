@@ -12,29 +12,36 @@ I am a first year computer science doctoral student at [Augusta University][AU]
 
 I work with Clément Aubert, [Thomas Seiller][TS] and [Thomas Rubiano][TR] on the
 [StATyCC project][STATYCC]. StATyCC stands for "Static Analyses of Program
-Flows: Types and Certificate for Complexity".
+Flows: Types and Certificate for Complexity". The project aims at providing new
+static analysis tools based on theoretical results from Implicit computational
+complexity.
 
 - `pymwp` is an implementation of MWP analysis on C code in Python.
-  <br/>[source code](https://github.com/statycc/pymwp) / [documentation](https://statycc.github.io/pymwp/) / [demo](https://statycc.github.io/pymwp/demo/)
+<br/>[source code](https://github.com/statycc/pymwp) | [documentation](https://statycc.github.io/pymwp/) | [demo](https://statycc.github.io/pymwp/demo/)
 
 ### Papers
 
-- [An extended and more practical mwp flow analysis](https://arxiv.org/abs/2107.00086), 2021 _(draft)_ 
-- [An implementation of flow calculus for complexity analysis (tool paper)](https://arxiv.org/abs/2107.00097), 2021 _(draft)_
+- ["An extended and more practical mwp flow analysis"](https://arxiv.org/abs/2107.00086), 2021 (draft)
+- ["An implementation of flow calculus for complexity analysis (tool paper)"](https://arxiv.org/abs/2107.00097), 2021 (draft)
 
 ### Talks
 
-- _["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis)_, IRISA and LIPN, November 2021
-- _["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day)_ , AU Graduate Research Day, March 2021
+<!-- - ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day), AU Graduate Research Day, April 2022 -->
+- ["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis), IRISA and LIPN, November 2021
+- ["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day), AU Graduate Research Day, March 2021
+
+<!-- 
+## Academic services
+
+- [PLDI AEC](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee) 2022
+-->
 
 ## Teaching
 
 I have taught the following courses at Augusta University:
 
-- CSCI 1301 Principles of Computer Programming I — fall 2019, spring 2020,
-  fall 2020, spring 2021, summer 2021, fall 2021 
-- CSCI 1200 Introduction to Computers and Programming — spring 2019, 
-  summer 2019
+- **CSCI 1301 Principles of Computer Programming I**<br/>fall 2019, spring 2020, fall 2020, spring 2021, summer 2021, fall 2021
+- **CSCI 1200 Introduction to Computers and Programming**<br/>spring 2019, summer 2019
 
 I am also a member of a team working on transforming [CSCI 1301 course
 materials][1301].
