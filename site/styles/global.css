@@ -81,7 +81,6 @@ table th {
 }
 
 .slides {
-    border: 1px solid var(--embed-bg);
     background: var(--embed-bg);
     width: 100%;
     position: relative;
