@@ -1,6 +1,7 @@
 :root {
     --table-border: #ddd;
     --table-header-bg: #eee;
+    --embed-bg: #333;
 }
 
 html,
@@ -45,7 +46,8 @@ h2 {
 ul {
     padding-left: 1em;
 }
-li{
+
+li {
     margin-bottom: .25em;
 }
 
@@ -55,12 +57,22 @@ strong {
 
 table {
     border-collapse: collapse;
+    box-sizing: border-box;
     width: 100%;
 }
 
 th, td {
     border: 1px solid var(--table-border);
     padding: 0.25em .5em;
+    box-sizing: border-box;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+th {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 table th {
@@ -69,13 +81,15 @@ table th {
 }
 
 .slides {
-    background: #333;
+    border: 1px solid var(--embed-bg);
+    background: var(--embed-bg);
     width: 100%;
     position: relative;
     padding-bottom: 75%;
 }
 
 .slides iframe {
+    background: var(--embed-bg);
     box-sizing: border-box;
     border: none;
     position: absolute;
@@ -87,3 +101,8 @@ table th {
     right: 0;
 }
 
+@media only screen and (hover: none) and (pointer: coarse) {
+    .slides {
+        display: none!important;
+    }
+}
