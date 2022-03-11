@@ -1,13 +1,16 @@
 ---
-title: Semantic-preserving optimization algorithm for automatic program parallelization
-date: "2022-02-01"
----
+title: "Semantic-preserving optimization algorithm for automatic program parallelization"
+author: "Neea Rusch"
+date: "2022-04-01"
+preface: ""
+presentation: true
 
-### Abstract
+[/1/]: # (embed_title: "Poster")
+[/2/]: # (embed: "../mwp-slides.pdf")
 
-Advanced and resource-intensive computation relies on continuous rise in
-processing power. Since the 1970s, Moore's law accurately predicted this growth
-would be achieved through hardware improvements, but this observation is
+abstract: "Advanced and resource-intensive computation relies on continuous rise
+in processing power. Since the 1970s, Moore's law accurately predicted this
+growth would be achieved through hardware improvements, but this observation is
 becoming progressively obsolete. Alternative approaches are needed to maintain
 increase in efficiency. Parallelization is a technique in which larger
 computational problem is divided into smaller tasks, which are then executed
@@ -25,4 +28,5 @@ post-transformation. We hypothesize this algorithm, when combined with
 OpenMP--an existing state-of-the-art multiprocessing tool--will provide
 noticeable performance gains for resource-intensive computational tasks. An
 open-source tool, pyalp, implementing this algorithm on C programs, is currently
-being developed to demonstrate and measure its efficiency in practice.
+being developed to demonstrate and measure its efficiency in practice."
+---
