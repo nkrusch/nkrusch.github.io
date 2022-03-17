@@ -13,8 +13,8 @@ I am a first year computer science doctoral student at [Augusta University][AU]
 I work with Clément Aubert, [Thomas Seiller][TS] and [Thomas Rubiano][TR] on the
 [StATyCC project][STATYCC]. StATyCC stands for "Static Analyses of Program
 Flows: Types and Certificate for Complexity". The project aims at providing new
-static analysis tools based on theoretical results from Implicit computational
-complexity.
+static analysis tools based on theoretical results from Implicit Computational
+Complexity.
 
 `pymwp` is an implementation of MWP analysis on C code in Python.<br/>
 [source code](https://github.com/statycc/pymwp)
