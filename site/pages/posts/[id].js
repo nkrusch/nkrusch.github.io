@@ -13,7 +13,7 @@ const Abstract = ({text}) => {
 }
 
 const EmbedMedia = ({path, title}) => {
-    const src = `${path}#zoom=100`
+    const src = `${path}#view=FitH`
     return <div>
         {title && <h3>{title}</h3>}
         <a href={path} target="_blank">open in new tab</a><br/><br/>
@@ -25,7 +25,7 @@ const EmbedMedia = ({path, title}) => {
 
 const Presentation = ({preface, abstract, embed, embed_title}) => {
     return <>
-        {preface && <p>{preface}</p>}
+        {preface && <p dangerouslySetInnerHTML={{__html:preface}}/>}
         {abstract && <Abstract text={abstract}/>}
         {embed && <EmbedMedia path={embed} title={embed_title}/>}
     </>

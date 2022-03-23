@@ -2,8 +2,9 @@
 title: "Certifying the complexity and correctness of critical software"
 author: "Neea Rusch"
 date: "2021-03-26"
-preface: "I presented this talk at Augusta University 2021 Graduate Research Day
-on March 26, 2021."
+preface: "Presented at <a
+href='https://www.augusta.edu/gradschool/grd-2021.php'>Augusta University 2021
+Graduate Research Day</a> on March 26, 2021."
 presentation : true
 
 abstract: "Software powers our everyday lives: from phones to daily interactions

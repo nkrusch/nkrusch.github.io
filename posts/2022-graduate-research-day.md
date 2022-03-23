@@ -1,12 +1,16 @@
 ---
-title: "Semantic-preserving optimization algorithm for automatic program parallelization"
+title: "Semantic-preserving optimization algorithm for automatic program
+parallelization"
 author: "Neea Rusch"
 date: "2022-04-01"
-preface: ""
+preface: "At Augusta University <a
+href='https://www.augusta.edu/gradschool/grd.php'>Graduate Research Day 2022</a>
+on April 1, 2022."
+
 presentation: true
 
-[/1/]: # (embed_title: "Poster")
-[/2/]: # (embed: "../mwp-slides.pdf")
+embed_title: "Poster"
+embed: "../grd_poster.pdf"
 
 abstract: "Advanced and resource-intensive computation relies on continuous rise
 in processing power. Since the 1970s, Moore's law accurately predicted this

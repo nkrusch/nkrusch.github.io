@@ -84,7 +84,7 @@ table th {
     background: var(--embed-bg);
     width: 100%;
     position: relative;
-    padding-bottom: 75%;
+    padding-bottom: 85%;
 }
 
 .slides iframe {
