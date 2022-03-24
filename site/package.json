@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "postbuild": "next-sitemap",
+    "postbuild222": "next-sitemap",
     "start": "next start",
     "update-cv": "cp ../cv/main.pdf public/cv.pdf",
     "clean": "rm -rf out && rm -rf .next"
@@ -14,7 +14,6 @@
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",
     "next": "^12.1.0",
-    "next-sitemap": "^2.5.14",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "rehype-stringify": "^9.0.3",
