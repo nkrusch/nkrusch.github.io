@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "postbuild": "next-sitemap",
+    "!postbuild": "next-sitemap",
     "start": "next start",
     "update-cv": "cp ../cv/main.pdf public/cv.pdf",
     "clean": "rm -rf out && rm -rf .next"

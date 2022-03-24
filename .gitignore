@@ -30,6 +30,4 @@ yarn-error.log*
 *.gz
 *.log
 *.out
-site/public/robots.txt
-site/public/sitemap*
 site/out

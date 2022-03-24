@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nkrusch.github.io
+
+# Sitemaps
+Sitemap: https://nkrusch.github.io/sitemap.xml
