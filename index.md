@@ -35,7 +35,7 @@ Complexity.
 - ["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day), 
   AU Graduate Research Day, March 2021
 
-## Academic services
+## Service
 
 - [PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee), artifact evaluation committee
 
