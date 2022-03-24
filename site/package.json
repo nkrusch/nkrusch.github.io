@@ -10,7 +10,7 @@
     "update-cv": "cp ../cv/main.pdf public/cv.pdf",
     "clean": "rm -rf out && rm -rf .next"
   },
-  "dependencies": {
+  "devDependencies": {
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",
     "next": "^12.1.0",
@@ -22,6 +22,7 @@
     "remark-gfm": "^3.0.1",
     "remark-parse": "^10.0.1",
     "remark-rehype": "^10.1.0",
-    "unified": "^10.1.2"
+    "unified": "^10.1.2",
+    "@types/node": "^17.0.23"
   }
 }
