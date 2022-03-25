@@ -2,14 +2,13 @@
 title: "Certifying the complexity and correctness of critical software"
 author: "Neea Rusch"
 date: "2021-03-26"
-preface: "Presented at <a
-href='https://www.augusta.edu/gradschool/grd-2021.php'>Augusta University 2021
-Graduate Research Day</a> on March 26, 2021."
 presentation : true
 
-abstract: "Software powers our everyday lives: from phones to daily interactions
-to our homes. At the same time software is fraught with bugs causing systems to
-behave in undesirable ways. When discussing critical software responsible for
+preface: "Presented at Augusta University [36th Annual Graduate Research Day](https://www.augusta.edu/gradschool/grd-2021.php) on March 26, 2021."
+
+abstract: "Software powers our everyday lives: from phones to daily interactions to our
+homes. At the same time software is fraught with bugs causing systems to behave
+in undesirable ways. When discussing critical software responsible for
 sustaining human life—such as airplanes, ventilators, and nuclear reactors—being
 able to guarantee correct behavior is necessary.
 
@@ -29,9 +28,10 @@ programs while building trust and confidence in the end-result.
 Using dependency analysis inspired by Implicit Computational Complexity, we
 apply those techniques to program transformations. Among these techniques is
 ensuring program's variables grow within reasonable bounds thus providing a
-certification in term of memory footprint and possibly run-time, in addition to
+certification in terms of memory footprint and possibly run-time, in addition to
 certifying its behavior. Implementing this analysis is one of the goals of our
 research."
+
 ---
 
 

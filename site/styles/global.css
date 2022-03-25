@@ -2,6 +2,9 @@
     --table-border: #ddd;
     --table-header-bg: #eee;
     --embed-bg: #333;
+    --emphasis: #0070f3;
+    --btn-text: #fff;
+    --divider: #ddd9
 }
 
 html,
@@ -19,7 +22,7 @@ body {
 }
 
 a {
-    color: #0070f3;
+    color: var(--emphasis);
     text-decoration: none;
 }
 
@@ -36,7 +39,7 @@ hr {
     margin: 2rem 0;
     height: 2px;
     border: none;
-    background: #ddd9;
+    background: var(--divider);
 }
 
 h2 {
@@ -100,8 +103,32 @@ table th {
     right: 0;
 }
 
+button, .button {
+    background: transparent;
+    padding: .35rem .85rem;
+    border: none;
+    color: var(--emphasis);
+    outline: 2px solid var(--emphasis);
+    border-radius: 3px;
+    line-height: 1;
+    cursor: pointer;
+    transition: background-color .1s ease;
+    font-weight: 500;
+    font-size: 0.9em;
+}
+
+button:focus, .button:focus,
+button:hover, .button:hover, a.button:hover {
+    text-decoration: none;
+    background: var(--emphasis);
+    color: var(--btn-text);
+}
+
+.button-spacer{width:1em; display: inline-block}
+
 @media only screen and (hover: none) and (pointer: coarse) {
     .slides {
-        display: none!important;
+        display: none !important;
     }
 }
+

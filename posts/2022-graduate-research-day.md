@@ -3,14 +3,11 @@ title: "Semantic-preserving optimization algorithm for automatic program
 parallelization"
 author: "Neea Rusch"
 date: "2022-04-01"
-preface: "At Augusta University <a
-href='https://www.augusta.edu/gradschool/grd.php'>Graduate Research Day 2022</a>
-on April 1, 2022."
-
 presentation: true
-
 embed_title: "Poster"
 embed: "../grd_poster.pdf"
+
+preface: "At Augusta University [37th Annual Graduate Research Day](https://www.augusta.edu/gradschool/grd.php) on April 1, 2022."
 
 abstract: "Advanced and resource-intensive computation relies on continuous rise
 in processing power. Since the 1970s, Moore's law accurately predicted this
@@ -33,4 +30,5 @@ OpenMP--an existing state-of-the-art multiprocessing tool--will provide
 noticeable performance gains for resource-intensive computational tasks. An
 open-source tool, pyalp, implementing this algorithm on C programs, is currently
 being developed to demonstrate and measure its efficiency in practice."
+
 ---
