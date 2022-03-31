@@ -15,7 +15,7 @@ export default function Post({postData}) {
         </Head>
         <article>
             <h1 className={utilStyles.headingXl}>{title}</h1>
-            <div className={utilStyles.lightText}>
+            <div className={utilStyles.lightText} style={{fontSize: '90%'}}>
                 <Date dateString={date}/>
             </div>
             {presentation && <Presentation {...postData} />}
