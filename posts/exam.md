@@ -3,8 +3,6 @@ title: PhD research proficiency examination
 date: "2022-03-31"
 ---
 
-# PhD research proficiency examination
-
 This page is for me to post relevant information regarding my PhD research proficiency examination.
 
 ### Exam date
