@@ -7,7 +7,7 @@ presentation: true
 embed_title: "Poster"
 embed: "../grd_poster.pdf"
 
-preface: "At Augusta University [37th Annual Graduate Research Day](https://www.augusta.edu/gradschool/grd.php) on April 1, 2022."
+preface: "Presented at Augusta University [37th Annual Graduate Research Day](https://www.augusta.edu/gradschool/grd.php) on April 1, 2022."
 
 abstract: "Advanced and resource-intensive computation relies on continuous rise
 in processing power. Since the 1970s, Moore's law accurately predicted this
