@@ -2,5 +2,6 @@
 
 module.exports = {
     siteUrl: process.env.SITE_URL,
-    generateRobotsTxt: true
+    generateRobotsTxt: true,
+    changefreq: 'weekly',
 }

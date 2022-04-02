@@ -11,14 +11,14 @@ between May 16-20, 2022 (TBD)
 
 ### Proposed list of papers
 
-- Gilles Barthe, Delphine Demange, and David Pichardie. _“Formal Verification
-   of an SSA-based Middle-end for CompCert”_. In: ACM Transactions on
-   Programming Languages and Systems 36.1 (Mar. 2014), 1–35. issn: 0164-0925.
-   doi: 10.1145/2579080.
+- Gilles Barthe, Delphine Demange, and David Pichardie. _“Formal Verification of
+  an SSA-based Middle-end for CompCert”_. In: ACM Transactions on Programming
+  Languages and Systems 36.1 (Mar. 2014), 1–35. issn: 0164-0925. doi:
+  10.1145/2579080.
 
 - Amir M Ben-Amram and Geoff Hamilton. _“Tight Polynomial Worst-Case Bounds for
-   Loop Programs”_. In: Logical Methods in Computer Science 16.2 (May 2020),
-   4:1–4:39.
+  Loop Programs”_. In: Logical Methods in Computer Science 16.2 (May 2020),
+  4:1–4:39.
 
 - Jacques-Henri Jourdan et al. _“A formally-verified C static analyzer”_. In:
   ACM SIGPLAN Notices 50.1 (Jan. 2015), pp. 247–259. issn: 0362-1340. doi:
@@ -34,7 +34,7 @@ between May 16-20, 2022 (TBD)
 
 - Jean-Yves Moyen. _“Implicit Complexity in Theory and Practice“_. HDR,
   University of Copenhagen, 2017. URL:
-  <https://lipn.univ-paris13.fr/~moyen/papiers/Habilitation_JY_Moyen.pdf>
+  https://lipn.univ-paris13.fr/~moyen/papiers/Habilitation_JY_Moyen.pdf
 
 
 
