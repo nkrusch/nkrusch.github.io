@@ -11,6 +11,8 @@ between May 16-20, 2022 (TBD)
 
 ### Proposed list of papers
 
+Committee members can obtain these papers following [this link][box].
+
 - Gilles Barthe, Delphine Demange, and David Pichardie. _“Formal Verification of
   an SSA-based Middle-end for CompCert”_. In: ACM Transactions on Programming
   Languages and Systems 36.1 (Mar. 2014), 1–35. issn: 0164-0925. doi:
@@ -33,8 +35,7 @@ between May 16-20, 2022 (TBD)
   Verification and Analysis. Springer, 2017.
 
 - Jean-Yves Moyen. _“Implicit Complexity in Theory and Practice“_. HDR,
-  University of Copenhagen, 2017. URL:
-  https://lipn.univ-paris13.fr/~moyen/papiers/Habilitation_JY_Moyen.pdf
+  University of Copenhagen, 2017.
 
 
 
@@ -51,3 +52,4 @@ between May 16-20, 2022 (TBD)
 | 🔲  | May 13th          | the panel send Neea a list of written questions / comments on her document             |
 | 🔲  | Week of May 16-20 | the oral exam, in front of the panel and after having invited fellow graduate students |
 
+[box]: https://augustauniversity.box.com/s/o40239kvx3r2fs75j9zc95qed3vus9fi
