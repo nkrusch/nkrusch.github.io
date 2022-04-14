@@ -1,6 +1,6 @@
 ---
 title: PhD research proficiency examination 
-date: "2022-04-01"
+date: "2022-04-14"
 ---
 
 Relevant information regarding my PhD research proficiency examination.
@@ -9,7 +9,7 @@ Relevant information regarding my PhD research proficiency examination.
 
 between May 16-20, 2022 (TBD)
 
-### Proposed list of papers
+### List of papers
 
 Committee members can obtain these papers following [this link][box].
 
@@ -22,13 +22,13 @@ Committee members can obtain these papers following [this link][box].
   Loop Programs”_. In: Logical Methods in Computer Science 16.2 (May 2020),
   4:1–4:39.
 
-- Jacques-Henri Jourdan et al. _“A formally-verified C static analyzer”_. In:
-  ACM SIGPLAN Notices 50.1 (Jan. 2015), pp. 247–259. issn: 0362-1340. doi:
-  10.1145/2775051.2676966.
-
 - Neil D. Jones and Lars Kristiansen. _“A flow calculus of _mwp_-bounds
   for complexity analysis“_. ACM Trans. Comput. Logic 10, 4, Article 28 (August
   2009). doi: 10.1145/1555746.1555752
+
+- Jacques-Henri Jourdan et al. _“A formally-verified C static analyzer”_. In:
+  ACM SIGPLAN Notices 50.1 (Jan. 2015), pp. 247–259. issn: 0362-1340. doi:
+  10.1145/2775051.2676966.
 
 - Moyen, Jean-Yves, Thomas Rubiano, and Thomas Seiller. _“Loop quasi-invariant
   chunk detection“_. International Symposium on Automated Technology for
@@ -45,7 +45,7 @@ Committee members can obtain these papers following [this link][box].
 |:---:|:------------------|:---------------------------------------------------------------------------------------|
 | ✔️  | March 28          | possible composition of the panel is sent to program director                          |
 | ✔️  | April 1st         | the panel is approved, and the list of paper is shared                                 |
-| 🔲  | April 11th        | the committee approves the list of papers or requests / suggests edits                 |
+| ✔️  | April 11th        | the committee approves the list of papers or requests / suggests edits                 |
 | 🔲  | April 25          | the "Pre-Approval Form" is sent to TGS                                                 |
 | 🔲  | May 2nd           | submission of written document to panel                                                |
 | 🔲  | May 2nd           | invitations to oral exam are sent to fellow graduate students                          |
