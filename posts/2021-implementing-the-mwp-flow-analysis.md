@@ -16,7 +16,7 @@ instead of focusing on states in isolation. While simple to use, this
 theoretical result is difficult to prove correct and implement. Here we detail
 the challenges a naive implementation has to face, and how we remedied them to
 offer a fast, efficient and extended implementation of the technique. The
-result, pymwp, is a lightweight tool to automatically perform data-size analysis
+result, `pymwp`, is a lightweight tool to automatically perform data-size analysis
 of C programs. This effort prepares and enables the development of certified
 complexity analysis, by transforming a costly analysis into a tractable program,
 that leverages compositionality and decorrelates the problem of finding the

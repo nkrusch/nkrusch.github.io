@@ -45,7 +45,7 @@ Committee members can obtain these papers following [this link][box].
 |:---:|:------------------|:---------------------------------------------------------------------------------------|
 | ✔️  | March 28          | possible composition of the panel is sent to program director                          |
 | ✔️  | April 1st         | the panel is approved, and the list of paper is shared                                 |
-| ✔️  | April 11th        | the committee approves the list of papers or requests / suggests edits                 |
+| ✔️  | April 11th        | the committee approves the list of papers                                              |
 | 🔲  | April 25          | the "Pre-Approval Form" is sent to TGS                                                 |
 | 🔲  | May 2nd           | submission of written document to panel                                                |
 | 🔲  | May 2nd           | invitations to oral exam are sent to fellow graduate students                          |
