@@ -28,7 +28,7 @@ Complexity.
 
 ### Talks
 
-- ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day), poster, 
+- ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day) (poster), 
   AU Graduate Research Day, April 2022 
 - ["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis), 
   IRISA and LIPN, November 2021
