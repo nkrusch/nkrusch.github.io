@@ -53,7 +53,8 @@ transforming [CSCI 1301 course materials][1301].
 
 ## Studies
 
-[List of graduate coursework](./posts/coursework)
+- [PhD proficiency exam details](./posts/exam)
+- [List of graduate coursework](./posts/coursework)
 
 * * *
 

@@ -51,7 +51,7 @@ Committee members can obtain these papers following [this link][box].
 | ✔️  | April 11 | the committee approves the list of papers                                  |
 | ✔️  | April 25 | the "Pre-Approval Form" is sent to TGS                                     |
 | ✔️  | May 2    | submission of written document to panel                                    |
-| 🔲  | May 2    | invitations to oral exam are sent to fellow graduate students              |
+| ✔️  | May 2    | invitations to oral exam are sent to fellow graduate students              |
 | 🔲  | May 13   | the panel send Neea a list of written questions / comments on her document |
 | 🔲  | May 17   | the oral exam, in front of the panel                                       |
 
