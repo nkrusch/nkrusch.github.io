@@ -44,7 +44,7 @@ Committee members can obtain these papers following [this link][box].
 
 ### Timeline and plan
 
-|     | Dates    | Description                                                                |
+|     | Date     | Description                                                                |
 |:---:|:---------|:---------------------------------------------------------------------------|
 | ✔️  | March 28 | possible composition of the panel is sent to program director              |
 | ✔️  | April 1  | the panel is approved, and the list of paper is shared                     |
