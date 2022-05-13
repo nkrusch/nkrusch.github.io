@@ -1,13 +1,17 @@
 ---
 title: PhD research proficiency examination 
-date: "2022-05-02"
+date: "2022-05-12"
 ---
 
 Relevant information regarding my PhD research proficiency examination.
 
-### Exam date
+### Exam date & location
 
-May 17, 2022 12:00 - 14:00
+May 17, 2022 11:00 - 13:00
+
+College of Education's conference room, University Hall 2nd floor, Summerville Campus.
+
+<a href="https://map.concept3d.com/?id=824#!m/268018" target='blank'>Map</a>
 
 ### Exam document
 
