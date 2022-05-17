@@ -1,6 +1,6 @@
 ---
 title: PhD research proficiency examination 
-date: "2022-05-12"
+date: "2022-05-16"
 ---
 
 Relevant information regarding my PhD research proficiency examination.
@@ -9,11 +9,12 @@ Relevant information regarding my PhD research proficiency examination.
 
 May 17, 2022 11:00 - 13:00
 
-College of Education's conference room, University Hall 2nd floor, Summerville Campus.
+College of Education's conference room
+<br/>Room 227, University Hall 2nd floor, Summerville Campus.
 
 <a href="https://map.concept3d.com/?id=824#!m/268018" target='blank'>Map</a>
 
-### Exam document
+### Written document
 
 _<a href="../exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
 Applications to Real-World Programs"</a>_
