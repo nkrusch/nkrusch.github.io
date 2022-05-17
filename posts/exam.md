@@ -1,6 +1,6 @@
 ---
 title: PhD research proficiency examination 
-date: "2022-05-16"
+date: "2022-05-17"
 ---
 
 Relevant information regarding my PhD research proficiency examination.
@@ -14,10 +14,12 @@ College of Education's conference room
 
 <a href="https://map.concept3d.com/?id=824#!m/268018" target='blank'>Map</a>
 
-### Written document
+### Documents
 
-_<a href="../exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
+- _<a href="../exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
 Applications to Real-World Programs"</a>_
+
+- <a href="../exam_slides.pdf" target="blank">Presentation slides</a>
 
 ### List of papers
 
@@ -57,10 +59,6 @@ Committee members can obtain these papers following [this link][box].
 | ✔️  | April 25 | the "Pre-Approval Form" is sent to TGS                                     |
 | ✔️  | May 2    | submission of written document to panel                                    |
 | ✔️  | May 2    | invitations to oral exam are sent to fellow graduate students              |
-| 🔲  | May 13   | the panel send Neea a list of written questions / comments on her document |
-| 🔲  | May 17   | the oral exam, in front of the panel                                       |
-
-
-
+| ✔️  | May 17   | the oral exam, in front of the panel                                       |
 
 [box]: https://augustauniversity.box.com/s/o40239kvx3r2fs75j9zc95qed3vus9fi
