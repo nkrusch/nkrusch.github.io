@@ -1,12 +1,13 @@
 ---
 title: Graduate coursework 
-date: "2022-01-13"
+date: "2022-05-18"
 ---
 
 <br/>
 
 | Semester | Course    | Title                                   | Instructor                                                                             |
 |:---------|:----------|:----------------------------------------|:---------------------------------------------------------------------------------------|
+| 2022 SU  | CSCI 8510 | Independent Study (ML)                  | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2022 SP  | CSCI 7500 | Theory of Computation                   | [Konstantin Busch](https://web2.augusta.edu/faculty/directory/view.php?id=KBUSCH)      |
 | 2022 SP  | CSCI 7620 | Data Science                            | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2021 FA  | CSCI 7120 | Advance Topics in Computer Security     | [Hoda Maleki](https://www.augusta.edu/faculty/directory/view.php?id=HMALEKI)           |
