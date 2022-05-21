@@ -3,6 +3,7 @@
     --table-header-bg: #eee;
     --embed-bg: #333;
     --emphasis: #0070f3;
+    --emphasis-bg: #bbdefb55;
     --btn-text: #fff;
     --divider: #ddd9
 }
@@ -25,10 +26,10 @@ a {
     color: var(--emphasis);
     text-decoration: none;
 }
-
-a:hover {
+a:hover, a:focus{
     text-decoration: underline;
 }
+
 
 img {
     max-width: 100%;
@@ -40,10 +41,6 @@ hr {
     height: 2px;
     border: none;
     background: var(--divider);
-}
-
-h2 {
-    margin-top: 2rem;
 }
 
 ul {

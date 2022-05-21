@@ -3,7 +3,9 @@ title: Teaching
 date: "2022-05-20"
 ---
 
-<br/>
+I have taught at [Augusta University](https://www.augusta.edu/)
+[School of Computer & Cyber Sciences](https://www.augusta.edu/ccs), 
+the following courses:
 
 | Semester    | Course title (enrollment)                                                |                       |
 |:------------|:-------------------------------------------------------------------------|-----------------------|
