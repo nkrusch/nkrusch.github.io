@@ -31,3 +31,5 @@ yarn-error.log*
 *.log
 *.out
 site/out
+main.fdb_latexmk
+main.fls
