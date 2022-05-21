@@ -14,7 +14,7 @@ The project aims at providing new static analysis tools based on theoretical res
 
 I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial machine learning.
 
-### Publications
+## Publications
 
 - ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03596285)
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
@@ -29,7 +29,7 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
   <br/>_In submission._
 
 
-### Talks & Presentations                                                                                                                                                         
+## Talks & Presentations                                                                                                                                                         
 
 - ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day)<br/>AU Graduate Research Day (poster), April 2022 🏆 
 
@@ -37,7 +37,7 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
 
 - ["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day)<br/>AU Graduate Research Day, March 2021                               
 
-### Software
+## Software
 
 [`pymwp`][PYMWP] - implementation of _mwp_-analysis on C code in Python.
 
@@ -52,8 +52,7 @@ I have taught at Augusta University many programming courses: [details](./posts/
 
 ## Studies
 
-- [PhD proficiency exam](./posts/exam)
-- [List of graduate coursework](./posts/coursework)
+[PhD proficiency exam](./posts/exam) &nbsp; &nbsp; [List of graduate coursework](./posts/coursework)
 
 ---
 
