@@ -4,29 +4,29 @@ I am a computer science doctoral student at [Augusta University][AU]
 
 **Contact** &nbsp; [`nrusch@augusta.edu`][@]
 
-**Resume** &nbsp; [view pdf][CV]
+**Resume** &nbsp; [view or download][CV]
 
 ## Research
 
 I work with Clément Aubert, [Thomas Seiller][TS] and [Thomas Rubiano][TR] on the
-[StATyCC project][STATYCC]. StATyCC stands for "Static Analyses of Program Flows: Types and Certificates for Complexity". 
+"Static Analyses of Program Flows: Types and Certificates for Complexity" [(StATyCC) project][STATYCC]. 
 The project aims at providing new static analysis tools based on theoretical results from Implicit Computational Complexity.
 
-I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial machine learning.
+I also work with [Gagan Agrawal][GA] on IoT cyber-attack detection and adversarial machine learning.
 
 ## Publications
 
 - ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03596285)
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
-  <br/>_To appear at FSCD 2022._ 
+  <br/>_To appear at [FSCD 2022](https://www.cs.tau.ac.il/~nachumd/FSCD/)._ [[source]][PYMWP] [[demo]](https://statycc.github.io/pymwp/demo/)
 
 - ["Realizing Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03603510)
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
-  <br/>_To appear at TYPES 2022._
+  <br/>_To appear at [TYPES 2022](https://types22.inria.fr/)._
 
 - ["A Novel Loop Fission Technique Inspired by Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03669387)
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
-  <br/>_In submission._
+  <br/>_In submission (5/2022)._ [[benchmarks]](https://github.com/statycc/icc-fission)
 
 
 ## Talks & Presentations                                                                                                                                                         
@@ -43,7 +43,7 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
 
 ## Service
 
-Artifact evaluation committee &mdash; [ICFP 2022](https://icfp22.sigplan.org/track/icfp-2022-artifact-evaluation) and
+Artifact evaluation committee [ICFP 2022](https://icfp22.sigplan.org/track/icfp-2022-artifact-evaluation) and
 [PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).
 
 ## Teaching
@@ -52,7 +52,9 @@ I have taught at Augusta University many programming courses: [details](./posts/
 
 ## Studies
 
-[PhD proficiency exam](./posts/exam) &nbsp; &nbsp; [List of graduate coursework](./posts/coursework)
+[PhD proficiency exam](./posts/exam)
+
+[List of graduate coursework](./posts/coursework)
 
 ---
 
