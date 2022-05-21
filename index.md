@@ -26,30 +26,29 @@ Complexity.
 - ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://arxiv.org/abs/2203.03943)
   , 2022 (draft)
 
-### Talks
 
-- ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day) (poster), 
-  AU Graduate Research Day, April 2022 
-- ["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis), 
-  IRISA and LIPN, November 2021
-- ["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day), 
-  AU Graduate Research Day, March 2021
+
+| Talks & Presentations                                                                                                                                                          |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day)<br/>AU Graduate Research Day (poster), April 2022, 🏆 |
+| ["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis)<br/>IRISA and LIPN, November 2021                                                      |
+| ["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day)<br/>AU Graduate Research Day, March 2021                                |
 
 ## Service
 
-- [PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee), artifact evaluation committee
+Artifact evaluation committee:  [ICFP 2022](https://icfp22.sigplan.org/track/icfp-2022-artifact-evaluation) and
+ [PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).
 
 ## Teaching
 
 I have taught the following courses at Augusta University:
 
-- **CSCI 1301 Principles of Computer Programming I**<br/>fall 2019, spring 2020,
-  fall 2020, spring 2021, summer 2021, fall 2021
-- **CSCI 1200 Introduction to Computers and Programming**<br/>spring 2019,
-  summer 2019
+- CSCI 1301 Principles of Computer Programming I 
+- CSCI 1200 Introduction to Computers and Programming                                           
 
-I am also a member of a team working on
-transforming [CSCI 1301 course materials][1301].
+Details on [teaching experience](./posts/teaching).
+
+I also participated in transformation of [CSCI 1301 course materials][1301].
 
 ## Studies
 
