@@ -6,9 +6,6 @@ I am a computer science doctoral student at [Augusta University][AU]
 
 **Resume** &nbsp; [view pdf][CV]
 
-
----
-
 ## Research
 
 I work with Clément Aubert, [Thomas Seiller][TS] and [Thomas Rubiano][TR] on the
@@ -44,8 +41,6 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
 
 [`pymwp`][PYMWP] - implementation of _mwp_-analysis on C code in Python.
 
----
-
 ## Service
 
 Artifact evaluation committee &mdash; [ICFP 2022](https://icfp22.sigplan.org/track/icfp-2022-artifact-evaluation) and
@@ -62,7 +57,6 @@ I have taught at Augusta University many programming courses: [details](./posts/
 
 ---
 
-**Links** &nbsp;
 [dblp](https://dblp.org/pid/296/3722) &nbsp;
 [arXiv](https://arxiv.org/search/?query=Rusch%2C+Neea&searchtype=author) &nbsp;
 [orcid](https://orcid.org/0000-0002-7354-5330) &nbsp;
