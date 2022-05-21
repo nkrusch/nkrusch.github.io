@@ -1,6 +1,6 @@
 ---
 title: PhD research proficiency examination 
-date: "2022-05-17"
+date: "2022-05-21"
 ---
 
 Relevant information regarding my PhD research proficiency examination.
@@ -16,10 +16,10 @@ College of Education's conference room
 
 ### Documents
 
-- _<a href="../exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
+_<a href="../exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
 Applications to Real-World Programs"</a>_
 
-- <a href="../exam_slides.pdf" target="blank">Presentation slides</a>
+<a href="../exam_slides.pdf" target="blank">Presentation slides</a>
 
 ### List of papers
 
@@ -34,16 +34,16 @@ Committee members can obtain these papers following [this link][box].
   Loop Programs”_. In: Logical Methods in Computer Science 16.2 (May 2020),
   4:1–4:39.
 
-- Neil D. Jones and Lars Kristiansen. _“A flow calculus of _mwp_-bounds
-  for complexity analysis“_. ACM Trans. Comput. Logic 10, 4, Article 28 (August
+- Neil D. Jones and Lars Kristiansen. _“A Flow Calculus of _mwp_-Bounds
+  for Complexity Analysis“_. ACM Trans. Comput. Logic 10, 4, Article 28 (August
   2009). doi: 10.1145/1555746.1555752
 
-- Jacques-Henri Jourdan et al. _“A formally-verified C static analyzer”_. In:
+- Jacques-Henri Jourdan et al. _“A Formally-Verified C Static Analyzer”_. In:
   ACM SIGPLAN Notices 50.1 (Jan. 2015), pp. 247–259. issn: 0362-1340. doi:
   10.1145/2775051.2676966.
 
-- Moyen, Jean-Yves, Thomas Rubiano, and Thomas Seiller. _“Loop quasi-invariant
-  chunk detection“_. International Symposium on Automated Technology for
+- Moyen, Jean-Yves, Thomas Rubiano, and Thomas Seiller. _“Loop Quasi-Invariant
+  Chunk Detection“_. International Symposium on Automated Technology for
   Verification and Analysis. Springer, 2017.
 
 - Jean-Yves Moyen. _“Implicit Complexity in Theory and Practice“_. HDR,
