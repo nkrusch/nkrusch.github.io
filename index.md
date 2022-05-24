@@ -1,10 +1,8 @@
 I am a computer science doctoral student at [Augusta University][AU]
 [School of Computer and Cyber Sciences][CCS], in Augusta Georgia. My advisor is
-[Dr. Clément Aubert][CA].
+[Dr. Clément Aubert][CA]. [View my CV here][CV].
 
 **Contact** &nbsp; [`nrusch@augusta.edu`][@]
-
-**Resume** &nbsp; [view or download][CV]
 
 ## Research
 
@@ -54,7 +52,7 @@ I have taught at Augusta University many programming courses: [details](./posts/
 
 [PhD proficiency exam](./posts/exam)
 
-[List of graduate coursework](./posts/coursework)
+[Graduate coursework](./posts/coursework)
 
 ---
 
