@@ -5,27 +5,25 @@ import Link from 'next/link'
 
 const name = 'Neea Rusch'
 const description = 'Homepage'
-export const siteTitle = 'Neea Rusch'
+export const siteTitle = name
 
 export default function Layout({children, home}) {
     return (
         <div className={styles.container}>
             <Head>
-                <meta name="description" content={description}/>
                 <meta name="og:title" content={siteTitle}/>
+                <meta name="description" content={description}/>
                 <meta name="twitter:card" content="summary_large_image"/>
                 <title>{siteTitle}</title>
             </Head>
-            <header className={styles.header}>
-                {
-                    home ? (<h1 className={utilStyles.heading2Xl}>{name}</h1>) :
-                        <h2 className={utilStyles.headingLg}>
-                            <Link href="/">
-                                <a className={utilStyles.colorInherit}>{name}</a>
-                            </Link>
-                        </h2>
-                }
-            </header>
+            <header className={styles.header}>{
+                home ? (<h1 className={utilStyles.heading2Xl}>{name}</h1>) :
+                    <h2 className={utilStyles.headingLg}>
+                        <Link href="/">
+                            <a className={utilStyles.colorInherit}>{name}</a>
+                        </Link>
+                    </h2>
+            } </header>
             <main>{children}</main>
             {!home && (
                 <div className={styles.backToHome}>

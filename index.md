@@ -1,6 +1,6 @@
 I am a computer science doctoral student at [Augusta University][AU]
 [School of Computer and Cyber Sciences][CCS], in Augusta Georgia. My advisor is
-[Dr. Clément Aubert][CA]. [View my CV here][CV].
+[Dr. Clément Aubert][CA]. You can find [my CV here][CV].
 
 **Contact** &nbsp; [`nrusch@augusta.edu`][@]
 
@@ -26,7 +26,6 @@ I also work with [Gagan Agrawal][GA] on IoT cyber-attack detection and adversari
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
   <br/>_In submission (5/2022)._ [[benchmarks]](https://github.com/statycc/icc-fission)
 
-
 ## Talks & Presentations                                                                                                                                                         
 
 - ["Semantic-preserving optimization algorithm for automatic program parallelization"](./posts/2022-graduate-research-day)<br/>AU Graduate Research Day (poster), April 2022 🏆 
@@ -34,10 +33,6 @@ I also work with [Gagan Agrawal][GA] on IoT cyber-attack detection and adversari
 - ["Implementing the mwp-flow analysis"](./posts/2021-implementing-the-mwp-flow-analysis)<br/>IRISA and LIPN, November 2021                                                     
 
 - ["Certifying the complexity and correctness of critical software"](./posts/2021-graduate-research-day)<br/>AU Graduate Research Day, March 2021                               
-
-## Software
-
-[`pymwp`][PYMWP] - implementation of _mwp_-analysis on C code in Python.
 
 ## Service
 
@@ -78,7 +73,5 @@ I have taught at Augusta University many programming courses: [details](./posts/
 [TR]: https://people.irisa.fr/Thomas.Rubiano/
 
 [STATYCC]: https://spots.augusta.edu/caubert/research/statycc/
-
-[1301]: https://csci-1301.github.io/about.html
 
 [PYMWP]: https://github.com/statycc/pymwp
