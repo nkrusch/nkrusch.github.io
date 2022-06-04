@@ -36,7 +36,7 @@ I also work with [Gagan Agrawal][GA] on IoT cyber-attack detection and adversari
 
 ## Service
 
-Artifact evaluation committee [ICFP 2022](https://icfp22.sigplan.org/track/icfp-2022-artifact-evaluation) and
+Artifact evaluation committee [ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
 [PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).
 
 ## Teaching
