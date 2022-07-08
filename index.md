@@ -22,10 +22,6 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller 
   <br/>[TYPES 2022](https://types22.inria.fr/).
 
-- ["A Novel Loop Fission Technique Inspired by Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03669387)
-  <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
-  <br/>_In submission (5/2022)._ [[benchmarks]](https://github.com/statycc/icc-fission)
-
 ## Service
 
 Artifact evaluation committee [ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
