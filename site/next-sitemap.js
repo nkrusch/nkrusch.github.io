@@ -9,6 +9,8 @@ module.exports = {
         await config.transform(config, 'exam_doc.pdf'),
         await config.transform(config, 'exam_slides.pdf'),
         await config.transform(config, 'types22_slides.pdf'),
-        await config.transform(config, 'types22_paper.pdf')
+        await config.transform(config, 'types22_paper.pdf'),
+        await config.transform(config, 'mwp_slides.pdf'),
+        await config.transform(config, 'grd_poster.pdf')
     ]
 }

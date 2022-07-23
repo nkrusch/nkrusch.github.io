@@ -4,7 +4,7 @@ author: "Neea Rusch"
 date: "2021-11-15"
 presentation : true
 embed_title: "Slides"
-embed: "../mwp-slides.pdf"
+embed: "../mwp_slides.pdf"
 
 preface: "I presented this talk on 15 November at IRISA [Celtique](https://team.inria.fr/celtique/) research lab seminar and on 18 November at [LIPN](https://lipn.univ-paris13.fr/) seminar at University of Paris 13."
 
