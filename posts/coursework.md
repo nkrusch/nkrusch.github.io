@@ -28,20 +28,20 @@ date: "2022-06-03"
 | 2014 FA  | [CS 6300][6300]   | Software Development Process            | [Alessandro Orso](https://www.cc.gatech.edu/~orso/)                                    |
 
 
-[7500]: /files/csci_7500.pdf
-[7620]: /files/csci_7620.pdf
-[7120]: /files/csci_7120.pdf
+[7500]: /syllabus/csci_7500.pdf
+[7620]: /syllabus/csci_7620.pdf
+[7120]: /syllabus/csci_7120.pdf
 [8720]: https://spots.augusta.edu/caubert/teaching/2021/fall/csci8720/
 [7880]: https://spots.augusta.edu/caubert/teaching/2021/spring/stat7880/
-[6900]: /files/csci_6900.pdf
-[5100]: /files/csci_5100.pdf
-[7641]: /files/cs_7641.pdf
-[6601]: /files/cs_6601.pdf
-[6460]: /files/cs_6460.pdf
-[6440]: /files/cs_6440.pdf
-[8803]: /files/cs_8803.pdf
-[7637]: /files/cs_7637.pdf
-[6475]: /files/cs_6475.pdf
-[7683]: /files/cs_7683.pdf
-[6520]: /files/6250_topics.pdf
-[6300]: /files/6300_topics.pdf
+[6900]: /syllabus/csci_6900.pdf
+[5100]: /syllabus/csci_5100.pdf
+[7641]: /syllabus/cs_7641.pdf
+[6601]: /syllabus/cs_6601.pdf
+[6460]: /syllabus/cs_6460.pdf
+[6440]: /syllabus/cs_6440.pdf
+[8803]: /syllabus/cs_8803.pdf
+[7637]: /syllabus/cs_7637.pdf
+[6475]: /syllabus/cs_6475.pdf
+[7683]: /syllabus/cs_7683.pdf
+[6520]: /syllabus/6250_topics.pdf
+[6300]: /syllabus/6300_topics.pdf

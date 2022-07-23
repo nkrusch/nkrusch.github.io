@@ -10,22 +10,25 @@ I work with Clément Aubert, [Thomas Seiller][TS] and [Thomas Rubiano][TR] on th
 "Static Analyses of Program Flows: Types and Certificates for Complexity" [(StATyCC) project][STATYCC]. 
 The project aims at providing new static analysis tools based on theoretical results from Implicit Computational Complexity.
 
-I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial machine learning on IoT devices.
+I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial machine learning.
 
 ## Publications
 
 - ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03596285)
+  to appear at [FSCD 2022](https://www.cs.tau.ac.il/~nachumd/FSCD/).
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
-  <br/>_To appear at [FSCD 2022](https://www.cs.tau.ac.il/~nachumd/FSCD/)._ [[source]][PYMWP] [[demo]](https://statycc.github.io/pymwp/demo/)
+  <br/>[[paper]](https://hal.archives-ouvertes.fr/hal-03596285)
+  [[source code]][PYMWP] [[demo]](https://statycc.github.io/pymwp/demo/)
 
-- ["Realizing Implicit Computational Complexity"](./types22_paper.pdf)
-  <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller 
-  <br/>[TYPES 2022](https://types22.inria.fr/).
+- ["Realizing Implicit Computational Complexity"](./types22_paper.pdf) at [TYPES 2022](https://types22.inria.fr/).
+  <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller
+  <br/>[[paper]](../types22_paper.pdf) [[slides]](../types22_slides.pdf)
 
 ## Service
 
 Artifact evaluation committee [ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
-[PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).
+[PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee) and
+[APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec).
 
 ## Talks & Presentations                                                                                                                                                         
 
@@ -43,7 +46,7 @@ I have taught at Augusta University many programming courses [[details]](./posts
 
 ## Studies
 
-[PhD proficiency exam](./posts/exam)
+[PhD research proficiency exam](./posts/exam)
 
 [Graduate coursework](./posts/coursework)
 
