@@ -15,9 +15,10 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
 ## Publications
 
 - ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03596285)
-  to appear at [FSCD 2022](https://www.cs.tau.ac.il/~nachumd/FSCD/).
+  at [FSCD 2022](https://www.cs.tau.ac.il/~nachumd/FSCD/).
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
   <br/>[[paper]](https://hal.archives-ouvertes.fr/hal-03596285)
+  [[slides]](https://easychair.org/smart-slide/slide/HbVz#)
   [[source code]][PYMWP] [[demo]](https://statycc.github.io/pymwp/demo/)
 
 - ["Realizing Implicit Computational Complexity"](./types22_paper.pdf) at [TYPES 2022](https://types22.inria.fr/).
