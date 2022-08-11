@@ -14,16 +14,18 @@ I also work with [Gagan Agrawal][GA] on cyber-attack detection and adversarial m
 
 ## Publications
 
-- ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://hal.archives-ouvertes.fr/hal-03596285)
+- ["mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"](https://drops.dagstuhl.de/opus/volltexte/2022/16307/)
   at [FSCD 2022](https://www.cs.tau.ac.il/~nachumd/FSCD/).
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller.
-  <br/>[[paper]](https://hal.archives-ouvertes.fr/hal-03596285)
+  <br/>[[paper]](https://drops.dagstuhl.de/opus/volltexte/2022/16307/pdf/LIPIcs-FSCD-2022-26.pdf)
   [[slides]](https://easychair.org/smart-slide/slide/HbVz#)
   [[source code]][PYMWP] [[demo]](https://statycc.github.io/pymwp/demo/)
 
-- ["Realizing Implicit Computational Complexity"](./types22_paper.pdf) at [TYPES 2022](https://types22.inria.fr/).
+- ["Realizing Implicit Computational Complexity"](https://types22.inria.fr/files/2022/06/TYPES_2022_paper_14.pdf) 
+  at [TYPES 2022](https://types22.inria.fr/).
   <br/>Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller
-  <br/>[[paper]](../types22_paper.pdf) [[slides]](../types22_slides.pdf)
+  <br/>[[paper]](https://types22.inria.fr/files/2022/06/TYPES_2022_paper_14.pdf)
+  [[slides]](https://types22.inria.fr/files/2022/06/TYPES_2022_slides_14.pdf)
 
 ## Service
 
@@ -47,9 +49,9 @@ I have taught at Augusta University many programming courses [[details]](./posts
 
 ## Studies
 
-[PhD research proficiency exam](./posts/exam)
+- [PhD research proficiency exam](./posts/exam)
 
-[Graduate coursework](./posts/coursework)
+- [Graduate coursework](./posts/coursework)
 
 ---
 

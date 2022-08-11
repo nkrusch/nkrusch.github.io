@@ -1,17 +1,19 @@
 ---
 title: Graduate coursework 
-date: "2022-06-03"
+date: "2022-08-11"
 ---
 
 <br/>
 
 | Semester | Course            | Title                                   | Instructor                                                                             |
 |:---------|:------------------|:----------------------------------------|:---------------------------------------------------------------------------------------|
-| 2022 SU  | CSCI 8510         | Independent Study (ML)                  | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
+| 2022 FA  | CSCI 7810         | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
+| 2022 FA  | CSCI 8970         | Research Exposure                       |                                                                                        |
+| 2022 SU  | CSCI 8510         | Independent Study (Network Security)    | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2022 SP  | [CSCI 7500][7500] | Theory of Computation                   | [Konstantin Busch](https://web2.augusta.edu/faculty/directory/view.php?id=KBUSCH)      |
 | 2022 SP  | [CSCI 7620][7620] | Data Science                            | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2021 FA  | [CSCI 7120][7120] | Advance Topics in Computer Security     | [Hoda Maleki](https://www.augusta.edu/faculty/directory/view.php?id=HMALEKI)           |
-| 2021 FA  | CSCI 8510         | Independent Study                       | [Harley Eades](https://metatheorem.org)                                                |
+| 2021 FA  | CSCI 8510         | Independent Study (PL)                  | [Harley Eades](https://metatheorem.org)                                                |
 | 2021 FA  | [CSCI 8720][8720] | Problems in Computer and Cyber Sciences | [Clément Aubert](https://spots.augusta.edu/caubert/)                                   |
 | 2021 SP  | [STAT 7880][7880] | Special Topics                          | [Clément Aubert](https://spots.augusta.edu/caubert/)                                   |
 | 2021 SP  | [CSCI 6900][6900] | Introduction to Research                | [Alex Schwarzmann](https://www.augusta.edu/faculty/directory/view.php?id=ASCHWARZMANN) |
