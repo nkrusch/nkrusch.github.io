@@ -3,7 +3,7 @@ title: Teaching experience
 date: "2022-05-20"
 ---
 
-I have taught at [Augusta University](https://www.augusta.edu/)
+I have taught at [Augusta University](https://www.augusta.edu/),
 [School of Computer & Cyber Sciences](https://www.augusta.edu/ccs), 
 the following courses:
 
@@ -18,7 +18,7 @@ the following courses:
 | 2019 SU     | [CSCI 1200 - Introduction to Computers and Programming][SY1200SU19] (7)  | [Catalog][CA12001819] |
 | 2019 SP     | [CSCI 1200 - Introduction to Computers and Programming][SY1200SP19] (17) | [Catalog][CA12001819] |
 
-I also participated in transformation of [CSCI 1301 course materials](https://csci-1301.github.io/about.html).
+In 2021 I participated in transformation of [CSCI 1301 course materials](https://csci-1301.github.io/about.html).
 
 [^1]: Co-teaching assignment
 
