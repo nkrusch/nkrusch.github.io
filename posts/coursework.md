@@ -1,6 +1,6 @@
 ---
 title: Graduate coursework 
-date: "2022-08-11"
+date: "2022-10-16"
 ---
 
 <br/>
@@ -8,7 +8,7 @@ date: "2022-08-11"
 | Semester | Course            | Title                                   | Instructor                                                                             |
 |:---------|:------------------|:----------------------------------------|:---------------------------------------------------------------------------------------|
 | 2022 FA  | CSCI 7810         | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
-| 2022 FA  | CSCI 8970         | Research Exposure                       |                                                                                        |
+| 2022 FA  | CSCI 8970         | Research Exposure                       | [Gursimran Walia](http://www.gursimransinghwalia.com/)                                 |
 | 2022 SU  | CSCI 8510         | Independent Study (Network Security)    | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2022 SP  | [CSCI 7500][7500] | Theory of Computation                   | [Konstantin Busch](https://web2.augusta.edu/faculty/directory/view.php?id=KBUSCH)      |
 | 2022 SP  | [CSCI 7620][7620] | Data Science                            | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
