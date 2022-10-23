@@ -7,10 +7,11 @@ You can find [my CV here](./cv.pdf).
 
 ## Research
 
-I work with Clément Aubert, [Thomas Seiller](https://www.seiller.org) and 
+I work with Clément Aubert, 
+[Thomas Seiller](https://www.seiller.org) and 
 [Thomas Rubiano](https://people.irisa.fr/Thomas.Rubiano/)
-on the "Static Analyses of Program Flows: Types and
-Certificates for Complexity" [(StATyCC) project](https://spots.augusta.edu/caubert/research/statycc/). 
+on the "Static Analyses of Program Flows: Types and Certificates for Complexity" 
+[(StATyCC) project](https://spots.augusta.edu/caubert/research/statycc/). 
 The project aims at providing new static analysis tools based on
 theoretical results from Implicit Computational Complexity.
 
@@ -22,8 +23,10 @@ on network intrusion detection and adversarial machine learning.
 ## Service
 
 Artifact evaluation committee 
-[ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and 
-[PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee) and 
+[ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) 
+and 
+[PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee) 
+and 
 [APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec).
 
 ## Talks & Presentations                                                                                                                                                         
