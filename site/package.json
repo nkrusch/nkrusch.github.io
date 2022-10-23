@@ -4,12 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
-    "!postbuild": "next-sitemap",
     "start": "next start",
-    "update-cv": "cp ../cv/main.pdf public/cv.pdf",
-    "clean": "rm -rf out && rm -rf .next",
-    "sitemap": "npm run build && next-sitemap --config next-sitemap.js"
+    "build": "next build && next-sitemap --config next-sitemap.js && next export",
+    "clean": "rm -rf out && rm -rf .next"
   },
   "devDependencies": {
     "date-fns": "^2.29.3",
