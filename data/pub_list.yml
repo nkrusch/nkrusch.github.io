@@ -1,0 +1,19 @@
+- fscd:
+    title: "mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"
+    url: https://drops.dagstuhl.de/opus/volltexte/2022/16307/
+    venue: FSCD'22
+    venue_url: https://www.cs.tau.ac.il/~nachumd/FSCD/
+    author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
+    paper: https://drops.dagstuhl.de/opus/volltexte/2022/16307/pdf/LIPIcs-FSCD-2022-26.pdf
+    slides: https://easychair.org/smart-slide/slide/HbVz#
+    code: https://github.com/statycc/pymwp
+    demo: https://statycc.github.io/pymwp/demo
+
+- types:
+    title: Realizing Implicit Computational Complexity
+    url: https://types22.inria.fr/files/2022/06/TYPES_2022_paper_14.pdf
+    venue: TYPES'22
+    venue_url: https://types22.inria.fr
+    author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
+    paper: https://types22.inria.fr/files/2022/06/TYPES_2022_paper_14.pdf
+    slides: https://types22.inria.fr/files/2022/06/TYPES_2022_slides_14.pdf

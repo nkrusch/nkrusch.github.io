@@ -26,7 +26,8 @@ const EmbedMedia = ({path, title}) => {
     </div>
 }
 
-export default function Presentation({preface, abstract, abs_plain, embed, embed_title}) {
+export default function Presentation(
+    {preface, abstract, abs_plain, embed, embed_title}) {
     return <>
         {preface && <Preface text={preface}/>}
         {abstract && <Abstract text={abstract} plain={abs_plain}/>}

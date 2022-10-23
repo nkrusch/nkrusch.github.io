@@ -37,7 +37,6 @@ async function ParseElement(matterData) {
 }
 
 export async function getPostData(id) {
-    console.log(id)
     if (id === "index") return getIndexData();
 
     const fullPath = path.join(postsDirectory, `${id}.md`)
