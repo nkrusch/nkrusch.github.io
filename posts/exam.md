@@ -16,10 +16,10 @@ College of Education's conference room
 
 ### Documents
 
-1. <a href="../exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
+1. <a href="../files/exam_doc.pdf" target="blank">"On Implicit Computational Complexity with
 Applications to Real-World Programs"</a>
 
-2. <a href="../exam_slides.pdf" target="blank">Presentation slides</a>
+2. <a href="../files/exam_slides.pdf" target="blank">Presentation slides</a>
 
 ### List of papers
 

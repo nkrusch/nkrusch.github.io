@@ -9,7 +9,7 @@ import rehypeStringify from 'rehype-stringify'
 import basepath from 'remark-basepath'
 import {basePath as bp} from '../next.config'
 
-const rootDirectory = path.join(process.cwd(), '../')
+const rootDirectory = path.join(process.cwd(), './')
 
 export async function getIndexData() {
     const fullPath = path.join(rootDirectory, `index.md`)

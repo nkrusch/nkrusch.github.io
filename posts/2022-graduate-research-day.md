@@ -5,7 +5,7 @@ author: "Neea Rusch"
 date: "2022-04-01"
 presentation: true
 embed_title: "Poster"
-embed: "../grd_poster.pdf"
+embed: "../files/grd_poster.pdf"
 
 preface: "Presented at Augusta University [37th Annual Graduate Research Day](https://www.augusta.edu/gradschool/grd.php) on 1 April 2022.
 This presentation was recognized with _Excellence in Research - Computer & Cyber Sciences_ award by The Graduate School."

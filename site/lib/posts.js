@@ -8,6 +8,7 @@ import remarkRehype from 'remark-rehype'
 import rehypeStringify from 'rehype-stringify'
 import basepath from "remark-basepath";
 import {basePath as bp} from "../next.config";
+import {getIndexData} from "./index";
 
 const postsDirectory = path.join(process.cwd(), '../posts')
 
@@ -36,6 +37,9 @@ async function ParseElement(matterData) {
 }
 
 export async function getPostData(id) {
+    console.log(id)
+    if (id === "index") return getIndexData();
+
     const fullPath = path.join(postsDirectory, `${id}.md`)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     // Use gray-matter to parse the post metadata section

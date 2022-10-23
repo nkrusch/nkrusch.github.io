@@ -6,11 +6,11 @@ module.exports = {
     changefreq: 'weekly',
     additionalPaths: async (config) => [
         await config.transform(config, 'cv.pdf'),
-        await config.transform(config, 'exam_doc.pdf'),
-        await config.transform(config, 'exam_slides.pdf'),
-        await config.transform(config, 'types22_slides.pdf'),
-        await config.transform(config, 'types22_paper.pdf'),
-        await config.transform(config, 'mwp_slides.pdf'),
-        await config.transform(config, 'grd_poster.pdf')
+        await config.transform(config, 'files/exam_doc.pdf'),
+        await config.transform(config, 'files/exam_slides.pdf'),
+        await config.transform(config, 'files/types22_slides.pdf'),
+        await config.transform(config, 'files/types22_paper.pdf'),
+        await config.transform(config, 'files/mwp_slides.pdf'),
+        await config.transform(config, 'files/grd_poster.pdf')
     ]
 }
