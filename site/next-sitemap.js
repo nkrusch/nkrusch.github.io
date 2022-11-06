@@ -1,7 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 
 module.exports = {
-    siteUrl: process.env.SITE_URL,
+    siteUrl: 'https://nkrusch.github.io',
     generateRobotsTxt: true,
     changefreq: 'weekly',
     additionalPaths: async (config) => [
