@@ -1,13 +1,13 @@
 ---
 title: Graduate coursework 
-date: "2022-10-16"
+date: "2022-11-11"
 ---
 
 <br/>
 
 | Semester | Course            | Title                                   | Instructor                                                                             |
 |:---------|:------------------|:----------------------------------------|:---------------------------------------------------------------------------------------|
-| 2022 FA  | CSCI 7810         | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
+| 2022 FA  | [CSCI 7810][7810] | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
 | 2022 FA  | CSCI 8970         | Research Exposure                       | [Gursimran Walia](http://www.gursimransinghwalia.com/)                                 |
 | 2022 SU  | CSCI 8510         | Independent Study (Network Security)    | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2022 SP  | [CSCI 7500][7500] | Theory of Computation                   | [Konstantin Busch](https://web2.augusta.edu/faculty/directory/view.php?id=KBUSCH)      |
@@ -29,7 +29,7 @@ date: "2022-10-16"
 | 2014 FA  | [CS 8803][7683]   | Special Topics (Robotics)               | [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun)                       |
 | 2014 FA  | [CS 6300][6300]   | Software Development Process            | [Alessandro Orso](https://www.cc.gatech.edu/~orso/)                                    |
 
-
+[7810]: /syllabus/csci_7810.pdf
 [7500]: /syllabus/csci_7500.pdf
 [7620]: /syllabus/csci_7620.pdf
 [7120]: /syllabus/csci_7120.pdf

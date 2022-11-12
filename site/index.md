@@ -27,7 +27,10 @@ Artifact evaluation committee
 and 
 [PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee) 
 and 
-[APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec).
+[APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec)
+and
+[PPoPP 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee).
+
 
 ## Talks & Presentations                                                                                                                                                         
 
