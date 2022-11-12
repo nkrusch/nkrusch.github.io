@@ -4,21 +4,27 @@ import utilStyles from '../styles/utils.module.css'
 const Pub = (
     {
         id, title, url, venue, venue_url, author, paper, slides, code,
-        demo
+        demo, artifact, preprint
     }) => {
     return <div key={id} className={utilStyles.itemListItem}>
         <div>
-            <Href href={url} label={`"${title}"`}/>
+            { url ? <Href href={url} label={`"${title}"`}/> :
+                `"${title}"` }
             {venue ?
-                <> at <Href href={venue_url} label={venue}/></>
-                : null}.
+                <> at { venue_url ?
+                    <Href href={venue_url} label={venue}/> : venue }
+                </> : null}.
         </div>
         <div>{author}</div>
-        {(paper || slides || code || demo) ?
+        {(paper || slides || code || demo || artifact || preprint) ?
             <div className={utilStyles.pubLinks}>
                 {paper ? <Href href={paper} label="paper" pref={'['}
                 post={']'} className={utilStyles.pubLinks_a}/> : null}
+                {preprint ? <Href href={preprint} label="preprint" pref={'['}
+                post={']'} className={utilStyles.pubLinks_a}/> : null}
                 {slides ? <Href href={slides} label="slides" pref={'['}
+                post={']'} className={utilStyles.pubLinks_a}/> : null}
+                {artifact ? <Href href={artifact} label="artifact" pref={'['}
                 post={']'} className={utilStyles.pubLinks_a}/> : null}
                 {code ? <Href href={code} label="code" pref={'['}
                 post={']'} className={utilStyles.pubLinks_a}/> : null}

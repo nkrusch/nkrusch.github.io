@@ -19,8 +19,8 @@ export function getAllPostIds() {
             params: {
                 id: fileName.replace(/\.md$/, '')
             }
-        }
-    })
+        };
+    });
 }
 
 async function ParseElement(matterData) {

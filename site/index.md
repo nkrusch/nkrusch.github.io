@@ -18,6 +18,8 @@ theoretical results from Implicit Computational Complexity.
 I also work with [Gagan Agrawal]( https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL) 
 on network intrusion detection and adversarial machine learning.
 
+### Papers
+
 <!-- PUB -->
 
 ## Service
@@ -41,6 +43,8 @@ and
 I have taught at Augusta University many programming courses [[details]](./posts/teaching).
 
 ## Studies
+
+- [PhD research proposal](./posts/proposal)
 
 - [PhD research proficiency exam](./posts/exam)
 

@@ -3,15 +3,17 @@ import Date from './date'
 import utilStyles from '../styles/utils.module.css'
 
 const Talk = ({id, title, url, where, when}) => {
-    return <div key={id} className={utilStyles.itemListItem}>
-        <div>
-            <Link href={url}>{`"${title}"`}</Link>
+    return (
+        <div key={id} className={utilStyles.itemListItem}>
+            <div>
+                <Link href={url} legacyBehavior>{`"${title}"`}</Link>
+            </div>
+            <div>
+                <span>{where}</span>,{" "}
+                <Date dateString={when} fmt={'LLLL yyyy'}/>.
+            </div>
         </div>
-        <div>
-            <span>{where}</span>,{" "}
-            <Date dateString={when} fmt={'LLLL yyyy'}/>.
-        </div>
-    </div>
+    );
 }
 
 export default function Talks({data}) {
