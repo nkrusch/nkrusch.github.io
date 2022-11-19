@@ -31,8 +31,9 @@ and
 and 
 [APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec)
 and
-[PPoPP 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee).
-
+[PPoPP 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee)
+and
+[ECOOP 2023](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee).
 
 ## Talks & Presentations                                                                                                                                                         
 
