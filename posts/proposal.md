@@ -1,6 +1,6 @@
 ---
 title: PhD Research Proposal
-date: "2022-11-11"
+date: "2022-11-19"
 ---
 
 Details about PhD research proposal process.
