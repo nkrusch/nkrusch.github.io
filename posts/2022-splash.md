@@ -19,4 +19,4 @@ This project defines a 3-directional plan---focused on practical analysis, compi
 
 ### Paper 
 
-[[preprint]](../files/splash22-pp.pdf)
+[[preprint]](../files/splashcomp22-p10.pdf)

@@ -7,6 +7,13 @@
       preprint: https://hal.archives-ouvertes.fr/hal-03669387v2/document
       artifact: https://zenodo.org/record/7080145
 
+#- splash:
+#    title: "Formally Verified Resource Bounds through Implicit Computational Complexity"
+#    url: ./files/splashcomp22-p10.pdf
+#    venue: SPLASH'22 Doctoral Symposium
+#    venue_url: https://2022.splashcon.org/track/splash-2022-Doctoral-Symposium
+#    author: "Neea Rusch"
+
 - fscd:
     title: "mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"
     url: https://drops.dagstuhl.de/opus/volltexte/2022/16307/
