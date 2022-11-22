@@ -25,15 +25,16 @@ on network intrusion detection and adversarial machine learning.
 ## Service
 
 Artifact evaluation committee 
-[ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) 
-and 
-[PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee) 
-and 
-[APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec)
+
+2022:
+[APLAS 2022](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec) and
+[ICFP 2022](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
+[PLDI 2022](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).  
+
+2023:
+[ECOOP 2023](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee)
 and
-[PPoPP 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee)
-and
-[ECOOP 2023](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee).
+[PPoPP 2023](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee).
 
 ## Talks & Presentations                                                                                                                                                         
 
