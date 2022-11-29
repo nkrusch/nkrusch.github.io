@@ -24,8 +24,6 @@ The research proposal must conform to the following format:
 
 ### Forms
 
-- [Advisory commitee form](https://www.augusta.edu/gradschool/documents/advisory-committee-phd.pdf)
-- [Coursework proposal form](https://www.augusta.edu/gradschool/documents/coursework_proposal-phd.pdf)
 - [Research proposal form](https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf)
 - [Research proposal Evaluation Rubric](https://www.augusta.edu/gradschool/documents/2018-research-proposal-rubric.pdf)
 - [Research Proposal Confirmation form](https://www.augusta.edu/gradschool/documents/research_proposal_confirmation_form.docx)
@@ -41,5 +39,4 @@ The research proposal must conform to the following format:
 |     | December 16    | Presentation in front of the panel and fellow graduate students  |
 |     | December 19-23 | Submission of research proposal to TGS Dean's office             |
 |     | December 19-23 | Submission of "Research Proposal" form to TGS Dean's office      |
-|     | December 19-23 | Submission of "Coursework Proposal" form to TGS Dean's office    |
 |     | December 23    | Committee members submit "Evaluation Rubric" to TGS             | 
