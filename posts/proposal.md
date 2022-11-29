@@ -16,7 +16,7 @@ Summerville Campus.
 <a href="https://map.concept3d.com/?id=824#!m/268018"
 target='blank'>Map</a>
 
-### The Graduate School (TGS) guidance
+### The Graduate School (TGS) Guidance
 
 The research proposal must conform to the following format:
 
@@ -24,9 +24,9 @@ The research proposal must conform to the following format:
 
 ### Forms
 
-- [Research proposal form](https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf)
+- [Research proposal Form](https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf)
 - [Research proposal Evaluation Rubric](https://www.augusta.edu/gradschool/documents/2018-research-proposal-rubric.pdf)
-- [Research Proposal Confirmation form](https://www.augusta.edu/gradschool/documents/research_proposal_confirmation_form.docx)
+- [Research Proposal Confirmation Form](https://www.augusta.edu/gradschool/documents/research_proposal_confirmation_form.docx)
 
 ### Schedule
 
