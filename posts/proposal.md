@@ -1,6 +1,6 @@
 ---
 title: PhD Research Proposal
-date: "2022-11-29"
+date: "2022-11-30"
 ---
 
 Details about PhD research proposal process.
@@ -24,8 +24,8 @@ The research proposal must conform to the following format:
 
 ### Forms
 
-- [Research proposal Form](https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf)
-- [Research proposal Evaluation Rubric](https://www.augusta.edu/gradschool/documents/2018-research-proposal-rubric.pdf)
+- [Research Proposal Form](https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf)
+- [Research Proposal Evaluation Rubric](https://www.augusta.edu/gradschool/documents/2018-research-proposal-rubric.pdf)
 - [Research Proposal Confirmation Form](https://www.augusta.edu/gradschool/documents/research_proposal_confirmation_form.docx)
 
 ### Schedule
@@ -39,4 +39,8 @@ The research proposal must conform to the following format:
 |     | December 16    | Presentation in front of the panel and fellow graduate students  |
 |     | December 19-23 | Submission of research proposal to TGS Dean's office             |
 |     | December 19-23 | Submission of "Research Proposal" form to TGS Dean's office      |
-|     | December 23    | Committee members submit "Evaluation Rubric" to TGS             | 
+|     | December 23    | Committee members submit "Evaluation Rubric" to TGS              | 
+
+### Abstract
+
+Complexity analysis offers developers better understanding of program's runtime behavior, but mechanical approaches to evaluate complexity properties are scarce and limited. This research proposal addresses this gap between computational complexity theory and its practical application. The main hypothesis is that techniques from Implicit Computational Complexity (ICC) provide new approaches to automatic program analysis and resolve certain limitations of the state-of-the-art complexity analysis techniques. This is unapparent because ICC systems have primarily been used for theoretical purposes and their practical applications are rare. The intent of this work is to evaluate the hypothesis along three directions. First to show that obtaining automatic program analysis with ICC is in fact achievable. Then, to demonstrate that ICC systems are viable candidates for achieving formally verified complexity analysis. Lastly, to confirm that ICC-based techniques find extended applications, e.g., in optimizing complexity properties during compilation. The formal verification aspect is particularly interesting because certifying the correctness of a complexity analysis technique has not been done before. Collectively these directions suggest that ICC is not just a treasure of the theorists but can move practical analyses a few steps closer to becoming a standard in modern development workflows.
