@@ -34,7 +34,7 @@ The research proposal must conform to the following format:
 |-----|:---------------|:-----------------------------------------------------------------|
 | ✔️  | November 14    | "Advisory Committee" form is sent to TGS                         |
 |     | December 2     | Submission of written document to panel                          |
-|     | December 8     | Invitations to presentation are sent to fellow graduate students |
+|     | December 2     | Invitations to presentation are sent to fellow graduate students |
 |     | December 8     | "Research Proposal Confirmation" form is sent to TGS             |
 |     | December 16    | Presentation in front of the panel and fellow graduate students  |
 |     | December 19-23 | Submission of research proposal to TGS Dean's office             |
