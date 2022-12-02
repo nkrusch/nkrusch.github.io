@@ -1,7 +1,7 @@
 ---
 title: "Formally Verified Resource Bounds Through Implicit Computational Complexity"
 author: "Neea Rusch"
-date: "2022-12-06"
+date: "2022-11-21"
 presentation: true
 
 preface: "
