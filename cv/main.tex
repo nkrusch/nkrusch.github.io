@@ -60,8 +60,7 @@
   backend=biber,
   maxbibnames=99,
   defernumbers=true,
-  sorting=ydnt,         % Sort by year (descending), name, title
-% sorting=none,         % Do not sort at all. All entries are processed in citation order.
+  sorting=none,         % ydnt- Sort by year (descending), name, title
 ]{biblatex}
 \addbibresource{../data/cv.bib} % to use bib file created with filecontents
 
@@ -124,8 +123,8 @@
 %\citesinthissection{2}% There are 2 cites in this section
 %\printbibliography[type=thesis,title={Theses}]
 
-\citesinthissection{1}% There are 3 cites in this section + 2 above
-\nocite{Aubert2022}
+\citesinthissection{2}% There are 3 cites in this section + 2 above
+\nocite{*}
 \printbibliography[title={Publications}]
     
   
@@ -137,9 +136,9 @@
  
 \cventry{PC Member}{Artifact Evaluation Committee (AEC)}{}{}{}{}
 \cventry{APLAS}{\textnormal{Asian Symposium on Programming Languages and Systems AEC}}{}{2022}{}{}
-%\cventry{ECOOP}{\textnormal{European Conference on Object-Oriented Programming AEC}}{}{2023}{}{}
+\cventry{ECOOP}{\textnormal{European Conference on Object-Oriented Programming AEC}}{}{2023}{}{}
 \cventry{ICFP}{\textnormal{International Conference on Functional Programming AEC}}{}{2022}{}{}
-\cventry{PLDI}{\textnormal{Programming Language Design and Implementation AEC}}{}{2022}{}{}
+\cventry{PLDI}{\textnormal{Programming Language Design and Implementation AEC}}{}{2022, 2023}{}{}
 \cventry{PPoPP}{\textnormal{Principles and Practice of Parallel Programming AEC}}{}{2023}{}{}
 
 %----------------------------------------------------------------------------------------
@@ -148,11 +147,12 @@
 
 \section{Talks \& Presentations}
 
-\cventry{2022-06-20}{\textnormal{28th International Conference on Types for Proofs and Programs (TYPES'22)}}{University of Nantes}{}{}{}
-\cventry{2022-04-01}{\textnormal{The 37th Annual Graduate Research Day}}{Augusta University}{poster}{}{}
-\cventry{2021-11-18}{\textnormal{Laboratoire d'Informatique de Paris Nord (LIPN) seminar}}{Université Sorbonne Paris Nord}{}{}{}
-\cventry{2021-11-15}{\textnormal{Inria Celtique research team seminar}}{IRISA Rennes}{}{}{}
-\cventry{2021-03-26}{\textnormal{The 36th Annual Graduate Research Day}}{Augusta University}{}{}{}
+\cventry{2022-12-06}{\textnormal{The SPLASH Doctoral Symposium (SPLASH'22)}}{University of Auckland, New Zealand}{}{}{}
+\cventry{2022-06-20}{\textnormal{28th International Conference on Types for Proofs and Programs (TYPES'22)}}{University of Nantes, France}{}{}{}
+\cventry{2022-04-01}{\textnormal{The 37th Annual Graduate Research Day -- poster}}{Augusta University, USA}{}{}{}
+\cventry{2021-11-18}{\textnormal{Laboratoire d'Informatique de Paris Nord (LIPN) seminar}}{Université Sorbonne Paris Nord, France}{}{}{}
+\cventry{2021-11-15}{\textnormal{Inria Celtique research team seminar}}{IRISA Rennes, France}{}{}{}
+\cventry{2021-03-26}{\textnormal{The 36th Annual Graduate Research Day}}{Augusta University, USA}{}{}{}
 
 %----------------------------------------------------------------------------------------
 %	SUMMER/WINTER SCHOOLS

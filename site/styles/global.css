@@ -43,6 +43,7 @@ hr {
     border: none;
     background: var(--divider);
 }
+
 ul {
     padding-left: 1em;
 }
@@ -85,6 +86,10 @@ table th {
     width: 100%;
     position: relative;
     padding-bottom: 85%;
+}
+
+.slides.ratio_169 {
+    padding-bottom: 66%;
 }
 
 .slides iframe {

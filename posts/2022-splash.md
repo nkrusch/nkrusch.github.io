@@ -1,11 +1,14 @@
 ---
 title: "Formally Verified Resource Bounds Through Implicit Computational Complexity"
 author: "Neea Rusch"
-date: "2022-11-21"
+date: "2022-12-11"
 presentation: true
-
+embed_title: "Slides"
+embed: "../files/splash_ds_slides.pdf"
+embed_ratio: "169"
+paper: "https://dl.acm.org/doi/10.1145/3563768.3565545"
 preface: "
-I am schedule to present this talk at [SPLASH'22](https://2022.splashcon.org/) [Doctoral Symposium](https://2022.splashcon.org/track/splash-2022-Doctoral-Symposium)
+I presented this talk at [SPLASH'22](https://2022.splashcon.org/) [Doctoral Symposium](https://2022.splashcon.org/track/splash-2022-Doctoral-Symposium)
 in New Zealand, on December 6, 2022.
 "
 
@@ -16,7 +19,3 @@ But since ICC techniques are mostly theoretical, it is unclear how strongly thes
 This project defines a 3-directional plan---focused on practical analysis, compiler-integration, and formal verification---to assess the suitability of ICC to address outstanding challenges in automatic complexity analysis."
 
 ---
-
-### Paper 
-
-[[preprint]](../files/splashcomp22-p10.pdf)

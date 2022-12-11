@@ -1,13 +1,9 @@
 SHELL := /bin/bash
-all: main
-
-.PHONY: main
-main:
-	echo "Bye!"
+all: cv
 
 .PHONY: cv
 cv:
-	cd ./cv && ls main.tex | entr latexmk -pdf -bibtex -f
+	cd ./cv && ls main.tex ../data/cv.bib | entr latexmk -pdf -bibtex -f
 
 cv_update:
 	cd ./cv && latexmk -pdf -bibtex -f main.tex && cp main.pdf ../site/public/cv.pdf
@@ -31,3 +27,4 @@ clean:
 	find . -name \*.toc -type f -delete
 	find . -name \*.vrb -type f -delete
 	find . -name \*.synctex.gz -type f -delete
+	rm -rf `biber --cache`
