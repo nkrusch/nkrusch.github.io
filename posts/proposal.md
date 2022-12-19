@@ -1,6 +1,6 @@
 ---
 title: PhD Research Proposal
-date: "2022-12-16"
+date: "2022-12-19"
 ---
 
 Details about PhD research proposal process.
@@ -18,7 +18,9 @@ target='blank'>Map</a>
 
 ### Documents
 
-Research proposal: <a href="../files/proposal.pdf" target="blank">"Certifying Implicit Computational Complexity"</a>
+- Research proposal: <a href="../files/proposal.pdf" target="blank">"Certifying Implicit Computational Complexity"</a>
+
+- Presentation: <a href="../files/proposal_slides.pdf" target="blank">slides</a>
 
 <details>
   <summary>Abstract</summary>
@@ -34,7 +36,6 @@ Research proposal: <a href="../files/proposal.pdf" target="blank">"Certifying Im
   Collectively these directions suggest that ICC is not just a treasure of the theorists but can move practical analyses a few steps closer to becoming a standard in modern development workflows.
 </details>
 
-<a href="../files/proposal_slides.pdf" target="blank">Presentation slides</a>
 
 ### The Graduate School (TGS) Guidance
 
@@ -54,9 +55,10 @@ The research proposal must conform to the following format:
 |-----|:---------------|:-----------------------------------------------------------------|
 | ✔️  | November 14    | "Advisory Committee" form is sent to TGS                         |
 | ✔️  | December 1     | Invitations to presentation are sent to fellow graduate students |
-| ✔️  | December 2     | Submission of written document to panel                          |
+| ✔️  | December 2     | Submission of written research proposal to committee             |
 | ✔️  | December 8     | Required pre-presentation form(s) sent to TGS                    |
 | ✔️  | December 16    | Presentation in front of the panel and fellow graduate students  |
-|     | December 16-23 | Committee members submit "Evaluation Rubric" to TGS              | 
+| ✔️  | December 16-23 | Committee members submit "Evaluation Rubric" to TGS              | 
+| ✔️  | December 19    | Apply feedback and revisions to research proposal                |
 |     | December 19-23 | Submission of research proposal to TGS Dean's office             |
 |     | December 19-23 | Submission of "Research Proposal" form to TGS Dean's office      |
