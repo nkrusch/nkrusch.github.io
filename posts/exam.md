@@ -59,9 +59,10 @@ Committee members can obtain these papers following [this link][box].
 | ✔️  | March 28 | Possible composition of the panel is sent to program director |
 | ✔️  | April 1  | The panel is approved, and the list of paper is shared        |
 | ✔️  | April 11 | The committee approves the list of papers                     |
-| ✔️  | April 25 | The "Pre-Approval Form" is sent to TGS                        |
+| ✔️  | April 25 | The ["Pre-Approval Form"][1] is sent to TGS                   |
 | ✔️  | May 2    | Submission of written document to panel                       |
 | ✔️  | May 2    | Invitations to oral exam are sent to fellow graduate students |
 | ✔️  | May 17   | The oral exam, in front of the panel                          |
 
 [box]: https://augustauniversity.box.com/s/o40239kvx3r2fs75j9zc95qed3vus9fi
+[1]: https://www.augusta.edu/gradschool/documents/comprehensive_exam_preapproval.pdf
