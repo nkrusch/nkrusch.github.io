@@ -6,12 +6,12 @@
 - types:
     title: "Realizing Implicit Computational Complexity"
     url: ./posts/2022-types
-    where: 28th International Conference on Types for Proofs and Programs
+    where: TYPES'22, International Conference on Types for Proofs and Programs
     when: "2022-06-20"
 - grd22:
    title: "Semantic-preserving optimization algorithm for automatic program parallelization"
    url: ./posts/2022-graduate-research-day
-   where: The 37th Annual AU Graduate Research Day (poster)
+   where: The 37th Annual Graduate Research Day, Augusta University (poster)
    when: "2022-04-01"
 - lipn:
     title: Implementing the mwp-flow analysis
@@ -21,5 +21,5 @@
 - grd21:
     title: Certifying the complexity and correctness of critical software
     url: ./posts/2021-graduate-research-day
-    where: The 36th Annual AU Graduate Research Day
+    where: The 36th Annual Graduate Research Day, Augusta University
     when: "2021-03-31"
