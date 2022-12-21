@@ -1,6 +1,6 @@
 ---
 title: PhD Research Proposal
-date: "2022-12-19"
+date: "2022-12-21"
 ---
 
 Details about PhD research proposal process.
@@ -60,5 +60,5 @@ The research proposal must conform to the following format:
 | ✔️  | December 16    | Presentation in front of the panel and fellow graduate students  |
 | ✔️  | December 16-23 | Committee members submit "Evaluation Rubric" to TGS              | 
 | ✔️  | December 19    | Apply feedback and revisions to research proposal                |
-|     | December 19-23 | Submission of research proposal to TGS Dean's office             |
-|     | December 19-23 | Submission of "Research Proposal" form to TGS Dean's office      |
+| ✔️  | December 21    | Submission of research proposal to TGS Dean's office             |
+| ✔️  | December 21    | Submission of "Research Proposal" form to TGS Dean's office      |
