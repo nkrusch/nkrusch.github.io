@@ -22,6 +22,10 @@ on network intrusion detection and adversarial machine learning.
 
 <!-- PUB -->
 
+### Talks & Presentations
+
+<!-- TALKS -->
+
 ## Service
 
 Artifact evaluation committee
@@ -37,9 +41,6 @@ Artifact evaluation committee
   [ICFP](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
   [PLDI](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).  
 
-## Talks & Presentations                                                                                                                                                         
-
-<!-- TALKS -->
 
 ## Teaching
 

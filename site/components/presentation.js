@@ -9,10 +9,10 @@ const Abstract = ({text}) => {
     </div>
 }
 
-const PaperLink = ({paper}) => {
+const PaperLink = ({paper, title}) => {
     return <div className={'paper'}>
         <h3>Paper</h3>
-        <Href href={paper} label={paper}/>
+        <Href href={paper} label={title || paper}/>
     </div>
 }
 
@@ -44,12 +44,13 @@ export default function Presentation(
         embed,
         embed_title,
         embed_ratio,
-        paper
+        paper,
+        paper_title
     }) {
     return <>
         {preface && <Preface text={preface}/>}
         {abstract && <Abstract text={abstract} plain={abs_plain}/>}
-        {paper && <PaperLink paper={paper}/>}
+        {paper && <PaperLink paper={paper} title={paper_title}/>}
         {embed && <EmbedMedia
             path={embed} title={embed_title}
             ratio={embed_ratio || "34"}/>}

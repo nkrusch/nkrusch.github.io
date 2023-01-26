@@ -1,7 +1,12 @@
+- coqpl:
+    title: "Certifying Complexity Analysis"
+    url: ./posts/2023-coqpl
+    where: CoqPL'23, International Workshop on Coq for Programming Languages
+    when: "2023-01-21"
 - splash:
     title: "Formally Verified Resource Bounds Through Implicit Computational Complexity"
     url: ./posts/2022-splash
-    where: SPLASH'22 Doctoral Symposium
+    where: SPLASH'22, Doctoral Symposium
     when: "2022-12-06"
 - types:
     title: "Realizing Implicit Computational Complexity"

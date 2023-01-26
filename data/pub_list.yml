@@ -6,6 +6,7 @@
     author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
     preprint: https://hal.archives-ouvertes.fr/hal-03669387v2/document
     artifact: https://zenodo.org/record/7080145
+    slides: /files/vmcai_slides.pdf
 
 - fscd:
     title: "mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"
@@ -17,12 +18,3 @@
     slides: https://easychair.org/smart-slide/slide/HbVz#
     code: https://github.com/statycc/pymwp
     demo: https://statycc.github.io/pymwp/demo
-
-- types:
-    title: Realizing Implicit Computational Complexity
-    url: https://types22.inria.fr/files/2022/06/TYPES_2022_paper_14.pdf
-    venue: TYPES'22
-    venue_url: https://types22.inria.fr
-    author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
-    paper: https://types22.inria.fr/files/2022/06/TYPES_2022_paper_14.pdf
-    slides: https://types22.inria.fr/files/2022/06/TYPES_2022_slides_14.pdf

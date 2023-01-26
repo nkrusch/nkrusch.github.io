@@ -1,10 +1,12 @@
 import Href from './extLink'
 import utilStyles from '../styles/utils.module.css'
+import Image from 'next/image'
+import doiIcon from '../img/doi.svg'
 
 const Pub = (
     {
         id, title, url, venue, venue_url, author, paper, slides, code,
-        demo, artifact, preprint
+        demo, artifact, preprint, doi
     }) => {
     return <div key={id} className={utilStyles.itemListItem}>
         <div>
@@ -16,7 +18,7 @@ const Pub = (
                 </> : null}.
         </div>
         <div>{author}</div>
-        {(paper || slides || code || demo || artifact || preprint) ?
+        {(paper || slides || code || demo || artifact || preprint || doi) ?
             <div className={utilStyles.pubLinks}>
                 {paper ? <Href href={paper} label="paper" pref={'['}
                 post={']'} className={utilStyles.pubLinks_a}/> : null}

@@ -6,7 +6,8 @@ presentation: true
 embed_title: "Slides"
 embed: "../files/splash_ds_slides.pdf"
 embed_ratio: "169"
-paper: "https://dl.acm.org/doi/10.1145/3563768.3565545"
+paper_title: "10.1145/3563768.3565545"
+paper: "https://doi.org/10.1145/3563768.3565545"
 preface: "
 I presented this talk at [SPLASH'22](https://2022.splashcon.org/) [Doctoral Symposium](https://2022.splashcon.org/track/splash-2022-Doctoral-Symposium)
 in New Zealand, on December 6, 2022.

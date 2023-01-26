@@ -35,7 +35,7 @@
 \moderncvcolor{grey} % CV color - options include: 'blue' (default), 'grey' and 'black'
 
 \usepackage[scale=.86]{geometry} % Reduce document margins
-\setlength{\hintscolumnwidth}{2.5cm} % Uncomment to change the width of the dates column
+\setlength{\hintscolumnwidth}{2.8cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
 %----------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@
   backend=biber,
   maxbibnames=99,
   defernumbers=true,
-  sorting=none,         % ydnt- Sort by year (descending), name, title
+  sorting=ydnt,         % ydnt- Sort by year (descending), name, title
 ]{biblatex}
 \addbibresource{../data/cv.bib} % to use bib file created with filecontents
 
@@ -100,9 +100,9 @@
 
 \section{Education}
 
-\cventry{2020--present}{PhD student in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
-\cventry{2014--2016}{Master of Science in Computer Science}{Georgia Institute of Technology}{Atlanta, GA USA}{}{}
-\cventry{2011--2014}{Bachelor of Science in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
+\cventry{8/2020--present}{PhD student in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
+\cventry{8/2014--5/2016}{Master of Science in Computer Science}{Georgia Institute of Technology}{Atlanta, GA USA}{}{}
+\cventry{8/2011--5/2014}{Bachelor of Science in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
 
 %----------------------------------------------------------------------------------------
 %	TEACHING SECTION
@@ -122,7 +122,7 @@
 %\citesinthissection{2}% There are 2 cites in this section
 %\printbibliography[type=thesis,title={Theses}]
 
-\citesinthissection{2}% There are 3 cites in this section + 2 above
+\citesinthissection{3}% There are 3 cites in this section + 2 above
 \nocite{*}
 \printbibliography[title={Publications}]
 
@@ -134,12 +134,13 @@
 \section{Academic Service}
 
 \cventry{PC Member}{Artifact Evaluation Committee (AEC)}{}{}{}{}
+\cventry{2023}{\textnormal{PLDI -- Programming Language Design and Implementation}}{}{}{}{}
 \cventry{2023}{\textnormal{COORDINATION -- International Conference on Coordination Models and Languages}}{}{}{}{}
 \cventry{2023}{\textnormal{ECOOP -- European Conference on Object-Oriented Programming}}{}{}{}{}
 \cventry{2023}{\textnormal{PPoPP -- Principles and Practice of Parallel Programming}}{}{}{}{}
 \cventry{2022}{\textnormal{APLAS -- Asian Symposium on Programming Languages and Systems}}{}{}{}{}
 \cventry{2022}{\textnormal{ICFP -- International Conference on Functional Programming}}{}{}{}{}
-\cventry{2022, 2023}{\textnormal{PLDI -- Programming Language Design and Implementation}}{}{}{}{}
+\cventry{2022}{\textnormal{PLDI -- Programming Language Design and Implementation}}{}{}{}{}
 
 %----------------------------------------------------------------------------------------
 %	TALKS SECTION
@@ -147,10 +148,10 @@
 
 \section{Talks \& Presentations}
 
-\cventry{2023-01-21}{\textnormal{The 9th International Workshop on Coq for Programming Languages (CoqPL 2023)}}{Boston, USA}{}{}{}
-\cventry{2023-01-16}{\textnormal{Verification, Model Checking, and Abstract Interpretation (VMCAI 2023)}}{Boston, USA}{}{}{}
-\cventry{2022-12-06}{\textnormal{The SPLASH Doctoral Symposium (SPLASH'22)}}{University of Auckland, New Zealand}{}{}{}
-\cventry{2022-06-20}{\textnormal{28th International Conference on Types for Proofs and Programs (TYPES'22)}}{University of Nantes, France}{}{}{}
+\cventry{2023-01-21}{\textnormal{The Ninth International Workshop on Coq for Programming Languages (CoqPL 2023)}}{Boston, USA}{}{}{}
+\cventry{2023-01-16}{\textnormal{The 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023)}}{Boston, USA}{}{}{}
+\cventry{2022-12-06}{\textnormal{The SPLASH Doctoral Symposium (SPLASH 2022)}}{University of Auckland, New Zealand}{}{}{}
+\cventry{2022-06-20}{\textnormal{The 28th International Conference on Types for Proofs and Programs (TYPES 2022)}}{University of Nantes, France}{}{}{}
 \cventry{2022-04-01}{\textnormal{The 37th Annual Graduate Research Day -- poster}}{Augusta University, USA}{}{}{}
 \cventry{2021-11-18}{\textnormal{Laboratoire d'Informatique de Paris Nord (LIPN) seminar}}{Université Sorbonne Paris Nord, France}{}{}{}
 \cventry{2021-11-15}{\textnormal{Inria Celtique research team seminar}}{IRISA Rennes, France}{}{}{}
@@ -173,14 +174,13 @@
 
 \section{Awards}
 
-\cventry{2022}{Student Research Program}{awarded by Provost's office and the Translational Research Program of the Department of Medicine, Medical College of Georgia at Augusta University}{Fall'22}{}{\$1,000 for dissertation research.}
+\cventry{2022}{Student Research Program}{awarded by Provost's office and the Translational Research Program of the Department of Medicine, Medical College of Georgia at Augusta University}{Fall'22}{}{\$1000 for dissertation research.}
 \cventry{2022}{Programming Languages Mentoring Workshop scholarship}{awarded by ACM SIGPLAN}{}{}{To attend PLMW @ PLDI 2022 and the PLDI'22 conference, in San Diego, CA, USA.}
 \cventry{2022}{Excellence in Research - Computer \& Cyber Sciences}{awarded by The Graduate School}{}{}{\$100 for presentation at Augusta University 37th Annual Graduate Research Day.}
-\cventry{2021}{VMCAI 2022 Student Travel Fellowship}{awarded by the VMCAI PC}{}{}{\$1,500 stipend for attending VMCAI'22 conference in Philadelphia, PA, USA.}
-\cventry{2021}{Travel Funding}{awarded by The Graduate School}{}{}{\small \$1,000 toward travel to the LIPN seminar in Paris, France.}
+\cventry{2021}{VMCAI 2022 Student Travel Fellowship}{awarded by the VMCAI PC}{}{}{\$1500 for attending VMCAI'22 conference in Philadelphia, PA, USA.}
 \cventry{2015}{Grace Hopper Scholarship}{awarded by Georgia Institute of Technology}{}{}{To attend Grace Hopper Celebration of Women in Computing GHC'15 conference in Houston, Texas.}
 \cventry{2014}{Outstanding Computer Science Student Award}{awarded by Augusta University}{}{}{Awarded annually to one graduating student for academic excellence.}
-\cventry{2013}{Savannah River Scholars Program (SRSP) Scholarship}{awarded by Augusta University}{}{}{\$7,800 stipend funded by National Science Foundation.}
+\cventry{2013}{Savannah River Scholars Program (SRSP) Scholarship}{awarded by Augusta University}{}{}{\$7800 stipend funded by National Science Foundation.}
 
 
 %----------------------------------------------------------------------------------------
@@ -210,10 +210,10 @@
 
 \cventry{2021--2023}{The Graduate School - Graduate Student Council}{Augusta University}{}{}{Representative of School of Computer and Cyber Sciences.}
 
-\section{Other Service}
+%\section{Other Service}
 
-% \cventry{2023}{Volunteering}{\textnormal{in-person student volunteer at POPL'23 conference}}{}{}{}
-\cventry{2022}{Volunteering}{\textnormal{in-person student volunteer at SPLASH'22 conference}}{}{}{}
+%\cventry{2023}{Volunteering}{\textnormal{in-person student volunteer at POPL'23 conference}}{}{}{}
+%\cventry{2022}{Volunteering}{\textnormal{in-person student volunteer at SPLASH'22 conference}}{}{}{}
 
 %----------------------------------------------------------------------------------------
 %	Coursework SECTION
