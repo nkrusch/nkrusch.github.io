@@ -41,6 +41,10 @@ Artifact evaluation committee
   [ICFP](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
   [PLDI](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).  
 
+Extended review committee
+
+- 2023:
+  [ECOOP Research papers](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
 
 ## Teaching
 
