@@ -1,3 +1,8 @@
+- scot:
+    title: "mwp-Analysis Improvement and Implementation"
+    url: ./posts/2023-scot
+    where: SCOT Seminar on Semantic and Formal Approaches to Complexity
+    when: "2023-03-10"
 - coqpl:
     title: "Certifying Complexity Analysis"
     url: ./posts/2023-coqpl
