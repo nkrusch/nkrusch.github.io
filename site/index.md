@@ -46,6 +46,12 @@ Extended review committee
 - 2023:
   [ECOOP Research papers](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
 
+
+Student volunteer 
+
+- In-person at [POPL'23](https://popl23.sigplan.org/track/POPL-2023-student-volunteers#About)
+and [SPLASH'22](https://2022.splashcon.org/committee/splash-2022-Student-Volunteers-organizers).
+
 ## Teaching
 
 I have taught at Augusta University many programming courses [[details]](./posts/teaching).
@@ -57,6 +63,7 @@ I have taught at Augusta University many programming courses [[details]](./posts
 - [PhD research proficiency exam](./posts/exam)
 
 - [Graduate coursework](./posts/coursework)
+
 
 ---
 
