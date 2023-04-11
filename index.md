@@ -30,6 +30,9 @@ on network intrusion detection and adversarial machine learning.
 
 Artifact Evaluation Committee (AEC)
 
+[//]: # (- 2024: [ICSE]&#40;https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation&#41;)
+
+
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
   [ECOOP](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee) and
