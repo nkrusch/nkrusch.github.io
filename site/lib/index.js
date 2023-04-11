@@ -15,7 +15,7 @@ const rootDirectory = path.join(process.cwd(), './')
 const dataDirectory = path.join(process.cwd(), '../data')
 
 export async function getIndexData() {
-    const fullPath = path.join(rootDirectory, `index.md`)
+    const fullPath = path.join(rootDirectory, `../index.md`)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     const bib = yaml.load(fs.readFileSync(
         path.join(dataDirectory, `pub_list.yml`),

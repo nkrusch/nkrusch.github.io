@@ -28,7 +28,7 @@ on network intrusion detection and adversarial machine learning.
 
 ## Service
 
-Artifact evaluation committee
+Artifact Evaluation Committee (AEC)
 
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
