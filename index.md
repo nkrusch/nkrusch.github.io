@@ -36,6 +36,7 @@ Artifact Evaluation Committee (AEC)
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
   [ECOOP](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee) and
+  [ICFP](https://icfp23.sigplan.org/committee/icfp-2023-artifact-evaluation-artifact-evaluation-committee) and
   [PLDI](https://pldi23.sigplan.org/committee/pldi-2023-pldi-research-artifacts-artifact-evaluation-committee) and
   [PPoPP](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee).
 
