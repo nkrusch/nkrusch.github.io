@@ -33,6 +33,7 @@ yarn-error.log*
 site/out
 main.fdb_latexmk
 main.fls
+site/public/*
 site/public/sitemap-0.xml
 site/public/sitemap.xml
 cv/main.bbl
