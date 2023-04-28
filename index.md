@@ -30,8 +30,7 @@ on network intrusion detection and adversarial machine learning.
 
 Artifact Evaluation Committee (AEC)
 
-[//]: # (- 2024: [ICSE]&#40;https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation&#41;)
-
+[//]: # (- 2024: [ICSE]&#40;https://conf.researchr.org/committee/icse-2024/icse-2024-artifact-evaluation-artifact-evaluation&#41;)
 
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
@@ -62,9 +61,9 @@ I have taught at Augusta University many programming courses [[details]](./posts
 
 ## Studies
 
-- [PhD research proposal](./posts/proposal)
+- [PhD dissertation research proposal](./posts/proposal)
 
-- [PhD research proficiency exam](./posts/exam)
+- [PhD comprehensive exam](./posts/exam)
 
 - [Graduate coursework](./posts/coursework)
 
