@@ -67,6 +67,7 @@ I have taught at Augusta University many programming courses [[details]](./posts
 
 - [Graduate coursework](./posts/coursework)
 
+- [Collection of research guides](./posts/guides)
 
 ---
 
