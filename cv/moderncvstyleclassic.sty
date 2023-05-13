@@ -40,11 +40,10 @@
 % symbols
 \renewcommand*{\mobilesymbol}{\marvosymbol{72}~}
 \renewcommand*{\phonesymbol}{\marvosymbol{84}~}
-\renewcommand*{\faxsymbol}{\marvosymbol{117}~}
 \renewcommand*{\emailsymbol}{\faEnvelopeO~}
 \renewcommand*{\homepagesymbol}{\faLink~}
-%\renewcommand*{\emailsymbol}{}
-%\renewcommand*{\homepagesymbol}{}
+\renewcommand*{\ghsymbol}{\faGithub~}
+\renewcommand*{\ghlink}{github.com/}
 
 %-------------------------------------------------------------------------------
 %                resume style definition
@@ -119,6 +118,7 @@
 	\ifthenelse{\equal{\@homepagetitle}{}}% \homepagetitle could be empty
 	{\makenewline\homepagesymbol\httplink{\@homepage}}%
 	{\makenewline\homepagesymbol\httplink[\@homepagetitle]{\@homepage}}}%
+      \ifthenelse{\isundefined{\@gh}}{}{\makenewline\ghsymbol\httplink[\@gh]{\ghlink\@gh}}%
       \ifthenelse{\isundefined{\@extrainfo}}{}{\makenewline\@extrainfo}%
     \end{tabular}
   }%
@@ -271,9 +271,11 @@
       \ifthenelse{\isundefined{\@fax}}{}{\makenewline\faxsymbol\@fax}%
       \ifthenelse{\isundefined{\@email}}{}{\makenewline\emailsymbol\emaillink{\@email}}%
      \ifthenelse{\isundefined{\@homepage}}{}{%
+       \ifthenelse{\isundefined{\@gh}}{}{\makenewline\ghsymbol\httplink[\@gh]{\ghlink\@gh}}%
 	\ifthenelse{\equal{\@homepagetitle}{}}% \homepagetitle could be empty
 	{\makenewline\homepagesymbol\httplink{\@homepage}}%
 	{\makenewline\homepagesymbol\httplink[\@homepagetitle]{\@homepage}}}%
+      \ifthenelse{\isundefined{\@gh}}{}{\makenewline\ghsymbol\httplink[\@gh]{\ghlink\@gh}}%
       \ifthenelse{\isundefined{\@extrainfo}}{}{\makenewline\@extrainfo}}%
     \end{minipage}\\[1em]
   % recipient block
