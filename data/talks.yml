@@ -8,6 +8,11 @@
     url: ./posts/2023-coqpl
     where: CoqPL'23, International Workshop on Coq for Programming Languages
     when: "2023-01-21"
+- vmcai:
+    title: "Distributing and Parallelizing Non-canonical Loops"
+    url: ./posts/2023-vmcai
+    where: VMCAI'23, International Conference on Verification, Model Checking, and Abstract Interpretation
+    when: "2023-01-16"
 - splash:
     title: "Formally Verified Resource Bounds Through Implicit Computational Complexity"
     url: ./posts/2022-splash

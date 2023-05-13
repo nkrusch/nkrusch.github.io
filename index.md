@@ -49,6 +49,9 @@ Extended review committee
 - 2023:
   [ECOOP Research papers](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
 
+[//]: # (Reviewer)
+[//]: # ()
+[//]: # (- [The Journal of Open Source Software]&#40;https://joss.theoj.org/&#41;)
 
 Student volunteer 
 
