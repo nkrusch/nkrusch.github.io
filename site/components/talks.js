@@ -6,7 +6,7 @@ const Talk = ({id, title, url, where, when}) => {
     return (
         <div key={id} className={utilStyles.itemListItem}>
             <div>
-                <Link href={url} legacyBehavior>{`"${title}"`}</Link>
+                <Link href={url} legacyBehavior>{`“${title}”`}</Link>
             </div>
             <div>
                 <span>{where}</span>,{" "}

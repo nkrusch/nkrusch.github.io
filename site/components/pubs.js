@@ -8,8 +8,10 @@ const Pub = (
     }) => {
     return <div key={id} className={utilStyles.itemListItem}>
         <div>
-            { url ? <Href href={url} label={`"${title}"`}/> :
-                `"${title}"` }
+            { url ? <Href href={url} label={`${title}`}
+                      className={utilStyles.paperTitle}/> :
+                    <span className={utilStyles.paperTitle}>
+                        {title}</span> }
             {venue ?
                 <> at { venue_url ?
                     <Href href={venue_url} label={venue}/> : venue }

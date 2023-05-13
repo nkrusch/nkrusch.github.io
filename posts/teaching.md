@@ -16,7 +16,7 @@ I have taught following courses at Augusta University School of Computer & Cyber
 | 2019 SU     | CSCI 1200 - Introduction to Computers and Programming (7)  | [Syllabus][SY1200SU19] |
 | 2019 SP     | CSCI 1200 - Introduction to Computers and Programming (17) | [Syllabus][SY1200SP19] |
 
-### Catalog Descriptions
+**Catalog Descriptions**
 
 * [CSCI 1301 - Principles of Computer Programming I][CA13012122]
 * [CSCI 1200 - Introduction to Computers and Programming][CA12001819]
@@ -24,7 +24,7 @@ I have taught following courses at Augusta University School of Computer & Cyber
 ### Projects
 
 In 2021 I also participated in CSCI 1301 course resources [transformation project](https://csci-1301.github.io/about.html). 
-These resources are now shared between course sections, [free to access](https://csci-1301.github.io), 
+These resources are now shared between course sections, [free to access](https://csci-1301.github.io) 
 and [open source](https://github.com/csci-1301/csci-1301.github.io).
 
 [^1]: Co-teaching assignment
