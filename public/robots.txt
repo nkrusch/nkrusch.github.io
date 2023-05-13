@@ -7,3 +7,9 @@ Host: https://nkrusch.github.io
 
 # Sitemaps
 Sitemap: https://nkrusch.github.io/sitemap.xml
+
+Disallow: https://nkrusch.github.io/types22_paper.pdf
+Disallow: https://nkrusch.github.io/types22_slides.pdf
+Disallow: https://nkrusch.github.io/exam_doc.pdf
+Disallow: https://nkrusch.github.io/exam_slides.pdf
+Disallow: https://nkrusch.github.io/grd_poster.pdf
