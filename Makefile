@@ -3,7 +3,7 @@ all: cv
 
 .PHONY: cv
 cv:
-	cd ./cv && ls main.tex ../data/cv.bib | entr latexmk -pdf -bibtex -f
+	cd ./cv && ls main.tex ../data/*.bib | entr latexmk -pdf -bibtex -f
 
 cv_update:
 	cd ./cv && latexmk -pdf -bibtex -f main.tex && cp main.pdf ../public/cv.pdf

@@ -62,8 +62,7 @@
   maxbibnames=99,
   defernumbers=true,
   sorting=ydnt,         % ydnt- Sort by year (descending), name, title
-]{biblatex}
-\addbibresource{../data/cv.bib} % to use bib file created with filecontents
+]{biblatex} 
 
 \makeatletter
 \newcommand{\citesinthissection}[1]{\xdef\@totalcites{#1}}
@@ -76,7 +75,7 @@
      {\printtext[labelnumberwidth]{% label format from numeric.bbx
         \printfield{labelprefix}%
         \number\numexpr\@totalcites-\abx@field@labelnumber+1\relax}}
-     {\setlength{\topsep}{0pt}% layout parameters from moderncvstyleclassic.sty
+     {\setlength{\topsep}{0pt} % layout parameters from moderncvstyleclassic.sty
       \setlength{\labelwidth}{\hintscolumnwidth}%
       \setlength{\labelsep}{\separatorcolumnwidth}%
       \leftmargin\labelwidth%
@@ -86,14 +85,39 @@
   {\item}
 \makeatother
 
+% software bib without numbers
+% https://tex.stackexchange.com/a/138886/
+\DeclareBibliographyOption{biblabel}{%
+\ifstrequal{#1}{brackets}
+{%
+    \DeclareFieldFormat{labelnumberwidth}{\mkbibbrackets{##1}}%
+    \setlength{\biblabelsep}{10 pt}%
+}
+{%
+    \DeclareFieldFormat{labelnumberwidth}{\mkbibsuperscript{##1}}%
+    \setlength{\biblabelsep}{0 pt}%
+}%
+}
+
+\defbibenvironment{mypubs}
+{\list
+{}
+{\setlength{\leftmargin}{\bibhang}%
+\setlength{\itemindent}{-\leftmargin}%
+\setlength{\itemsep}{\bibitemsep}%
+\setlength{\parsep}{\bibparsep}}}
+{\endlist}
+{\item}
+
 %----------------------------------------------------------------------------------------
 
 \begin{document}
 
 \makecvtitle % Print the CV title
 
-%\section{Research topics}
-%\cvitem{}{\textnormal{...}}
+\section{Research Interests}
+
+\cvitem{}{\textnormal{Static program analysis, automated theorem proving, programming languages, complexity.}}
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
@@ -102,8 +126,8 @@
 \section{Education}
 
 \cventry{8/2020--present}{PhD student in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
-%\cvitem{}{\listitemsymbol December 2022: Dissertation proposal \& admission to candidacy}
-%\cvitem{}{\listitemsymbol May 2022: Research proficiency (comprehensive) exam}
+%\cvitem{}{\listitemsymbol 12/2022 -- Dissertation proposal \& admission to candidacy}
+%\cvitem{}{\listitemsymbol 5/2022 -- Research proficiency (comprehensive) exam}
 \cventry{8/2014--5/2016}{Master of Science in Computer Science}{Georgia Institute of Technology}{Atlanta, GA USA}{}{}
 \cventry{8/2011--5/2014}{Bachelor of Science in Computer Science}{Augusta University}{Augusta, GA USA}{}{}
 
@@ -112,8 +136,8 @@
 %----------------------------------------------------------------------------------------
 
 \section{Teaching Experience}
-\cventry{2019--2021}{CSCI 1301 - Principles of Computer Programming I}{Instructor}{Augusta University}{}{\small{Taught in: fall 2019 -- spring and fall 2020 -- spring and summer and fall 2021.}}
-\cventry{2019}{CSCI 1200 - Introduction to Computers and Programming}{Instructor}{Augusta University}{}{\small Taught in spring and summer 2019.}
+\cventry{2019--2021}{CSCI 1301 - Principles of Computer Programming I}{Instructor}{Augusta University}{}{\small{For 6 semesters: fall 2019 -- spring and fall 2020 -- spring and summer and fall 2021.}}
+\cventry{2019}{CSCI 1200 - Introduction to Computers and Programming}{Instructor}{Augusta University}{}{\small{For 2 semesters: spring and summer 2019.}}
 
 %----------------------------------------------------------------------------------------
 %	PUBLICATIONS SECTION
@@ -121,14 +145,17 @@
 
 % https://tex.stackexchange.com/a/303229
 
-%\nocite{key1,key2}
-%\citesinthissection{2}% There are 2 cites in this section
-%\printbibliography[type=thesis,title={Theses}]
-
+\begin{refsection}[../data/cv.bib]
 \citesinthissection{3}% There are 3 cites in this section + 2 above
 \nocite{*}
 \printbibliography[title={Publications}]
+\end{refsection}
 
+\begin{refsection}[../data/sw.bib]
+\DeclareFieldFormat{labelnumberwidth}{\printfield{year}}
+\nocite{*}
+\printbibliography[omitnumbers=true,type=software,title={Software}]
+\end{refsection}
 
 %----------------------------------------------------------------------------------------
 %	TALKS SECTION
@@ -161,8 +188,11 @@
 \vspace{1ex}
 \cventry{}{Extended Review Committee}{}{}{}{}
 \cventry{}{\textnormal{ECOOP Research Papers -- 2023}}{}{}{}{}
-%\vspace{1ex}
-%\cventry{Reviewer}{\textnormal{The Journal of Open Source Software}}{}{}{}{}
+\vspace{1ex}
+\cventry{}{Organizing Committee}{}{}{}{}
+\cventry{}{\textnormal{The Southeast Regional Programming Languages seminar (SERPL) -- 2023}}{}{}{}{}
+\vspace{1ex}
+\cventry{Reviewer}{\textnormal{The Journal of Open Source Software}}{}{}{}{}
 \vspace{1ex}
 \cventry{Volunteer}{\textnormal{In-person student volunteer at POPL'23 and SPLASH'22}}{}{}{}{}
 
@@ -172,15 +202,17 @@
 
 \section{University Service}
 
+%\cventry{2023--2024}{}{Programming Languages-focused Student Organization at Augusta University}{}{}{Founding member and Vice President.}
+
 \cventry{2021-2023}{The Graduate School - Graduate Student Council}{Augusta University}{}{}{Representative of School of Computer and Cyber Sciences.}
 
 %----------------------------------------------------------------------------------------
 %	SUMMER/WINTER SCHOOLS
 %----------------------------------------------------------------------------------------
 
-\section{Seminars, Summer \& Winter Schools}
+\section{Seminars \& Schools}
 
-%\cventry{2023}{Twelfth Summer School on Formal Techniques and Formal Methods in the Field Bootcamp}{on the principles and practice of formal techniques}{Atherton, CA, USA}{May 24--June 2, 2023}{}
+\cventry{2023}{Twelfth Summer School on Formal Techniques and Formal Methods in the Field Bootcamp}{on the principles and practice of formal techniques}{Atherton, CA, USA}{May 24--June 2, 2023}{}
 \cventry{2022}{Programming Languages Mentoring Workshop}{PLMW @ PLDI 2022}{San Diego, CA, USA}{June 13--14, 2022}{}
 \cventry{2021}{Static Analyses of Program Flows: Types and Certificate for Complexity} {Dagstuhl Seminar 21453}{Germany}{November 7--12, 2021}{}
 \cventry{2021}{Oregon Programming Languages Summer School (OPLSS)} {on Foundations of Programming and Security}{virtual}{June 14--26, 2021}{}

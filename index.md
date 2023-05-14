@@ -76,5 +76,5 @@ I have taught at Augusta University many programming courses [[details]](./posts
 
 [dblp](https://dblp.org/pid/296/3722) &nbsp;
 [arXiv](https://arxiv.org/search/?query=Rusch%2C+Neea&searchtype=author) &nbsp;
-[orcid](https://orcid.org/0000-0002-7354-5330) &nbsp;
-[Github](https://github.com/nkrusch)
+[ORCID](https://orcid.org/0000-0002-7354-5330) &nbsp;
+[GitHub](https://github.com/nkrusch)
