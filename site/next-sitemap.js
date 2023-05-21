@@ -15,8 +15,8 @@ module.exports = {
         await config.transform(config, 'files/proposal_slides.pdf'),
         await config.transform(config, 'files/scot.pdf'),
         await config.transform(config, 'files/splashcomp22-p10.pdf'),
-        await config.transform(config, 'files/types_paper.pdf'),
-        await config.transform(config, 'files/types_slides.pdf'),
+        await config.transform(config, 'files/types22_paper.pdf'),
+        await config.transform(config, 'files/types22_slides.pdf'),
         await config.transform(config, 'files/vmcai_paper.pdf'),
         await config.transform(config, 'files/vmcai_slides.pdf'),
     ]
