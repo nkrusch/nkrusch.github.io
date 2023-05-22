@@ -18,6 +18,7 @@ Collection of guides on various research related topics.
 * [What it’s like to be a POPL referee; or how to write an extended abstract so that it is more likely to be accepted](http://doi.acm.org/10.1145/14947.14955) - Mark Wegman
 * [Shitty First Drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) - Anne Lamott
 * [Writing Good Software Engineering Research Papers](https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf) - Mary Shaw
+* [Lecture on Writing Papers](https://www.youtube.com/watch?v=ey3BEtt9QLI) - Leslie Lamport
 
 ### Talks & Presentation
 
