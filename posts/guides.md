@@ -1,6 +1,6 @@
 ---
 title: Collection of Research Advice Guides
-date: "2023-05-13"
+date: "2023-06-02"
 ---
 
 Collection of guides on various research related topics.
@@ -23,7 +23,7 @@ Collection of guides on various research related topics.
 ### Talks & Presentation
 
 * [How (not) to give a great research talk](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk) [[video]](https://youtu.be/27vMdYA6RcA) - Leonidas Lampropoulos at [PLMW @ POPL'23]((https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk)) 
-* [How to Present a Paper in Theoretical Computer Science](https://ianparberry.com/pubs/speaker.pdf) - Ian Parberry
+* [How to Present a Paper in Theoretical Computer Science](https://ianparberry.com/pubs/speaker.pdf) - Ian Parberrynpx n
 * [How to give a technical presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) - Michael Ernst
 * [Making a technical poster](https://homes.cs.washington.edu/~mernst/advice/poster.html) - Michael Ernst
 * [Giving Technical Talks](/guides/Drysdale-GivingTalks.pdf) [[source]](https://www.cs.dartmouth.edu/~scot/givingTalks/) - Scot Drysdale
@@ -40,6 +40,8 @@ Collection of guides on various research related topics.
 ### Review
 
 * [A Guide for New Referees in Theoretical Computer Science](https://ianparberry.com/pubs/referee.pdf) - Ian Parberry
+* [How NOT to review a paper: the tools and techniques of the adversarial reviewer](https://dl.acm.org/doi/abs/10.1145/1519103.1519122) - Graham Cormode
+* [The Task of the Referee](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=55470) - A.J. Smith
 
 ### Other
 
