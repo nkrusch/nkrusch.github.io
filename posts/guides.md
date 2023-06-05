@@ -23,7 +23,7 @@ Collection of guides on various research related topics.
 ### Talks & Presentation
 
 * [How (not) to give a great research talk](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk) [[video]](https://youtu.be/27vMdYA6RcA) - Leonidas Lampropoulos at [PLMW @ POPL'23]((https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk)) 
-* [How to Present a Paper in Theoretical Computer Science](https://ianparberry.com/pubs/speaker.pdf) - Ian Parberrynpx n
+* [How to Present a Paper in Theoretical Computer Science](https://ianparberry.com/pubs/speaker.pdf) - Ian Parberry
 * [How to give a technical presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) - Michael Ernst
 * [Making a technical poster](https://homes.cs.washington.edu/~mernst/advice/poster.html) - Michael Ernst
 * [Giving Technical Talks](/guides/Drysdale-GivingTalks.pdf) [[source]](https://www.cs.dartmouth.edu/~scot/givingTalks/) - Scot Drysdale
