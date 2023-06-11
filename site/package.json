@@ -5,16 +5,16 @@
   "scripts": {
     "dev": "npm run copy_public && next dev",
     "start": "next start",
-    "copy_public":  "rm -rf public && cp -r ../public public",
+    "copy_public": "rm -rf public && cp -r ../public public",
     "build": "npm run copy_public && next build && next-sitemap --config next-sitemap.js && next export",
     "clean": "rm -rf out && rm -rf .next"
   },
   "devDependencies": {
-    "@types/node": "^20.2.5",
+    "@types/node": "^20.3.0",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
-    "next": "^13.4.4",
+    "next": "^13.4.5",
     "next-sitemap": "^4.1.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
