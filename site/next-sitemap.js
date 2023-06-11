@@ -2,7 +2,7 @@
 
 module.exports = {
     siteUrl: 'https://nkrusch.github.io',
-    generateRobotsTxt: true,
+    generateRobotsTxt: false,
     changefreq: 'weekly',
     additionalPaths: async (config) => [
         await config.transform(config, 'cv.pdf'),

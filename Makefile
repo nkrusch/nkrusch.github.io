@@ -8,7 +8,7 @@ cv:
 cv_update:
 	cd ./cv && latexmk -pdf -bibtex -f main.tex && cp main.pdf ../public/cv.pdf
 
-build_website:
+build:
 	cd site && npm run build
 
 clean:
