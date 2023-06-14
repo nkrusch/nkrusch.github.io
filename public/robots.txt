@@ -1,8 +1,10 @@
 User-agent: *
 Host: https://nkrusch.github.io
 Sitemap: https://nkrusch.github.io/sitemap.xml
-Disallow: https://nkrusch.github.io/types22_paper.pdf
-Disallow: https://nkrusch.github.io/types22_slides.pdf
-Disallow: https://nkrusch.github.io/exam_doc.pdf
-Disallow: https://nkrusch.github.io/exam_slides.pdf
-Disallow: https://nkrusch.github.io/grd_poster.pdf
+Disallow: /types22_paper.pdf
+Disallow: /types22_slides.pdf
+Disallow: /files/types_paper.pdf
+Disallow: /files/types_slides.pdf
+Disallow: /exam_doc.pdf
+Disallow: /exam_slides.pdf
+Disallow: /grd_poster.pdf
