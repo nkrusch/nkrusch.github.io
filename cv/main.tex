@@ -30,12 +30,38 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{mathpazo}
+\usepackage{xspace}
+
+
+\usepackage{fontspec}
+\usepackage{emoji} 
+\usepackage{inconsolata}
+\usepackage{xfrac,unicode-math}
+
+\defaultfontfeatures{Scale=MatchLowercase}
+\setemojifont{TwemojiMozilla}
+\setmainfont{LibertinusSerif}
+\setmonofont{inconsolata}
+\setmathfont{LibertinusMath}
+
+%\usepackage{microtype}
+%\protrudechars=2 % or \pdfprotrudechars=2 and
+%\adjustspacing=2 %    \pdfadjustspacing=2 with luatex < v0.85
+%\newfontfeature{Microtypography}{protrusion=default;expansion=default}
+%\directlua{fonts.protrusions.setups.default.factor=.5}
+
+\newcommand{\emojii}[1]{\emoji{#1} {\xspace}}
+\newcommand{\virtual}{\emojii{globe-with-meridians}}
+\newcommand{\usa}{\emojii{flag-united-states}}
+\newcommand{\germany}{\emojii{flag-germany}}
+\newcommand{\france}{\emojii{flag-france}}
+\newcommand{\newzealand}{\emojii{flag-new-zealand}}
 
 \moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'grey' and 'black'
 
 \usepackage[scale=.86]{geometry} % Reduce document margins
-\setlength{\hintscolumnwidth}{2.8cm} % Uncomment to change the width of the dates column
+\setlength{\hintscolumnwidth}{2.4cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
 %----------------------------------------------------------------------------------------
@@ -51,7 +77,7 @@
 %\mobile{}
 \email{nrusch@augusta.edu}
 \homepage{nkrusch.github.io}{nkrusch.github.io}
-%\gh{nkrusch}
+
 
 %----------------------------------------------------------------------------------------
 %	PUBLICATIONS BIB SETTINGS
@@ -134,8 +160,10 @@
 %----------------------------------------------------------------------------------------
 
 \section{Teaching Experience}
-\cventry{2019--2021}{\textnormal{CSCI 1301 - Principles of Computer Programming I}}{Instructor}{Augusta University}{}{\small{For 6 semesters: fall 2019 -- spring and fall 2020 -- spring and summer and fall 2021.}}
-\cventry{2019}{\textnormal{CSCI 1200 - Introduction to Computers and Programming}}{Instructor}{Augusta University}{}{\small{For 2 semesters: spring and summer 2019.}}
+\cventry{2019--2021}{\textnormal{CSCI 1301 - Principles of Computer Programming I}}{Instructor}{Augusta University}{}
+{\normalsize{Total enrollment 228, 6 semesters: fall 2019 -- spring and fall 2020 -- spring and summer and fall 2021.}}
+\cventry{2019}{\textnormal{CSCI 1200 - Introduction to Computers and Programming}}{Instructor}{Augusta University}{}
+{\normalsize{Total enrollment 24, 2 semesters: spring and summer 2019.}}
 
 %----------------------------------------------------------------------------------------
 %	PUBLICATIONS SECTION
@@ -144,31 +172,33 @@
 % https://tex.stackexchange.com/a/303229
 
 \begin{refsection}[../data/cv.bib]
-\citesinthissection{3}% There are 3 cites in this section + 2 above
+\citesinthissection{3}% There are 2 cites in this section + 1 below
 \nocite{*}
 \printbibliography[title={Publications}]
 \end{refsection}
 
-%\begin{refsection}[../data/sw.bib]
-%\DeclareFieldFormat{labelnumberwidth}{\printfield{year}}
-%\nocite{*}
-%\printbibliography[omitnumbers=true,type=software,title={Software}]
-%\end{refsection}
+\begin{refsection}[../data/sw.bib]
+\DeclareFieldFormat{labelnumberwidth}{\printfield{year}}
+\nocite{*}
+\printbibliography[omitnumbers=true,heading=subbibliography,type=software,title={Software}]
+\end{refsection}
 
 %----------------------------------------------------------------------------------------
 %	TALKS SECTION
 %----------------------------------------------------------------------------------------
 
 \section{Talks \& Presentations}
-\cventry{2023-03-10}{\textnormal{SCOT: A Seminar on Semantic and Formal Approaches to Complexity}}{virtual}{}{}{}
-\cventry{2023-01-21}{\textnormal{The Ninth International Workshop on Coq for Programming Languages (CoqPL 2023)}}{Boston, USA}{}{}{}
-\cventry{2023-01-16}{\textnormal{The 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023)}}{Boston, USA}{}{}{}
-\cventry{2022-12-06}{\textnormal{The SPLASH Doctoral Symposium (SPLASH 2022)}}{University of Auckland, New Zealand}{}{}{}
-\cventry{2022-06-20}{\textnormal{The 28th International Conference on Types for Proofs and Programs (TYPES 2022)}}{University of Nantes, France}{}{}{}
-\cventry{2022-04-01}{\textnormal{The 37th Annual Graduate Research Day -- poster}}{Augusta University, USA}{}{}{}
-\cventry{2021-11-18}{\textnormal{Laboratoire d'Informatique de Paris Nord (LIPN) seminar}}{Université Sorbonne Paris Nord, France}{}{}{}
-\cventry{2021-11-15}{\textnormal{Inria Celtique research team seminar}}{IRISA Rennes, France}{}{}{}
-\cventry{2021-03-26}{\textnormal{The 36th Annual Graduate Research Day}}{Augusta University, USA}{}{}{}
+\cventry{2023-03-10}{\textnormal{\virtual SCOT: A Seminar on Semantic and Formal Approaches to Complexity}}{virtual}{}{}{}
+\cventry{2023-01-21}{\textnormal{\usa The Ninth International Workshop on Coq for Programming Languages (CoqPL 2023)}}{Boston, USA}{}{}{}
+\cventry{2023-01-16}{\textnormal{\usa The 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023)}}{Boston, USA}{}{}{}
+\cventry{2022-12-06}{\textnormal{\newzealand The SPLASH Doctoral Symposium (SPLASH 2022)}}{University of Auckland, New Zealand}{}{}{}
+\cventry{2022-06-20}{\textnormal{\france The 28th International Conference on Types for Proofs and Programs (TYPES 2022)}}{University of Nantes, France}{}{}{}
+\cventry{2022-04-01}{\textnormal{\usa The 37th Annual Graduate Research Day -- poster}}{Augusta University, USA}{}{}{}
+\cventry{2021-11-18}{\textnormal{\france Laboratoire d'Informatique de Paris Nord (LIPN) seminar}}{Université Sorbonne Paris Nord, France}{}{}{}
+\cventry{2021-11-15}{\textnormal{\france Inria Celtique research team seminar}}{IRISA Rennes, France}{}{}{}
+\cventry{2021-03-26}{\textnormal{\virtual The 36th Annual Graduate Research Day}}{virtual, Augusta University, USA}{}{}{}
+
+
 
 %----------------------------------------------------------------------------------------
 %	SERVICE
@@ -202,7 +232,7 @@
 
 \section{University Service}
 
-\cventry{2023--2024}{\textnormal{Vice President and founding member of $\Delta\Lambda\Delta$, student organization}}{Augusta University}{}{}{}
+\cventry{2023--2024}{\textnormal{Vice President and founding member of $\Delta\Lambda\Delta$ student organization}}{Augusta University}{}{}{}
 
 \cventry{2021--2023}{\textnormal{Member of The Graduate School's Graduate Student Council}}{Augusta University}{}{}{}
 
@@ -213,11 +243,11 @@
 \section{Seminars \& Schools}
 
 %\cventry{2023}{\textnormal{Verification Mentoring Workshop}}{VMW at the CAV 2023 conference}{Paris, France}{July 18, 2023}{}
-\cventry{2023}{\textnormal{Twelfth Summer School on Formal Techniques (SSFT23) \& Formal Methods in the Field Bootcamp}}{on principles and practice of formal techniques}{Atherton, CA, USA}{May 24--June 2, 2023}{}
-\cventry{2022}{\textnormal{Programming Languages Mentoring Workshop}}{PLMW @ PLDI 2022}{San Diego, CA, USA}{June 13--14, 2022}{}
-\cventry{2021}{\textnormal{Static Analyses of Program Flows: Types and Certificate for Complexity}} {Dagstuhl Seminar 21453}{Schloss Dagstuhl, Germany}{November 7--12, 2021}{}
-\cventry{2021}{\textnormal{Oregon Programming Languages Summer School (OPLSS 2021)}} {on foundations of programming and security}{virtual}{June 14--26, 2021}{}
-\cventry{2021}{\textnormal{Midlands Graduate School}}{in the foundations of computing science}{virtual}{April 12--16, 2021}{}
+\cventry{2023}{\textnormal{\usa Twelfth Summer School on Formal Techniques (SSFT23) \& the First Formal Methods in the Field Bootcamp}}{on principles and practice of formal techniques}{Atherton, CA, USA}{May 24--June 2, 2023}{}
+\cventry{2022}{\textnormal{\usa Programming Languages Mentoring Workshop}}{PLMW @ PLDI 2022}{San Diego, CA, USA}{June 13--14, 2022}{}
+\cventry{2021}{\textnormal{\germany Static Analyses of Program Flows: Types and Certificate for Complexity}} {Dagstuhl Seminar 21453}{Schloss Dagstuhl, Germany}{November 7--12, 2021}{}
+\cventry{2021}{\textnormal{\virtual Oregon Programming Languages Summer School (OPLSS 2021)}} {on foundations of programming and security}{virtual}{June 14--26, 2021}{}
+\cventry{2021}{\textnormal{\virtual Midlands Graduate School}}{in the foundations of computing science}{virtual}{April 12--16, 2021}{}
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
@@ -235,14 +265,37 @@
 
 \section{Awards}
 
-\cventry{2023}{\textnormal{Verification Mentoring Workshop scholarship}}{}{awarded by VMW 2023 organizers}{}{To attend verification mentoring workshop and the CAV'23 conference, in Paris, France.}
-\cventry{2022}{\textnormal{Student Research Program}}{}{\textnormal{\$1000 --} awarded by Provost's office and the Translational Research Program of the Department of Medicine, MCG at Augusta University, for dissertation research}{}{}
-\cventry{2022}{\textnormal{Programming Languages Mentoring Workshop scholarship}}{}{awarded by ACM SIGPLAN}{}{To attend PLMW @ PLDI 2022 and the PLDI'22 conference, in San Diego, CA, US.}
-\cventry{2022}{\textnormal{Excellence in Research - Computer \& Cyber Sciences}}{}{\textnormal{\$100 --} awarded by The Graduate School}{}{For presentation at Augusta University 37th Annual Graduate Research Day.}
-\cventry{2021}{\textnormal{VMCAI 2022 Student Travel Fellowship}}{}{\textnormal{\$1500 --} awarded by VMCAI'22 organizers}{}{To attend Verification, Model Checking, and Abstract Interpretation conference in Philadelphia, PA, US.}
-\cventry{2015}{\textnormal{Grace Hopper Scholarship}}{}{awarded by Georgia Institute of Technology}{}{To attend Grace Hopper Celebration of Women in Computing'15 conference in Houston, TX, US.}
-\cventry{2014}{\textnormal{Outstanding Computer Science Student Award}}{}{awarded by Augusta University}{}{Awarded annually to one graduating student for academic excellence.}
-\cventry{2013}{\textnormal{Savannah River Scholars Program (SRSP) Scholarship}}{}{\textnormal{\$7800 --} awarded by Augusta University, funded by National Science Foundation}{}{}
+\cventry{2023}{\textnormal{Verification Mentoring Workshop scholarship}}{}
+{by VMW 2023 organizers}
+{to attend verification mentoring workshop (VMW) and Computer Aided Verification (CAV'23) conference in Paris, France}{}
+
+\cventry{2022}{\textnormal{Student Research Program}}{\textnormal{\$1000}}
+{by Augusta University Provost's Office and the Translational Research Program of the Department of Medicine, Medical College of Georgia}
+{for dissertation research}{}
+
+\cventry{2022}{\textnormal{Programming Languages Mentoring Workshop scholarship}}{}
+{by ACM SIGPLAN}
+{to attend PLMW @ PLDI 2022 and the PLDI'22 conference, in San Diego, California, USA}{}
+
+\cventry{2022}{\textnormal{Excellence in Research in Computer \& Cyber Sciences}}{\textnormal{\$100}}
+{by The Graduate School at Augusta University}
+{for presentation at Augusta University 37th Annual Graduate Research Day}{}
+
+\cventry{2021}{\textnormal{VMCAI 2022 Student Travel Fellowship}}{\textnormal{\$1500}}
+{by VMCAI'22 organizers}
+{to attend the Verification, Model Checking, and Abstract Interpretation (VMCAI 2022) conference in Philadelphia, Pennsylvania, USA}{}
+
+\cventry{2015}{\textnormal{Grace Hopper Scholarship}}{}
+{by Georgia Institute of Technology}
+{to attend Grace Hopper Celebration of Women in Computing (GHC'15) conference in Houston, Texas, USA}{}
+
+\cventry{2014}{\textnormal{Outstanding Computer Science Student Award}}{}
+{by Augusta University}
+{for academic excellence, awarded annually to one graduating student}{}
+
+\cventry{2013}{\textnormal{Savannah River Scholars Program (SRSP) Scholarship}}{\textnormal{\$7800}}
+{by Augusta University and funded by National Science Foundation}
+{}{}
 
 
 %----------------------------------------------------------------------------------------
@@ -254,9 +307,9 @@
 %	LANGUAGES SECTION
 %----------------------------------------------------------------------------------------
 
-\section{Languages}
+%\section{Languages}
 
-\cvitem{}{English, Finnish}
+%\cvitem{}{English, Finnish}
 
 %----------------------------------------------------------------------------------------
 %	INTERESTS SECTION

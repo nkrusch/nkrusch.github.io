@@ -42,8 +42,6 @@
 \renewcommand*{\phonesymbol}{\marvosymbol{84}~}
 \renewcommand*{\emailsymbol}{\faEnvelopeO~}
 \renewcommand*{\homepagesymbol}{\faLink~}
-\renewcommand*{\ghsymbol}{\faGithub~}
-\renewcommand*{\ghlink}{github.com/}
 
 %-------------------------------------------------------------------------------
 %                resume style definition
@@ -63,7 +61,7 @@
 \renewcommand*{\addressstyle}[1]{{\addressfont\textcolor{color1}{#1}}}
 \renewcommand*{\quotestyle}[1]{{\quotefont\textcolor{color1}{#1}}}
 \renewcommand*{\sectionstyle}[1]{{\sectionfont\textcolor{color0}{#1}}}
-\renewcommand*{\subsectionstyle}[1]{{\subsectionfont\textcolor{color1}{#1}}}
+\renewcommand*{\subsectionstyle}[1]{{\subsectionfont\textcolor{color0}{#1}}}
 \renewcommand*{\hintstyle}[1]{{\hintfont\textcolor{color0}{#1}}}
 
 % lengths
@@ -118,7 +116,6 @@
 	\ifthenelse{\equal{\@homepagetitle}{}}% \homepagetitle could be empty
 	{\makenewline\homepagesymbol\httplink{\@homepage}}%
 	{\makenewline\homepagesymbol\httplink[\@homepagetitle]{\@homepage}}}%
-      \ifthenelse{\isundefined{\@gh}}{}{\makenewline\ghsymbol\httplink[\@gh]{\ghlink\@gh}}%
       \ifthenelse{\isundefined{\@extrainfo}}{}{\makenewline\@extrainfo}%
     \end{tabular}
   }%
@@ -271,11 +268,9 @@
       \ifthenelse{\isundefined{\@fax}}{}{\makenewline\faxsymbol\@fax}%
       \ifthenelse{\isundefined{\@email}}{}{\makenewline\emailsymbol\emaillink{\@email}}%
      \ifthenelse{\isundefined{\@homepage}}{}{%
-       \ifthenelse{\isundefined{\@gh}}{}{\makenewline\ghsymbol\httplink[\@gh]{\ghlink\@gh}}%
 	\ifthenelse{\equal{\@homepagetitle}{}}% \homepagetitle could be empty
 	{\makenewline\homepagesymbol\httplink{\@homepage}}%
 	{\makenewline\homepagesymbol\httplink[\@homepagetitle]{\@homepage}}}%
-      \ifthenelse{\isundefined{\@gh}}{}{\makenewline\ghsymbol\httplink[\@gh]{\ghlink\@gh}}%
       \ifthenelse{\isundefined{\@extrainfo}}{}{\makenewline\@extrainfo}}%
     \end{minipage}\\[1em]
   % recipient block

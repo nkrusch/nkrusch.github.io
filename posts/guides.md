@@ -29,7 +29,7 @@ Collection of guides on various research related topics.
 * [Giving Technical Talks](/guides/Drysdale-GivingTalks.pdf) [[source]](https://www.cs.dartmouth.edu/~scot/givingTalks/) - Scot Drysdale
 
 
-### Artifact & Evaluation Guides
+### Artifact & Technical Guides
 
 * [Guidelines for Proof Artifacts](https://proofartifacts.github.io/guidelines/)
 * [Empirical Evaluation Guidelines](https://www.sigplan.org/Resources/EmpiricalEvaluation/) - ACM SIGPLAN checklist
