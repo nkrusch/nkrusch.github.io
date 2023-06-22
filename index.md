@@ -15,8 +15,11 @@ on the "Static Analyses of Program Flows: Types and Certificates for Complexity"
 The project aims at providing new static analysis tools based on
 theoretical results from Implicit Computational Complexity.
 
-I also work with [Gagan Agrawal]( https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL) 
+I also work with [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR1sAAAAJ&hl=en) 
 on network intrusion detection and adversarial machine learning.
+
+I am interested in program analysis, implicit computational complexity, and formal verification using theorem provers.
+I am working on combining these ideas in my dissertation research.
 
 ### Papers
 

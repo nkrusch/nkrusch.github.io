@@ -1,12 +1,13 @@
 ---
 title: Graduate coursework 
-date: "2023-01-25"
+date: "2023-06-21"
 ---
 
 <br/>  
 
 | Semester | Course            | Title                                   | Instructor                                                                             |
 |:---------|:------------------|:----------------------------------------|:---------------------------------------------------------------------------------------|
+| 2023 FA  | CSCI 8970         | Research Exposure                       | [Clément Aubert](https://spots.augusta.edu/caubert/)                                   |
 | 2023 SP  | CSCI 8970         | Research Exposure                       | [Gursimran Walia](http://www.gursimransinghwalia.com/)                                 |
 | 2022 FA  | [CSCI 7810][7810] | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
 | 2022 FA  | CSCI 8970         | Research Exposure                       | [Gursimran Walia](http://www.gursimransinghwalia.com/)                                 |
