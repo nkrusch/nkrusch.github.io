@@ -1,6 +1,6 @@
 - vmcai:
     title: "Distributing and Parallelizing Non-canonical Loops"
-    url: https://hal.archives-ouvertes.fr/hal-03669387
+    url: https://doi.org/10.1007/978-3-031-24950-1_1
     venue: VMCAI'23
     venue_url: https://popl23.sigplan.org/home/VMCAI-2023
     author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
@@ -10,7 +10,7 @@
 
 - fscd:
     title: "mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"
-    url: https://drops.dagstuhl.de/opus/volltexte/2022/16307/
+    url: https://doi.org/10.4230/LIPIcs.FSCD.2022.26
     venue: FSCD'22
     venue_url: https://www.cs.tau.ac.il/~nachumd/FSCD/
     author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
