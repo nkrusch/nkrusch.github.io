@@ -10,7 +10,7 @@
     "clean": "rm -rf out && rm -rf .next"
   },
   "devDependencies": {
-    "@types/node": "^20.3.1",
+    "@types/node": "^20.3.2",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
