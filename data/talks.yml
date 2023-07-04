@@ -24,9 +24,9 @@
     where: TYPES'22, International Conference on Types for Proofs and Programs
     when: "2022-06-20"
 - grd22:
-   title: "Semantic-preserving optimization algorithm for automatic program parallelization (poster)"
+   title: "Semantic-preserving optimization algorithm for automatic program parallelization"
    url: ./posts/2022-graduate-research-day
-   where: The 37th Annual Graduate Research Day, Augusta University
+   where: (poster) The 37th Annual Graduate Research Day, Augusta University
    when: "2022-04-01"
 - lipn:
     title: Implementing the mwp-flow analysis

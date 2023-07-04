@@ -19,7 +19,7 @@ I also work with [Gagan Agrawal](https://scholar.google.com/citations?user=kOUPR
 on network intrusion detection and adversarial machine learning.
 
 I am interested in program analysis, implicit computational complexity, and formal verification using theorem provers.
-I am working on combining these ideas in my dissertation research.
+I am working on combining these ideas in my [dissertation research](./posts/proposal).
 
 ### Papers
 
@@ -30,7 +30,6 @@ I am working on combining these ideas in my dissertation research.
 <!-- TALKS -->
 
 ## Service
-
 
 Artifact Evaluation Committee (AEC)
 
