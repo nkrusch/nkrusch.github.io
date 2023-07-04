@@ -3,7 +3,7 @@ title: Collection of Research Advice Guides
 date: "2023-06-02"
 ---
 
-Collection of guides on various research related topics.
+Collection of (my favorite) guides on various research (and related) topics.
 
 ### Reading
 

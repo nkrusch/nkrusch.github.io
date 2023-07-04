@@ -17,6 +17,7 @@ export default function Home({indexData}) {
         <Layout home>
             <Head>
                 <title>{siteTitle}</title>
+                <link rel='icon' href={'/favicon.ico'}/>
             </Head>
             <article>
                 <div dangerouslySetInnerHTML={{__html: content}}/>

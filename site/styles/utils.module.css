@@ -61,11 +61,41 @@
     margin-bottom: .75em;
 }
 
-.pubLinks { }
+.pubLinks {
+    margin-top: .25rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
 
 .pubLinks_a {
     display: inline-block;
     margin-right: .5em;
+    color: #626262;
+    border: 1px solid #8d8d8d;
+    padding: 0.25rem 0.5rem;
+    font-size: .875rem;
+    border-radius: 0.2rem;
+    background-color: transparent;
+    text-decoration: none!important;
+    font-weight: 400;
+    line-height: 1.15;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+}
+.pubLinks_a:hover,
+.pubLinks_a:focus,
+.pubLinks_a:active{
+    color: #18181D;
+    background-color: #fff;
+    border-color: var(--emphasis);
+    outline: 1px solid rgba(26, 136, 255, 0.6);
+}
+.pubLinks_a:hover{
+    box-shadow: 0 0 0 0.2rem rgba(198,198,198,0.25);
 }
 
 .paperTitle:before{

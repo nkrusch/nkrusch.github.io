@@ -1,12 +1,23 @@
+- atva:
+      title: "pymwp: A Static Analyzer Determining Polynomial Growth Bounds"
+      url: https://hal.science/hal-03269121
+      venue: ATVA'23
+      venue_url: https://atva-conference.org/2023/
+      author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
+      links:
+        preprint: https://hal.science/hal-03269121
+        tool_guide: https://statycc.github.io/.github/pymwp/
+
 - vmcai:
     title: "Distributing and Parallelizing Non-canonical Loops"
     url: https://doi.org/10.1007/978-3-031-24950-1_1
     venue: VMCAI'23
     venue_url: https://popl23.sigplan.org/home/VMCAI-2023
     author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
-    preprint: https://hal.archives-ouvertes.fr/hal-03669387v2/document
-    artifact: https://zenodo.org/record/7080145
-    slides: /files/vmcai_slides.pdf
+    links:
+      preprint: https://hal.archives-ouvertes.fr/hal-03669387v2/document
+      slides: /files/vmcai_slides.pdf
+      artifact: https://zenodo.org/record/7080145
 
 - fscd:
     title: "mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity"
@@ -14,7 +25,8 @@
     venue: FSCD'22
     venue_url: https://www.cs.tau.ac.il/~nachumd/FSCD/
     author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
-    paper: https://drops.dagstuhl.de/opus/volltexte/2022/16307/pdf/LIPIcs-FSCD-2022-26.pdf
-    slides: https://easychair.org/smart-slide/slide/HbVz#
-    code: https://github.com/statycc/pymwp/releases/tag/FSCD22
-    demo: https://statycc.github.io/pymwp/demo
+    links:
+      paper: https://drops.dagstuhl.de/opus/volltexte/2022/16307/pdf/LIPIcs-FSCD-2022-26.pdf
+      slides: https://easychair.org/smart-slide/slide/HbVz#
+      code: https://github.com/statycc/pymwp/releases/tag/FSCD22
+      demo: https://statycc.github.io/pymwp/demo

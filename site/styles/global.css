@@ -112,22 +112,23 @@ table th {
 button, .button {
     background: transparent;
     padding: .35rem .85rem;
-    border: none;
-    color: var(--emphasis);
-    outline: 2px solid var(--emphasis);
+    color:  #494949;
+    outline: 1px solid  #626262;
     border-radius: 3px;
     line-height: 1;
     cursor: pointer;
-    transition: background-color .1s ease;
     font-weight: 500;
     font-size: 0.9em;
+    transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
 }
 
 button:focus, .button:focus,
 button:hover, .button:hover, a.button:hover {
     text-decoration: none;
-    background: var(--emphasis);
-    color: var(--btn-text);
+    color: var(--emphasis);
+    background-color: #fff;
+    outline-color: var(--emphasis);
+    box-shadow: 0 0 0 0.35rem rgba(198,198,198,0.25);
 }
 
 .button-spacer {

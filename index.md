@@ -31,26 +31,31 @@ I am working on combining these ideas in my dissertation research.
 
 ## Service
 
+
 Artifact Evaluation Committee (AEC)
 
-[//]: # (- 2024: [ICSE]&#40;https://conf.researchr.org/committee/icse-2024/icse-2024-artifact-evaluation-artifact-evaluation&#41;)
+- 2024: [ICSE](https://conf.researchr.org/committee/icse-2024/icse-2024-artifact-evaluation-artifact-evaluation)
 
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
   [ECOOP](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee) and
   [ICFP](https://icfp23.sigplan.org/committee/icfp-2023-artifact-evaluation-artifact-evaluation-committee) and
   [PLDI](https://pldi23.sigplan.org/committee/pldi-2023-pldi-research-artifacts-artifact-evaluation-committee) and
-  [PPoPP](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee).
+  [PPoPP](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee)
 
 - 2022:
   [APLAS](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec) and
   [ICFP](https://icfp22.sigplan.org/committee/icfp-2022-artifact-evaluation-evaluators) and
-  [PLDI](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee).  
+  [PLDI](https://pldi22.sigplan.org/committee/pldi-2022-PLDI-Research-Artifacts-artifact-evaluation-committee)  
 
 Extended review committee
 
 - 2023:
   [ECOOP Research papers](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
+
+Organization
+
+- Organization committee of [SERPL 2023](https://the-au-forml-lab.github.io/SERPL/events/2023/)
 
 Reviewer
 
@@ -58,12 +63,13 @@ Reviewer
 
 Student volunteer 
 
-- In-person at [POPL'23](https://popl23.sigplan.org/track/POPL-2023-student-volunteers#About)
-and [SPLASH'22](https://2022.splashcon.org/committee/splash-2022-Student-Volunteers-organizers).
+- In person at [CAV'23](https://www.i-cav.org/2023) 
+and [POPL'23](https://popl23.sigplan.org/track/POPL-2023-student-volunteers#About) 
+and [SPLASH'22](https://2022.splashcon.org/committee/splash-2022-Student-Volunteers-organizers) 
 
 ## Teaching
 
-I have taught at Augusta University many programming courses [[details]](./posts/teaching).
+I have taught at Augusta University [many programming courses](./posts/teaching).
 
 ## Studies
 
@@ -73,7 +79,7 @@ I have taught at Augusta University many programming courses [[details]](./posts
 
 - [Graduate coursework](./posts/coursework)
 
-- [Collection of research advice guides](./posts/guides)
+- [Research advice guides](./posts/guides)
 
 ---
 
