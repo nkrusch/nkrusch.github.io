@@ -31,8 +31,8 @@ clean:
 
 favicon:
 	# https://graphicdesign.stackexchange.com/a/77466/
-	inkscape -w 16 -h 16 -o 16.png img/icon.svg
-	inkscape -w 32 -h 32 -o 32.png img/icon.svg
-	inkscape -w 48 -h 48 -o 48.png img/icon.svg
+	inkscape -w 16 -h 16 -o 16.png img/icon-round.svg
+	inkscape -w 32 -h 32 -o 32.png img/icon-round.svg
+	inkscape -w 48 -h 48 -o 48.png img/icon-round.svg
 	convert 16.png 32.png 48.png public/favicon.ico
 	rm -rf 16.png 32.png 48.png
