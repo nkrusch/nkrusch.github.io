@@ -4,6 +4,7 @@
       venue: ATVA'23
       venue_url: https://atva-conference.org/2023/
       author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
+      note: accepted, to appear
       links:
         preprint: https://hal.science/hal-03269121
         tool_guide: https://statycc.github.io/.github/pymwp/
