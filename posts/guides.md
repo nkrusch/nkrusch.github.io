@@ -1,5 +1,5 @@
 ---
-title: Collection of Research Advice Guides
+title: Collection of research advice guides
 date: "2023-07-03"
 ---
 

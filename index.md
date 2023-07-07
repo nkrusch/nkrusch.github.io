@@ -52,17 +52,11 @@ Extended review committee
 - 2023:
   [ECOOP Research papers](https://2023.ecoop.org/committee/ecoop-2023-research-papers-extended-review-committee)
 
-Organization
+And
 
 - Organization committee of [SERPL 2023](https://the-au-forml-lab.github.io/SERPL/events/2023/)
-
-Reviewer
-
-- [The Journal of Open Source Software](https://joss.theoj.org/)
-
-Student volunteer 
-
-- In person at [CAV'23](https://www.i-cav.org/2023) 
+- Reviewer for [The Journal of Open Source Software](https://joss.theoj.org/)
+- Student volunteer at [CAV'23](https://www.i-cav.org/2023) 
 and [POPL'23](https://popl23.sigplan.org/track/POPL-2023-student-volunteers#About) 
 and [SPLASH'22](https://2022.splashcon.org/committee/splash-2022-Student-Volunteers-organizers) 
 
