@@ -40,7 +40,8 @@ Artifact Evaluation Committee (AEC)
   [ECOOP](https://2023.ecoop.org/committee/ecoop-2023-artifact-evaluation-artifact-evaluation-committee) and
   [ICFP](https://icfp23.sigplan.org/committee/icfp-2023-artifact-evaluation-artifact-evaluation-committee) and
   [PLDI](https://pldi23.sigplan.org/committee/pldi-2023-pldi-research-artifacts-artifact-evaluation-committee) and
-  [PPoPP](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee)
+  [PPoPP](https://ppopp23.sigplan.org/committee/PPoPP-2023-artifact-evaluation-artifact-evaluation-committee) and
+  [SOSP](https://sosp2023.mpi-sws.org/)
 
 - 2022:
   [APLAS](https://conf.researchr.org/committee/aplas-2022/aplas-2022-aec) and
