@@ -10,11 +10,11 @@
     "clean": "rm -rf out && rm -rf .next"
   },
   "devDependencies": {
-    "@types/node": "^20.4.0",
+    "@types/node": "^20.4.2",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
-    "next": "^13.4.9",
+    "next": "^13.4.10",
     "next-sitemap": "^4.1.8",
     "react": "18.2.0",
     "react-dom": "18.2.0",
