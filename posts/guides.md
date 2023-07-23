@@ -1,13 +1,10 @@
 ---
 title: Collection of research advice guides
-date: "2023-07-03"
+date: "2023-07-23"
 ---
 
 Collection of (my favorite) guides on various research (and related) topics.
 
-### Reading
-
-* [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) - S. Keshav
 
 ### Writing
 
@@ -21,7 +18,6 @@ Collection of (my favorite) guides on various research (and related) topics.
 * [Writing and Speaking with Style](https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit?usp=sharing) - Benjamin C. Pierce and Rajeev Alur
 * [Writing Good Software Engineering Research Papers](https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf) - Mary Shaw
 
-
 ### Talks & Presentation
 
 * [Giving Technical Talks](/guides/Drysdale-GivingTalks.pdf) [[source]](https://www.cs.dartmouth.edu/~scot/givingTalks/) - Scot Drysdale
@@ -29,7 +25,6 @@ Collection of (my favorite) guides on various research (and related) topics.
 * [How to give a technical presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) - Michael Ernst
 * [How to Present a Paper in Theoretical Computer Science](https://ianparberry.com/pubs/speaker.pdf) - Ian Parberry
 * [Making a technical poster](https://homes.cs.washington.edu/~mernst/advice/poster.html) - Michael Ernst
-
 
 ### Artifact & Technical Guides
 
@@ -49,3 +44,5 @@ Collection of (my favorite) guides on various research (and related) topics.
 
 * [Faculty Job Interview Questions](/guides/interview_questions.pdf)
 * [Getting an academic job](https://homes.cs.washington.edu/~mernst/advice/academic-job.html) - Michael Ernst
+* [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) - S. Keshav
+* [The Three Golden Rules for Successful Scientific Research](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html) - EW Dijkstra
