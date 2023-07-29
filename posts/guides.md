@@ -1,6 +1,6 @@
 ---
 title: Collection of research advice guides
-date: "2023-07-23"
+date: "2023-07-29"
 ---
 
 Collection of (my favorite) guides on various research (and related) topics.
@@ -9,9 +9,9 @@ Collection of (my favorite) guides on various research (and related) topics.
 ### Writing
 
 * [Advice to Authors of Extended Abstracts](https://www.sigplan.org/Resources/Advice/Pugh/) - William Pugh
-* [How to Write a Technical Paper](/guides/How-to-write-a-great-research-paper-mwhmod.pdf) - Michael Hicks at [PLMW @ PLDI'22](https://pldi22.sigplan.org/details/PLMW-PLDI-2022/4/How-to-Write-a-Technical-Paper)
+* [How to Write a Technical Paper](/guides/How-to-write-a-great-research-paper-mwhmod.pdf) - Michael Hicks at PLMW @ PLDI'22
 * [How to Write Mathematics](https://www.stat.rice.edu/~riedi/Halmos.html) - P. R. Halmos
-* [Imagine the Reader](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/1/-Imagining-the-Reader) [[video]](https://youtu.be/Q3Ye58zirjU) - Benjamin Pierce at [PLMW @ POPL'23](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/1/-Imagining-the-Reader)
+* [Imagine the Reader](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/1/-Imagining-the-Reader) [[video]](https://youtu.be/Q3Ye58zirjU) - Benjamin Pierce at PLMW @ POPL'23
 * [Lecture on Writing Papers](https://www.youtube.com/watch?v=ey3BEtt9QLI) - Leslie Lamport
 * [Shitty First Drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) - Anne Lamott
 * [What it’s like to be a POPL referee; or how to write an extended abstract so that it is more likely to be accepted](http://doi.acm.org/10.1145/14947.14955) - Mark Wegman
@@ -22,7 +22,7 @@ Collection of (my favorite) guides on various research (and related) topics.
 
 * [Giving Technical Talks](/guides/Drysdale-GivingTalks.pdf) [[source]](https://www.cs.dartmouth.edu/~scot/givingTalks/) - Scot Drysdale
 * [How I Give a Talk](https://www.youtube.com/watch?v=WVnmgUakDzs) - Javier Esparza  
-* [How (not) to give a great research talk](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk) [[video]](https://youtu.be/27vMdYA6RcA) - Leonidas Lampropoulos at [PLMW @ POPL'23]((https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk)) 
+* [How (not) to give a great research talk](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/3/-How-not-to-give-a-great-research-talk) [[video]](https://youtu.be/27vMdYA6RcA) - Leonidas Lampropoulos at PLMW @ POPL'23 
 * [How to give a technical presentation](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) - Michael Ernst
 * [How to Present a Paper in Theoretical Computer Science](https://ianparberry.com/pubs/speaker.pdf) - Ian Parberry
 * [Making a technical poster](https://homes.cs.washington.edu/~mernst/advice/poster.html) - Michael Ernst
