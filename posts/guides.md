@@ -1,9 +1,9 @@
 ---
 title: Collection of research advice guides
-date: "2023-07-29"
+date: "2023-08-05"
 ---
 
-Collection of (my favorite) guides on various research (and related) topics.
+Collection of (my favorite) guides on various research and related topics.
 
 
 ### Writing
@@ -12,7 +12,7 @@ Collection of (my favorite) guides on various research (and related) topics.
 * [How to Write a Technical Paper](/guides/How-to-write-a-great-research-paper-mwhmod.pdf) - Michael Hicks
 * [How to Write Mathematics](https://www.stat.rice.edu/~riedi/Halmos.html) - P. R. Halmos
 * [Imagine the Reader](https://popl23.sigplan.org/details/PLMW-POPL-2023-papers/1/-Imagining-the-Reader) [[video]](https://youtu.be/Q3Ye58zirjU) - Benjamin Pierce
-* [Lecture on Writing Papers](https://www.youtube.com/watch?v=ey3BEtt9QLI) - Leslie Lamport
+* [Leslie Lamport on Writing Papers](https://youtu.be/ey3BEtt9QLI?t=263)
 * [Shitty First Drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) - Anne Lamott
 * [What it’s like to be a POPL referee; or how to write an extended abstract so that it is more likely to be accepted](http://doi.acm.org/10.1145/14947.14955) - Mark Wegman
 * [Writing and Speaking with Style](https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit?usp=sharing) - Benjamin C. Pierce and Rajeev Alur
