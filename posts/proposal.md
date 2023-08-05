@@ -3,7 +3,9 @@ title: PhD Research Proposal
 date: "2022-12-21"
 ---
 
-Details about PhD research proposal process.
+Details about PhD research proposal process[^1].
+
+[^1]: The [AU 2023-24 catalog][5] calls this process "Research-Project Examination" and it includes preparing a "Ph.D. dissertation proposal".
 
 ### Presentation
 
@@ -60,3 +62,4 @@ The research proposal must conform to the following format:
 [2]: https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf
 [3]: https://www.augusta.edu/gradschool/documents/2018-research-proposal-rubric.pdf
 [4]: https://www.augusta.edu/gradschool/documents/writingaresearchproposal.pdf
+[5]: https://catalog.augusta.edu/preview_program.php?catoid=44&poid=10480&returnto=5351c

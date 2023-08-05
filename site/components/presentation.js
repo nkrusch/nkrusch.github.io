@@ -16,6 +16,16 @@ const PaperLink = ({paper, title}) => {
     </div>
 }
 
+const Artifact = ({desc, url}) => {
+    return <div className={'artifact'}>
+        <h3>Artifact</h3>
+        {desc ?
+            <p dangerouslySetInnerHTML={{__html: newlines(desc)}}/>
+            : null}
+        <Href href={url} label={url}/>
+    </div>
+}
+
 const Preface = ({text}) => {
     return <div dangerouslySetInnerHTML={{__html: newlines(text)}}/>
 }
@@ -45,12 +55,15 @@ export default function Presentation(
         embed_title,
         embed_ratio,
         paper,
-        paper_title
+        paper_title,
+        artifact_desc,
+        artifact_url
     }) {
     return <>
         {preface && <Preface text={preface}/>}
         {abstract && <Abstract text={abstract} plain={abs_plain}/>}
         {paper && <PaperLink paper={paper} title={paper_title}/>}
+        {artifact_url && <Artifact desc={artifact_desc} url={artifact_url}/>}
         {embed && <EmbedMedia
             path={embed} title={embed_title}
             ratio={embed_ratio || "34"}/>}

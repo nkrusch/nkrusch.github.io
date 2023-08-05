@@ -8,6 +8,8 @@ embed: "../files/vmcai_slides.pdf"
 embed_ratio: "169"
 paper_title: "https://hal.science/hal-03669387v2"
 paper: "https://hal.science/hal-03669387v2"
+artifact_desc: <img src="/files/vmcai_badges.png" alt="badges" /> <br/> The artifact contains the benchmark experiments discussed in the paper. The artifact was peer-reviewed by the artifact committee and obtained available and functional badges.
+artifact_url: https://zenodo.org/record/7080145
 preface: "
 I presented this talk at [VMCAI'23](https://popl23.sigplan.org/home/VMCAI-2023)
 in Boston, on January 16, 2023."
