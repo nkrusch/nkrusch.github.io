@@ -67,7 +67,7 @@ I have taught at Augusta University [many programming courses](./posts/teaching)
 
 ## Studies
 
-- [PhD dissertation research proposal & research project exam](./posts/proposal)
+- [PhD dissertation research proposal](./posts/proposal)
 
 - [PhD comprehensive exam](./posts/exam)
 
