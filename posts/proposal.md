@@ -3,9 +3,7 @@ title: PhD Research Proposal
 date: "2022-12-21"
 ---
 
-Details about PhD research proposal process[^1].
-
-[^1]: The [AU 2023-24 catalog][5] calls this process "Research-Project Examination" and it includes preparing a "Ph.D. dissertation proposal".
+Details about PhD research proposal process ("Research-Project Examination").
 
 ### Presentation
 
