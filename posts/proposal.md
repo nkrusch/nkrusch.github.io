@@ -44,17 +44,17 @@ The research proposal must conform to the following format:
 
 ### Schedule
 
-|     | Date           | Description                                                      |
-|-----|:---------------|:-----------------------------------------------------------------|
-| ✔️  | November 14    | ["Advisory Committee"][1] form is sent to TGS                    |
-| ✔️  | December 1     | Invitations to presentation are sent to fellow graduate students |
-| ✔️  | December 2     | Submission of written research proposal to committee             |
-| ✔️  | December 8     | Required pre-presentation form(s) sent to TGS                    |
-| ✔️  | December 16    | Presentation in front of the panel and fellow graduate students  |
-| ✔️  | December 16-23 | Committee members submit ["Evaluation Rubric"][3] to TGS         | 
-| ✔️  | December 19    | Feedback and revisions applied to research proposal              |
-| ✔️  | December 21    | Submission of research proposal to TGS Dean's office             |
-| ✔️  | December 21    | Submission of ["Research Proposal"][2] form to TGS Dean's office |
+|     | Date           | Description                                                         |
+|-----|:---------------|:--------------------------------------------------------------------|
+| ✔️  | November 14    | ["Advisory Committee"][1] form is sent to TGS                       |
+| ✔️  | December 1     | Invitations to presentation are sent to fellow graduate students    |
+| ✔️  | December 2     | Submission of written research proposal to committee                |
+| ✔️  | December 8     | Required pre-presentation form(s) sent to TGS                       |
+| ✔️  | December 16    | Presentation in front of the committee and fellow graduate students |
+| ✔️  | December 16-23 | Committee members submit ["Evaluation Rubric"][3] to TGS            | 
+| ✔️  | December 19    | Feedback and revisions applied to research proposal                 |
+| ✔️  | December 21    | Submission of research proposal to TGS Dean's office                |
+| ✔️  | December 21    | Submission of ["Research Proposal"][2] form to TGS Dean's office    |
 
 [1]: https://www.augusta.edu/gradschool/documents/advisory-committee-phd.pdf
 [2]: https://www.augusta.edu/gradschool/documents/research-proposal-form-phd.pdf
