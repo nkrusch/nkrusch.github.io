@@ -3,7 +3,7 @@ title: PhD Research Proposal
 date: "2022-12-21"
 ---
 
-Details about PhD research proposal process ("Research-Project Examination").
+Details about PhD research proposal process.
 
 ### Presentation
 
