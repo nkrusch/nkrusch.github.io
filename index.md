@@ -33,7 +33,8 @@ I am working on combining these ideas in my [dissertation research](./posts/prop
 
 Artifact Evaluation Committee (AEC)
 
-- 2024: [ICSE](https://conf.researchr.org/committee/icse-2024/icse-2024-artifact-evaluation-artifact-evaluation)
+- 2024: [ICSE](https://conf.researchr.org/committee/icse-2024/icse-2024-artifact-evaluation-artifact-evaluation) and
+  POPL
 
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
