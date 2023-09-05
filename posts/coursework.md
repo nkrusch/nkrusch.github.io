@@ -9,8 +9,8 @@ date: "2023-06-21"
 |:---------|:------------------|:----------------------------------------|:---------------------------------------------------------------------------------------|
 | 2023 FA  | CSCI 8970         | Research Exposure                       | [Clément Aubert](https://spots.augusta.edu/caubert/)                                   |
 | 2023 SP  | CSCI 8970         | Research Exposure                       | [Gursimran Walia](http://www.gursimransinghwalia.com/)                                 |
-| 2022 FA  | [CSCI 7810][7810] | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
 | 2022 FA  | CSCI 8970         | Research Exposure                       | [Gursimran Walia](http://www.gursimransinghwalia.com/)                                 |
+| 2022 FA  | [CSCI 7810][7810] | Information Management                  | [Ahmed Aleroud](https://www.augusta.edu/faculty/directory/view.php?id=AALEROUD)        |
 | 2022 SU  | CSCI 8510         | Independent Study (Network Security)    | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
 | 2022 SP  | [CSCI 7500][7500] | Theory of Computation                   | [Konstantin Busch](https://web2.augusta.edu/faculty/directory/view.php?id=KBUSCH)      |
 | 2022 SP  | [CSCI 7620][7620] | Data Science                            | [Gagan Agrawal](https://www.augusta.edu/faculty/directory/view.php?id=GAGRAWAL)        |
