@@ -8,6 +8,9 @@ cv:
 cv_update:
 	cd ./cv && lualatex -pdf -bibtex -f main.tex && cp main.pdf ../public/cv.pdf
 
+ncu:
+	cd site && npx -y npm-check-updates -u && npm install
+
 build:
 	cd site && npm run build
 

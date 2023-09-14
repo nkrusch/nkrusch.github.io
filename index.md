@@ -1,6 +1,5 @@
 I am a computer science doctoral student at [Augusta University](https://www.augusta.edu),
-[School of Computer and Cyber Sciences](https://www.augusta.edu/ccs), in Augusta Georgia, United
-States. My advisor is [Dr. Clément Aubert](https://spots.augusta.edu/caubert/). 
+in Augusta Georgia, in the United States. My advisor is [Dr. Clément Aubert](https://spots.augusta.edu/caubert/). 
 You can find [my CV here](./cv.pdf).
 
 **Contact** &nbsp; [`nrusch@augusta.edu`](mailto:nrusch@augusta.edu)
@@ -75,6 +74,8 @@ I have taught at Augusta University [many programming courses](./posts/teaching)
 - [Graduate coursework](./posts/coursework)
 
 - [Research advice guides](./posts/guides)
+
+- [ΔΛΔ](https://augusta.presence.io/organization/delta-lambda-delta) and [PL Reading Group](https://the-au-forml-lab.github.io/plgroup/)
 
 ---
 
