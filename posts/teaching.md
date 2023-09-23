@@ -3,7 +3,7 @@ title: Teaching experience
 date: "2022-05-20"
 ---
 
-I have taught following courses at Augusta University School of Computer & Cyber Sciences.
+I have taught following courses at Augusta University.
 
 | Semester    | Course title (enrollment)                                  |                        |
 |:------------|:-----------------------------------------------------------|------------------------|
