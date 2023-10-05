@@ -45,5 +45,6 @@ Collection of (my favorite) guides on various research and related topics.
 
 * [Faculty Job Interview Questions](/guides/interview_questions.pdf)
 * [Getting an academic job](https://homes.cs.washington.edu/~mernst/advice/academic-job.html) - Michael Ernst
+* [Getting Your Research Adopted](https://youtu.be/59BZTVOM-dI) - Emery Berger
 * [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) - S. Keshav
 * [The Three Golden Rules for Successful Scientific Research](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD637.html) - EW Dijkstra
