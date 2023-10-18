@@ -1,10 +1,9 @@
 - atva:
       title: "pymwp: A Static Analyzer Determining Polynomial Growth Bounds"
-#      url: https://hal.science/hal-03269121
+      url: https://doi.org/10.1007/978-3-031-45332-8_14
       venue: ATVA'23
       venue_url: https://atva-conference.org/2023/?page_id=34
       author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
-      note: accepted, to appear
       links:
         preprint: https://hal.science/hal-03269121v4/document
         tool_guide: https://statycc.github.io/.github/pymwp/
