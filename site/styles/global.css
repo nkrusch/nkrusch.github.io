@@ -118,7 +118,6 @@ button, .button {
     line-height: 1;
     cursor: pointer;
     font-weight: 500;
-    font-size: 0.9em;
     transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
 }
 
