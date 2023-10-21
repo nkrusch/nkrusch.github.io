@@ -1,9 +1,9 @@
 ---
-title: PhD research proficiency examination 
+title: PhD comprehensive examination 
 date: "2022-05-21"
 ---
 
-Relevant information regarding my PhD research proficiency ("comprehensive") examination.
+Relevant information regarding my PhD comprehensive examination.
 
 ### Exam date & location
 
