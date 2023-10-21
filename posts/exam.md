@@ -1,5 +1,5 @@
 ---
-title: PhD comprehensive examination 
+title: PhD Comprehensive Examination 
 date: "2022-05-21"
 ---
 
