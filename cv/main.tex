@@ -75,11 +75,14 @@
 
 % All information in this block is optional, comment out any lines you don't need
 \title{Curriculum vitae}
-\address{Augusta University}{1120 15th Street, Augusta, GA 30912}
+\address{Augusta University}{1120 15th Street, Augusta GA 30912, USA}
 %\mobile{}
 \email{nrusch@augusta.edu}
 \homepage{nkrusch.github.io}{nkrusch.github.io}
-
+%\extrainfo{
+%\httplink[\orcidsymbol 0000-0002-7354-5330]{orcid.org/0000-0002-7354-5330}%\makenewline
+%\httplink[\dblpsymbol dblp.org/pid/296/3722]{dblp.org/pid/296/3722}
+%}
 
 %----------------------------------------------------------------------------------------
 %	PUBLICATIONS BIB SETTINGS
@@ -154,8 +157,11 @@
 \section{Education}
 
 \cventry{8/2020--present}{\textnormal{PhD student in Computer Science}}{Augusta University}{Augusta, GA USA}{}{}
+%{\normalsize{Advisor Dr. Clément Aubert, admission to candidacy 12/2022, GPA 4.0.}}
 \cventry{8/2014--5/2016}{\textnormal{Master of Science in Computer Science}}{Georgia Institute of Technology}{Atlanta, GA USA}{}{}
+%{\normalsize{Specialization in Interactive Intelligence, GPA 4.0.}}
 \cventry{8/2011--5/2014}{\textnormal{Bachelor of Science in Computer Science}}{Augusta University}{Augusta, GA USA}{}{}
+%{\normalsize{Graduated with honors \textit{cum laude}, institutional GPA 4.0.}}
 
 
 %----------------------------------------------------------------------------------------
@@ -164,7 +170,7 @@
 
 \section{Teaching Experience}
 \cventry{2019--2021}{\textnormal{CSCI 1301 - Principles of Computer Programming I}}{Instructor}{Augusta University}{}
-{\normalsize{Total enrollment 228, 6 semesters: fall 2019 -- spring and fall 2020 -- spring and summer and fall 2021.}}
+{\normalsize{Total enrollment 228, 6 semesters: fall 2019 \circ{ }spring and fall 2020 \circ{ }spring, summer and fall 2021.}}
 \cventry{2019}{\textnormal{CSCI 1200 - Introduction to Computers and Programming}}{Instructor}{Augusta University}{}
 {\normalsize{Total enrollment 24, 2 semesters: spring and summer 2019.}}
 
@@ -174,10 +180,13 @@
 
 % https://tex.stackexchange.com/a/303229
 
+\section{Publications}
+% \cvitem{}{{The authors are ordered alphabetically except when noted with $*$ to indicate order by contribution.}}
 \begin{refsection}[../data/cv.bib]
 \DeclareFieldFormat{labelnumberwidth}{\printfield{year}}
 \nocite{*}
-\printbibliography[title={Publications},omitnumbers=true]
+%\printbibliography[heading=subbibliography,title={Conferences},omitnumbers=true]
+\printbibliography[heading=none,omitnumbers=true]
 \end{refsection}
 
 \begin{refsection}[../data/sw.bib]
@@ -186,22 +195,24 @@
 \printbibliography[omitnumbers=true,heading=subbibliography,type=software,title={Software}]
 \end{refsection}
 
+
+
 %----------------------------------------------------------------------------------------
 %	TALKS SECTION
 %----------------------------------------------------------------------------------------
 
 \section{Talks \& Presentations}
-\cventry{2023-10-25}{\textnormal{\singapore The 21st International Symposium on Automated Technology for Verification and Analysis (ATVA 2023)}}{Singapore Management University, Singapore}{}{}{}
-\cventry{2023-10-20}{\textnormal{\hongkong The 19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2023)}}{Hong Kong Polytechnic University, Hong Kong SAR}{}{}{}
-\cventry{2023-03-10}{\textnormal{\virtual SCOT: A Seminar on Semantic and Formal Approaches to Complexity}}{online}{}{}{}
-\cventry{2023-01-21}{\textnormal{\usa The Ninth International Workshop on Coq for Programming Languages (CoqPL 2023)}}{Boston MA, USA}{}{}{}
-\cventry{2023-01-16}{\textnormal{\usa The 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI 2023)}}{Boston MA, USA}{}{}{}
-\cventry{2022-12-06}{\textnormal{\newzealand The SPLASH Doctoral Symposium (SPLASH 2022)}}{University of Auckland, New Zealand}{}{}{}
-\cventry{2022-06-20}{\textnormal{\france The 28th International Conference on Types for Proofs and Programs (TYPES 2022)}}{University of Nantes, France}{}{}{}
+\cventry{2023-10-25}{\textnormal{\singapore The 21st International Symposium on Automated Technology for Verification and Analysis (ATVA'23)}}{Singapore Management University, Singapore}{}{}{}
+\cventry{2023-10-20}{\textnormal{\hongkong The 19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm '23)}}{Hong Kong Polytechnic University, Hong Kong SAR}{}{}{}
+\cventry{2023-03-10}{\textnormal{\virtual SCOT Webinar: A Seminar on Semantic and Formal Approaches to Complexity}}{online}{}{}{}
+\cventry{2023-01-21}{\textnormal{\usa The Ninth International Workshop on Coq for Programming Languages (CoqPL'23)}}{Boston MA, USA}{}{}{}
+\cventry{2023-01-16}{\textnormal{\usa The 24th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI'23)}}{Boston MA, USA}{}{}{}
+\cventry{2022-12-06}{\textnormal{\newzealand The 2022 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH'22) Doctoral Symposium}}{University of Auckland, New Zealand}{}{}{}
+\cventry{2022-06-20}{\textnormal{\france The 28th International Conference on Types for Proofs and Programs (TYPES'22)}}{University of Nantes, France}{}{}{}
 \cventry{2022-04-01}{\textnormal{\usa The 37th Annual Graduate Research Day, poster}}{Augusta University, USA}{}{}{}
 \cventry{2021-11-18}{\textnormal{\france Laboratoire d'Informatique de Paris Nord (LIPN) seminar}}{Université Sorbonne Paris Nord, France}{}{}{}
 \cventry{2021-11-15}{\textnormal{\france Inria Celtique research team seminar}}{IRISA Rennes, France}{}{}{}
-\cventry{2021-03-26}{\textnormal{\virtual The 36th Annual Graduate Research Day, online}}{Augusta University, USA}{}{}{}
+\cventry{2021-03-26}{\textnormal{\virtual The 36th Annual Graduate Research Day}}{online, Augusta University, USA}{}{}{}
 
 
 
@@ -217,7 +228,7 @@
 \cventry{}{\textnormal{ECOOP -- European Conference on Object-Oriented Programming -- 2023}}{}{}{}{}
 \cventry{}{\textnormal{ICFP -- International Conference on Functional Programming -- 2022, 2023}}{}{}{}{}
 %\cventry{}{\textnormal{ICSE -- International Conference on Software Engineering -- 2024}}{}{}{}{}
-%\cventry{}{\textnormal{OOPLSA -- Object-oriented Programming, Systems, Languages, and Applications -- 2024}}{}{}{}{}
+%\cventry{}{\textnormal{OOPSLA -- Object-oriented Programming, Systems, Languages, and Applications -- 2024}}{}{}{}{}
 \cventry{}{\textnormal{PLDI -- Programming Language Design and Implementation -- 2022, 2023}}{}{}{}{}
 \cventry{}{\textnormal{POPL -- Principles of Programming Languages -- 2024}}{}{}{}{}
 \cventry{}{\textnormal{PPoPP -- Principles and Practice of Parallel Programming -- 2023}}{}{}{}{}
@@ -241,8 +252,8 @@
 
 \section{University Service}
 
-\cventry{9/2023--present}{\textnormal{Representative in the Graduate Student Government Association (GSGA)}}{Augusta University}{}{}{}
-\cventry{9/2023--present}{\textnormal{GSGA Funding/Databases Ad Hoc Committee}}{Augusta University}{}{}{}
+\cventry{9/2023--present}{\textnormal{Representative in the Graduate Student Government Association}}{Augusta University}{}{}{}
+\cventry{9/2023--present}{\textnormal{Graduate Student Government Association Funding/Databases Ad Hoc Committee}}{Augusta University}{}{}{}
 \cventry{1/2023--present}{\textnormal{Vice President and founding member of $\Delta\Lambda\Delta$ student organization}}{Augusta University}{}{}{}
 \cventry{8/2021--present}{\textnormal{Member of The Graduate School's Graduate Student Council}}{Augusta University}{}{}{}
 
@@ -254,8 +265,8 @@
 
 \cventry{2023}{\textnormal{\germany International Autumn School on "Proof and Computation"}}{}{Herrsching, Germany}{September 10--16, 2023}{}
 \cventry{2023}{\textnormal{\france Verification Mentoring Workshop (VMW) at CAV 2023 conference}}{}{Paris, France}{July 18, 2023}{}
-\cventry{2023}{\textnormal{\usa Twelfth Summer School on Formal Techniques (SSFT23) \& the First Formal Methods in the Field Bootcamp}}{on principles and practice of formal techniques}{Atherton, CA, USA}{May 24--June 2, 2023}{}
-\cventry{2022}{\textnormal{\usa Programming Languages Mentoring Workshop}}{\textnormal{PLMW @ PLDI 2022}}{San Diego, CA, USA}{June 13--14, 2022}{}
+\cventry{2023}{\textnormal{\usa Twelfth Summer School on Formal Techniques (SSFT23) \& the First Formal Methods in the Field Bootcamp}}{on principles and practice of formal techniques}{Atherton CA, USA}{May 24--June 2, 2023}{}
+\cventry{2022}{\textnormal{\usa Programming Languages Mentoring Workshop}}{\textnormal{PLMW @ PLDI 2022}}{San Diego CA, USA}{June 13--14, 2022}{}
 \cventry{2021}{\textnormal{\germany Static Analyses of Program Flows: Types and Certificate for Complexity}} {\textnormal{Dagstuhl Seminar 21453}}{Schloss Dagstuhl, Germany}{November 7--12, 2021}{}
 \cventry{2021}{\textnormal{\virtual Oregon Programming Languages Summer School (OPLSS 2021)}} {on foundations of programming and security}{online}{June 14--26, 2021}{}
 \cventry{2021}{\textnormal{\virtual Midlands Graduate School}}{in the foundations of computing science}{online}{April 12--16, 2021}{}
@@ -276,50 +287,49 @@
 
 \section{Awards}
 
-\cventry{8/2023}{\textnormal{Travel Award, \$1,000}}
+\cventry{8/2023}{\textnormal{\$1,000 Travel Award}}
 {by The Graduate School at Augusta University}
 {to attend the 21st International Symposium on Automated Technology for Verification and Analysis (ATVA'23) conference in Singapore}{}{}
 
-\cventry{5/2023}{\textnormal{Verification Mentoring Workshop scholarship}}
+\cventry{5/2023}{\textnormal{\$3,600 Verification Mentoring Workshop scholarship}}
 {by VMW 2023 organizers}
-{to attend verification mentoring workshop (VMW) and Computer Aided Verification (CAV'23) conference in Paris, France}{}{}
+{to attend Verification Mentoring Workshop and Computer Aided Verification (CAV'23) conference in Paris, France}{}{}
 
-\cventry{1/2023}{\textnormal{Student Research Program, \$1,000}}
+\cventry{1/2023}{\textnormal{\$1,000 Student Research Program Award}}
 {by Augusta University Provost's Office and the Translational Research Program of the Department of Medicine at Medical College of Georgia}
 {for dissertation research}{}{}
 
-\cventry{10/2022}{\textnormal{Travel Award, \$1,000}}
+\cventry{10/2022}{\textnormal{\$1,000 Travel Award}}
 {by The Graduate School at Augusta University}
-{to attend the 50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL'23) conference in Boston, Massachusetts, USA}{}{}
+{to attend the 50th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL'23) conference in Boston MA, USA}{}{}
 
 \cventry{5/2022}{\textnormal{Programming Languages Mentoring Workshop scholarship}}
 {by ACM SIGPLAN}
-{to attend PLMW @ PLDI 2022 and the PLDI'22 conference, in San Diego, California, USA}{}{}
+{to attend PLMW and the Programming Language Design and Implementation (PLDI'22) conference in San Diego CA, USA}{}{}
 
-\cventry{4/2022}{\textnormal{Excellence in Research in Computer \& Cyber Sciences, \$100}}
+\cventry{4/2022}{\textnormal{\$100 Excellence in Research in Computer \& Cyber Sciences}}
 {by The Graduate School at Augusta University}
-{for presentation at Augusta University 37th Annual Graduate Research Day}{}{}
+{for presentation at Augusta University's 37th Annual Graduate Research Day in Augusta GA, USA}{}{}
 
-\cventry{12/2021}{\textnormal{VMCAI 2022 Student Travel Fellowship, \$1,500}}
-{by VMCAI'22 organizers}
-{to attend the Verification, Model Checking, and Abstract Interpretation (VMCAI'22) conference in Philadelphia, Pennsylvania, USA}{}{}
+\cventry{12/2021}{\textnormal{\$1,500 VMCAI 2022 Student Travel Fellowship}}
+{by VMCAI 2022 organizers}
+{to attend the Verification, Model Checking, and Abstract Interpretation (VMCAI'22) conference in Philadelphia PA, USA}{}{}
 
-\cventry{11/2021}{\textnormal{Travel Award, \$1,000}}
+\cventry{11/2021}{\textnormal{\$1,000 Travel Award}}
 {by The Graduate School at Augusta University}
 {to attend Laboratoire d'Informatique de Paris Nord (LIPN) seminar in Paris, France}{}{}
 
 \cventry{8/2015}{\textnormal{Grace Hopper Scholarship}}
 {by Georgia Institute of Technology}
-{to attend Grace Hopper Celebration of Women in Computing (GHC'15) conference in Houston, Texas, USA}{}{}
+{to attend Grace Hopper Celebration of Women in Computing (GHC'15) conference in Houston TX, USA}{}{}
 
 \cventry{4/2014}{\textnormal{Outstanding Computer Science Student Award}}
 {by Augusta University}
 {for academic excellence, awarded annually to one graduating student}{}{}
 
-\cventry{2013--2014}{\textnormal{Savannah River Scholars Program (SRSP) Scholarship, \$7,800}}
+\cventry{2013--2014}{\textnormal{\$7,800 Savannah River Scholars Program (SRSP) Scholarship}}
 {by Augusta University and funded by National Science Foundation}
 {}{}{}
-
 
 %----------------------------------------------------------------------------------------
 %	Coursework SECTION
