@@ -6,7 +6,7 @@
     "dev": "npm run copy_public && next dev",
     "start": "next start",
     "copy_public": "rm -rf public && cp -r ../public public",
-    "build": "npm run copy_public && next build && next-sitemap --config next-sitemap.js && next export",
+    "build": "npm run copy_public && next build && next-sitemap --config next-sitemap.js",
     "clean": "rm -rf out && rm -rf .next"
   },
   "devDependencies": {
