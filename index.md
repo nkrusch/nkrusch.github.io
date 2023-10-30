@@ -34,7 +34,7 @@ Artifact Evaluation Committee (AEC)
 
 - 2024: [ICSE](https://conf.researchr.org/committee/icse-2024/icse-2024-artifact-evaluation-artifact-evaluation) and
   [POPL](https://popl24.sigplan.org/committee/POPL-2024-artifact-evaluation-committee) and
-  OOPSLA
+  [OOPSLA](https://2024.splashcon.org/track/splash-2024-oopsla-artifacts)
 
 - 2023:
   [COORDINATION](https://www.discotec.org/2023/coordination#artefact-evaluation-committee) and
