@@ -1,3 +1,8 @@
+- atva:
+    title: "pymwp: A Static Analyzer Determining Polynomial Growth Bounds"
+    url: ./posts/2023-atva
+    where: ATVA'23, International Symposium on Automated Technology for Verification and Analysis
+    when: "2023-10-25"
 - scot:
     title: "mwp-Analysis Improvement and Implementation"
     url: ./posts/2023-scot

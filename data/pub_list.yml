@@ -6,8 +6,7 @@
       author: "Clément Aubert, Thomas Rubiano, Neea Rusch, and Thomas Seiller"
       links:
         preprint: https://hal.science/hal-03269121v4/document
-#        slides:
-#        artifact: https://zenodo.org/records/7908484
+        slides: /files/atva_slides.pdf
         tool_guide: https://statycc.github.io/.github/pymwp/
 
 - vmcai:
