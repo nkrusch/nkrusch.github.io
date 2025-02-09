@@ -12,37 +12,33 @@ jobs:
     name: deploy
     if: ${{ vars.BUILD == 1 }}
     runs-on: ubuntu-latest
-#    defaults:
-#      run:
-#        working-directory: ./site
     steps:
-
-      - uses: actions/setup-node@v4
+      - name: 🟨 Prepare Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
-
       - name: ✴️️ Checkout target
         uses: actions/checkout@v4
         with:
           token:  ${{ secrets.PAT }}
           repository: ${{ vars.SOURCE_REPO }}
           ref: ${{ vars.SOURCE_BRANCH }}
-
-      - uses: actions/cache@v4
+      - name: 🗄️ Cache files
+        uses: actions/cache@v4
         with:
           path: ${{ github.workspace }}/.next/cache
           key: ${{ runner.os }}-nextjs-v3-${{ hashFiles('**/package-lock.json') }}
-
-      - run: |
+      - name: 🏗️ Build website
+        run: |
           export SITE_URL=${{ vars.SITE_URL }}
           (cd site && npm ci && npm run build)
           touch ./site/out/.nojekyll
           rm -rf ./site/out/dissertation
           mv site/out out
           rm -rf .github cv data img posts public .gitignore index.md Makefile site
-          mv out/* . && rm out
-
-      - name: Commit
+          mv out/* . 
+          rm -rf out
+      - name: 🚀 Commit
         run: |  # https://stackoverflow.com/a/13102849/
           git config user.name "GitHub Actions"
           git config user.email "<>"
