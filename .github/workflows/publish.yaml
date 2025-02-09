@@ -46,6 +46,8 @@ jobs:
     needs: build
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: ⬇️ Download artifact
         uses: actions/download-artifact@v4
         with:
@@ -58,6 +60,8 @@ jobs:
           git checkout --orphan newBranch
           git add -A
           git commit -m "Update website"
+      - name: 🚀 Push
+        run: |          
           git branch -D ${{ vars.OUTPUT_BRANCH }}
           git branch -m ${{ vars.OUTPUT_BRANCH }}
           git push -f origin ${{ vars.OUTPUT_BRANCH }}
