@@ -61,8 +61,11 @@ jobs:
           git add -A
           git commit -m "Update website"
       - name: 🚀 Push
-        run: |          
-          git branch -D ${{ vars.OUTPUT_BRANCH }}
+        run: |
+          if [ `git rev-parse --verify ${{ vars.OUTPUT_BRANCH }} 2>/dev/null` ]
+          then
+            git branch -D ${{ vars.OUTPUT_BRANCH }}
+          fi          
           git branch -m ${{ vars.OUTPUT_BRANCH }}
           git push -f origin ${{ vars.OUTPUT_BRANCH }}
           git gc --aggressive --prune=all
