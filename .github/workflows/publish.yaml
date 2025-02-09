@@ -1,9 +1,14 @@
 name: Publish
+
 on:
+  schedule:
+    # <min> <hr> <day> <mth> <weekday> => nightly
+    - cron: '0 0 * * *'
   push:
     branches: [ main ]
   workflow_dispatch:
     branches: [ main ]
+
 permissions:
   contents: write
 
@@ -53,6 +58,9 @@ jobs:
         with:
           name: website
           path: ${{ vars.OUTPUT_PATH }}
+      - name: 🗑️ Remove main files
+        run: | 
+          rm -rf .github
       - name: 🚀 Commit
         run: |  
           git config user.name "GitHub Actions"
@@ -60,8 +68,6 @@ jobs:
           git checkout --orphan newBranch
           git add -A
           git commit -m "Update website"
-      - name: 🚀 Push
-        run: |
           if [ `git rev-parse --verify ${{ vars.OUTPUT_BRANCH }} 2>/dev/null` ]
           then
             git branch -D ${{ vars.OUTPUT_BRANCH }}
