@@ -36,8 +36,7 @@ jobs:
       - name: 🏗️ Build website
         run: |
           export SITE_URL=${{ vars.SITE_URL }}
-          (cd site && npm ci && npm run build)
-          touch ./site/out/.nojekyll
+          (cd site && npm ci && npm run build)          
           rm -rf ./site/out/dissertation
       - name: 📦 Upload artifact
         uses: actions/upload-artifact@v4
@@ -58,9 +57,10 @@ jobs:
         with:
           name: website
           path: ${{ vars.OUTPUT_PATH }}
-      - name: 🗑️ Remove main files
+      - name: 💅 Custom touches
         run: | 
           rm -rf .github
+          touch .nojekyll
       - name: 🚀 Commit
         run: |  
           git config user.name "GitHub Actions"
