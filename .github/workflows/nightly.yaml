@@ -17,7 +17,7 @@ jobs:
     if: ${{ vars.BUILD == 1 }}
     runs-on: ubuntu-latest
     steps:
-      - uses: uses: actions/setup-node@v6
+      - uses: actions/setup-node@v6
         with:
           node-version: latest
       - uses: actions/checkout@v6
