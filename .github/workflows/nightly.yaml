@@ -28,7 +28,8 @@ jobs:
         with:
           path: ${{ github.workspace }}/.next/cache
           key: ${{ runner.os }}-nextjs-v3-${{ hashFiles('**/package-lock.json') }}
-      - run: export SITE_URL=${{ vars.SITE_URL }} && cd site && npm ci && npm run build      
+      - run: export SITE_URL=${{ vars.SITE_URL }} && cd site && npm ci && npm run build 
+      - run: cd site/out && rm -rf _headers _redirects guides writings
       - uses: actions/upload-artifact@v6
         with:
           name: website
@@ -44,9 +45,7 @@ jobs:
         with:
           name: website
           path: ${{ vars.OUTPUT_PATH }}
-      - run: | 
-          rm -rf .github _headers _redirects
-          touch .nojekyll
+      - run: rm -rf .github && touch .nojekyll
       - run: |  
           git config user.name "GitHub Actions"
           git config user.email "<>"
