@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Neea
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5FC53010-3389-4F8E-BC27-1D7AE55A7C99
+DTSTART:20250815T140000Z
+DTEND:20250815T170000Z
+TRANSP:TRANSPARENT
+SUMMARY:Neea's Dissertation Defense
+DESCRIPTION:The event takes place in Augusta, Georgia.\nhttps://nkrusch.github.io/dissertation/announcement\n\nJoin Zoom Meeting\nhttps://augusta-edu.zoom.us/j/97369163776\n\nTime in some other locations:\n\nSydney: August 16 at 12:00 midnight\nTokyo: August 15 at 11:00 pm\nHelsinki: August 15 at 17:00\nParis: August 15 at 16:00\nLondon: August 15 at 15:00\nLos Angeles: August 15 at 7:00 am
+LOCATION:Augusta
+URL;VALUE=URI:https://nkrusch.github.io/dissertation/announcement
+DTSTAMP:20250815T140000Z
+END:VEVENT
+END:VCALENDAR

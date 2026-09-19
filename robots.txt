@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /types22_paper.pdf
+Disallow: /types22_slides.pdf
+Disallow: /files/types_paper.pdf
+Disallow: /files/types_slides.pdf
+Disallow: /exam_doc.pdf
+Disallow: /exam_slides.pdf
+Disallow: /grd_poster.pdf
+Disallow: /posts/[id]
+Disallow: /dissertation/*
